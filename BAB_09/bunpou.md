@@ -67,7 +67,7 @@ Tiga pola tentang mengajak orang lain melakukan sesuatu bersama, dan menawarkan 
 A：こんど の 日曜日、いっしょに かいもの に **行きませんか**。(Maukah pergi belanja bareng hari Minggu nanti?)
 B：いいですね。行きましょう。(Baiklah. Mari pergi.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 一緒に 映画 を **見ませんか**。(Maukah nonton film bareng?)
 - 今度、日本語 を **勉強しませんか**。(Maukah belajar bahasa Jepang bareng nanti?)
 
@@ -82,7 +82,7 @@ B：いいですね。行きましょう。(Baiklah. Mari pergi.)
 A：そろそろ 帰りましょう。(Sudah saatnya, mari kita pulang.)
 B：そう、しましょう。(Mari.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - もう 遅い です から、寝ましょう。(Sudah larut, ayo tidur.)
 - 一緒に 勉強しましょう。(Ayo belajar bareng.)
 
@@ -99,7 +99,7 @@ B：そう、しましょう。(Mari.)
 A：その かばん を **持ちましょうか**。(Bagaimana kalau saya bawakan tas itu?)
 B：すみません、おねがいします。(Maaf merepotkan, tolong ya.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 窓 を **開けましょうか**。(Mau saya bukakan jendelanya?)
 - 手伝いましょうか。(Mau saya bantu?)
 
@@ -121,7 +121,7 @@ Empat pola tentang cara melakukan sesuatu sambil melakukan hal lain, cara/metode
 A：テレビ を **見ながら**、何 を しますか。(Sambil nonton TV, melakukan apa?)
 B：テレビ を 見ながら、ラーメン を 食べる。(Sambil nonton TV, saya makan ramen.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 音楽 を **聞きながら**、勉強します。(Sambil dengar musik, saya belajar.)
 - 歌を **歌いながら**、料理します。(Sambil bernyanyi, saya memasak.)
 
@@ -136,7 +136,7 @@ B：テレビ を 見ながら、ラーメン を 食べる。(Sambil nonton TV,
 A：すみません、この かんじ の **おぼえかた** を おしえて ください。(Maaf, tolong ajari saya cara menghafal kanji ini.)
 B：ええ、いい ですよ。(Boleh dong.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - この りょうり の **つくりかた** を おしえて ください。(Tolong ajari cara membuat masakan ini.) — dari 作ります → STEM 作り
 - 漢字 の **かきかた** が わかりません。(Saya tidak tahu cara menulis kanji.) — dari 書きます → STEM 書き
 
@@ -151,7 +151,7 @@ B：ええ、いい ですよ。(Boleh dong.)
 A：あした しけん です から、ちゃんと **べんきょうしなさい**！(Karena besok tes, belajarlah dengan baik!)
 B：はい、先生！(Baik, sensei!)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 早く **寝なさい**。(Cepat tidur!) — dari 寝ます → STEM 寝
 - 野菜 も **食べなさい**。(Sayurnya juga dimakan!) — dari 食べます → STEM 食べ
 
@@ -166,7 +166,7 @@ B：はい、先生！(Baik, sensei!)
 この そうじき は **使いやすくて**、べんり です。(Vakum cleaner ini mudah dipakai, praktis.)
 この くすり は **飲みやすい** です。(Obat ini mudah diminum.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - この 本 は **読みやすい** です。(Buku ini mudah dibaca.)
 - この 漢字 は **覚えやすい** です。(Kanji ini mudah dihafal.)
 
@@ -181,7 +181,7 @@ B：はい、先生！(Baik, sensei!)
 この漢字 は **読みにくい** です ね。(Kanji ini sulit dibaca ya.)
 この そうじき は ふべんで、**使いにくい** です。(Vakum cleaner ini ribet dan susah dipakai.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - この 問題 は **わかりにくい** です。(Soal ini susah dipahami.)
 - この 道 は **走りにくい** です。(Jalan ini susah untuk dilalui berlari.)
 
@@ -200,7 +200,7 @@ Empat pola tentang menyatakan "ingin" — dua untuk kata benda (ほしい), dua 
 A：おみやげ、何 が ほしい？(Oleh-olehnya, ingin apa?)
 B：おもちゃ が ほしい よ。(Mau mainan.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 新しい かばん が ほしい です。(Saya ingin tas baru.)
 - 誕生日 に 時計 が ほしい です。(Saat ulang tahun saya ingin jam tangan.)
 
@@ -215,7 +215,7 @@ B：おもちゃ が ほしい よ。(Mau mainan.)
 A：車 が ほしいですか。(Apakah ingin mobil?)
 B：いいえ、車 は ほしくない です。(Tidak, saya tidak ingin mobil.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - お金 は ほしくない です。(Saya tidak ingin uang.)
 - 新しい スマホ は ほしくない です。(Saya tidak ingin smartphone baru.)
 
@@ -230,7 +230,7 @@ B：いいえ、車 は ほしくない です。(Tidak, saya tidak ingin mobil.
 A：何 が **食べたい** です か。(Ingin makan apa?)
 B：え〜と、ラーメン が 食べたい です。(Hmm, saya ingin makan ramen.) — dari 食べます → STEM 食べ
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 日本 に **行きたい** です。(Saya ingin pergi ke Jepang.) — dari 行きます → STEM 行き
 - 富士山 に **登りたい** です。(Saya ingin mendaki Gunung Fuji.) — dari 登ります → STEM 登り
 
@@ -245,7 +245,7 @@ B：え〜と、ラーメン が 食べたい です。(Hmm, saya ingin makan ra
 A：この なっとう は **食べたくない** です か。(Apakah tidak ingin makan natto ini?)
 B：ええ、すみません。にがて です から。(Iya, maaf. Karena saya tidak suka.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 今日 は **勉強したくない** です。(Hari ini saya tidak ingin belajar.)
 - 一人 で **行きたくない** です。(Saya tidak ingin pergi sendirian.)
 
@@ -266,7 +266,7 @@ Empat pola penutup Bab 9 yang TIDAK memakai STEM — ini pola berdiri sendiri ya
 ひろば で まつり が あります。(Di lapangan ada perayaan.)
 としょかん で べんきょうかい が あります。(Di perpustakaan ada belajar kelompok.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 公園 で 夏祭り が あります。(Di taman ada perayaan musim panas.)
 - 学校 で 試合 が あります。(Di sekolah ada pertandingan.)
 
@@ -283,7 +283,7 @@ B：…うん。(...Ya.)
 A：これ、あらった の？(Ini sudah dicuci?)
 B：まだ です よ。(Belum.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 明日、来る の？(Besok datang?)
 - もう 食べた の？(Sudah makan?)
 
@@ -298,7 +298,7 @@ B：まだ です よ。(Belum.)
 おなか が すいた けど、何も ない。(Lapar tapi tidak ada apapun.)
 本日 は 忙しい です けれど、昨日 より あまり 忙しくない です。(Hari ini sibuk, tapi daripada kemarin, tidak begitu sibuk.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 疲れた けど、まだ 頑張ります。(Capek, tapi masih akan berusaha.)
 - 難しい けど、面白い です。(Sulit, tapi menarik.)
 
@@ -316,7 +316,7 @@ B：まだ です よ。(Belum.)
 A：時間 が ないよ！(Sudah tidak ada waktu!)
 B：じゃ、タクシー で 行きましょう！(Kalau begitu, mari pergi dengan taksi!)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - じゃ、また 明日。(Kalau begitu, sampai besok.)
 - それでは、始めましょう。(Kalau begitu, mari kita mulai.)
 
@@ -328,9 +328,9 @@ B：じゃ、タクシー で 行きましょう！(Kalau begitu, mari pergi den
 
 | Grup | Fungsi Utama | Pola |
 |---|---|---|
-| A | STEM + kata kerja gerak (tujuan bepergian) | 124 |
-| B | STEM + ajakan & tawaran bantuan | 125, 126, 127 |
-| C | STEM + cara melakukan & tingkat kesulitan | 128, 129, 130, 131, 132 |
+| A | **STEM** + kata kerja gerak (tujuan bepergian) | 124 |
+| B | **STEM** + ajakan & tawaran bantuan | 125, 126, 127 |
+| C | **STEM** + cara melakukan & tingkat kesulitan | 128, 129, 130, 131, 132 |
 | D | Menyatakan keinginan (ほしい untuk KB, たい untuk KK) | 133, 134, 135, 136 |
 | E | Acara, kalimat tanya biasa & penghubung kontras/lanjutan | 137, 138, 139, 140 |
 

@@ -41,7 +41,7 @@ B：父 の です。(Milik ayah.)
 A：これ は 何 です か。(Ini apa?)
 B：それ は 母 の 本 です。(Itu buku milik ibu.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - A：あれ は 何 です か。(Itu (yang jauh) apa?)
 - B：あれ は 学校 です。(Itu sekolah.)
 - これ は 私 の スマホ です。(Ini smartphone saya.)
@@ -58,7 +58,7 @@ B：それ は 母 の 本 です。(Itu buku milik ibu.)
 A：このネクタイ は だれ の です か。(Dasi ini punya siapa?)
 B：私 の です。(Punya saya.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - A：この 鞄 は だれ の です か。(Tas ini punya siapa?)
 - B：妹 の です。(Punya adik perempuan saya.)
 - その 辞書 は 先生 の です か。(Kamus itu punya guru?)
@@ -81,7 +81,7 @@ Dua pola ini dipakai kalau ada BANYAK pilihan (bukan cuma 2), buat nanya "yang m
 A：おとうさん の 本 は どれ です か。(Buku milik ayah, yang mana?)
 B：あれ です。(Itu.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - A：先生 の かばん は どれ です か。(Tas milik guru, yang mana?)
 - B：それ です。(Itu.)
 - A：あなた の じしょ は どれ です か。
@@ -98,7 +98,7 @@ B：あれ です。(Itu.)
 A：たなかさん は どの人 です か。(Tuan Tanaka, orangnya yang mana?)
 B：あの人 です。(Orang itu.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - A：先生 は どの人 です か。(Guru, orangnya yang mana?)
 - B：あの 男の人 です。(Orang laki-laki itu.)
 - A：あなた の おかあさん は どの人 です か。
@@ -119,7 +119,7 @@ Tiga pola penutup Bab 2: cara nanya istilah dalam bahasa asing, cara sebut jumla
 A：これ は 日本語 で、何 と いいます か。(Ini dalam bahasa Jepang, disebut apa?)
 B：それ は 日本語 で、「かさ」 です。(Itu dalam bahasa Jepang adalah "kasa".)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - A：これ は 英語 で、何 と いいます か。(Ini dalam bahasa Inggris disebut apa?)
 - B：それ は 英語 で「Book」です。
 - A：この 車 は インドネシア語 で 何 と いいます か。
@@ -137,7 +137,7 @@ B：それ は 日本語 で、「かさ」 です。(Itu dalam bahasa Jepang ad
 A：あなた の かぞく は なんにん です か。(Keluarga Anda ada berapa orang?)
 B：３人 です。(3 orang.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 私 の かぞく は ４人 です。父 と 母 と 兄 と 私 です。(Keluarga saya 4 orang. Ayah, ibu, kakak laki-laki, dan saya.)
 - A：きょうしつ に なんにん います か。(Di kelas ada berapa orang?)
 - B：十人 います。(Ada 10 orang.)
@@ -157,7 +157,7 @@ B：いいえ、日本人 じゃない です。(Bukan, bukan orang Jepang.)
 A：あの方 は どちら の かた です か。(Orang itu berasal dari negara mana?)
 B：中国 の かた です。(Orang dari China.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 私 は インドネシア人 です。(Saya orang Indonesia.)
 - A：お母さん は 韓国人 です か。(Ibu Anda orang Korea?)
 - B：いいえ、韓国人 じゃない です。インドネシア人 です。
