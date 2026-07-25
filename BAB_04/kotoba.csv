@@ -1,0 +1,168 @@
+KATEGORI,KANA,KANJI,ARTI
+KATA KERJA GOL. 1 (GODAN),もらいます,貰います,Menerima
+KATA KERJA GOL. 1 (GODAN),あります,有ります,Ada (benda mati)
+KATA KERJA GOL. 2 (ICHIDAN),います,居ます,Ada (benda hidup)
+KATA KERJA GOL. 2 (ICHIDAN),あげます,上げます,Memberikan
+KATA KERJA GOL. 2 (ICHIDAN),くれます,呉れます,Memberikan
+KATA KERJA GOL. 3 (FUKISOKU),します,為ます,Melakukan
+KELUARGA & HUBUNGAN SOSIAL,いま,居間,Ruang keluarga
+KELUARGA & HUBUNGAN SOSIAL,リビング,,Ruang keluarga
+PROFESI & PEKERJAAN,だいがくせい,大学生,Mahasiswa
+PROFESI & PEKERJAAN,こうちょう,校長,Kepala sekolah
+PROFESI & PEKERJAAN,ふくこうちょう,副校長,Wakil kepala sekolah
+PROFESI & PEKERJAAN,かちょう,課長,Kepala bagian
+PROFESI & PEKERJAAN,ぶちょう,部長,Menejer
+PROFESI & PEKERJAAN,しゃちょう,社長,Pimpinan perusahaan
+PROFESI & PEKERJAAN,かかりちょう,係長,Kepala seksi
+PROFESI & PEKERJAAN,うけつけ,受付,Resepsionis
+PROFESI & PEKERJAAN,おきゃくさま,お客様,Pelanggan
+PROFESI & PEKERJAAN,うんてんしゅ,運転手,Supir
+PROFESI & PEKERJAAN,てんいん,店員,Pegawai toko
+PROFESI & PEKERJAAN,かんりにん,管理人,Pengelola
+"""TEMPAT, BANGUNAN & FASILITAS""",こうじょう,工場,Pabrik
+"""TEMPAT, BANGUNAN & FASILITAS""",そうこ,倉庫,Gudang
+INFRASTRUKTUR & TATA KOTA,はし,橋,Jembatan
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",リンゴジュース,林檎ジュース,Jus apel
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",オレンジジュース,,Jus jeruk
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",トマトジュース,,Jus tomat
+MAKANAN (UMUM & OLAHAN),たまごやき,卵焼き,Telur dadar
+MAKANAN (UMUM & OLAHAN),すいはんき,炊飯器,Penanak nasi
+MAKANAN (UMUM & OLAHAN),たまご,卵,Telur
+MAKANAN (UMUM & OLAHAN),ゆでたまご,茹で卵,Telur rebus
+MAKANAN (UMUM & OLAHAN),おすし,お寿司,Sushi
+MAKANAN (UMUM & OLAHAN),さしみ,刺身,Sashimi
+MAKANAN (UMUM & OLAHAN),あめ,飴,Permen
+MAKANAN (UMUM & OLAHAN),ぎゅうどん,牛丼,Gyuudon
+MAKANAN (UMUM & OLAHAN),パン,,Roti
+MINUMAN,ぎゅうにゅう,牛乳,Susu
+MINUMAN,ミルク,,Susu
+MINUMAN,アボカドジュース,,Jus alpukat
+MINUMAN,アイスコーヒー,,Es kopi
+HEWAN & BINATANG,ねこ,猫,Kucing
+HEWAN & BINATANG,いぬ,犬,Anjing
+HEWAN & BINATANG,とり,鳥,Burung
+PAKAIAN & AKSESORIS,にもつ,荷物,Barang bawaan
+PAKAIAN & AKSESORIS,てぶくろ,手袋,Sarung tangan
+ALAT TULIS & PERLENGKAPAN KANTOR,はがき,葉書,Kartu pos
+ALAT TULIS & PERLENGKAPAN KANTOR,にっき,日記,Catatan harian
+ALAT TULIS & PERLENGKAPAN KANTOR,ほんだな,本棚,Lemari buku
+ALAT TULIS & PERLENGKAPAN KANTOR,はさみ,鋏,Gunting
+ALAT ELEKTRONIK & MESIN,コピーき,コピー機,Mesin fotokopi
+ALAT ELEKTRONIK & MESIN,れいぞうこ,冷蔵庫,Kulkas
+ALAT ELEKTRONIK & MESIN,でんわ,電話,Telepon
+ALAT ELEKTRONIK & MESIN,でんしレンジ,電子レンジ,Microwave
+ALAT ELEKTRONIK & MESIN,ファックス,,Mesin FAX
+ALAT ELEKTRONIK & MESIN,ストーブ,,Stobu
+ALAT ELEKTRONIK & MESIN,ガスコンロ,,Kompor
+ALAT ELEKTRONIK & MESIN,エアコン,,AC
+FURNITUR & PERALATAN RUMAH,つくえ,机,Meja
+FURNITUR & PERALATAN RUMAH,はこ,箱,Kotak
+FURNITUR & PERALATAN RUMAH,かご,籠,Keranjang
+FURNITUR & PERALATAN RUMAH,いす,椅子,Kursi
+FURNITUR & PERALATAN RUMAH,たな,棚,Lemari
+FURNITUR & PERALATAN RUMAH,まくら,枕,Bantal
+FURNITUR & PERALATAN RUMAH,ふくろ,袋,Kantong
+FURNITUR & PERALATAN RUMAH,ふとん,布団,Futon
+FURNITUR & PERALATAN RUMAH,ソファ,,Sofa
+FURNITUR & PERALATAN RUMAH,ゴミ,,Sampah
+FURNITUR & PERALATAN RUMAH,テーブル,,Meja
+KENDARAAN & TRANSPORTASI,ちゅうしゃじょう,駐車場,Parkir mobil
+KENDARAAN & TRANSPORTASI,ちゅうりんじょう,駐輪場,Parkir sepeda
+MEREK & PERUSAHAAN,コーラ,,Coca cola
+SENI & ESTETIKA,しゃしん,写真,Foto
+PENDIDIKAN & AKADEMIK,しけん,試験,Ujian
+ACARA & PERAYAAN,ねんがじょう,年賀状,Ucapan tahun baru
+ANGKA DASAR (1 - 10),いち,一,1
+ANGKA DASAR (1 - 10),に,二,2
+ANGKA DASAR (1 - 10),さん,三,3
+ANGKA DASAR (1 - 10),よん,四,4
+ANGKA DASAR (1 - 10),ご,五,5
+ANGKA DASAR (1 - 10),ろく,六,6
+ANGKA DASAR (1 - 10),なな,七,7
+ANGKA DASAR (1 - 10),はち,八,8
+ANGKA DASAR (1 - 10),きゅう,九,9
+ANGKA DASAR (1 - 10),じゅう,十,10
+ANGKA BELASAN & PULUHAN,じゅういち,十一,11
+ANGKA BELASAN & PULUHAN,じゅうに,十二,12
+ANGKA BELASAN & PULUHAN,じゅうさん,十三,13
+ANGKA BELASAN & PULUHAN,じゅうよん,十四,14
+ANGKA BELASAN & PULUHAN,じゅうご,十五,15
+ANGKA BELASAN & PULUHAN,にじゅう,二十,20
+ANGKA BELASAN & PULUHAN,さんじゅう,三十,30
+ANGKA BELASAN & PULUHAN,よんじゅう,四十,40
+ANGKA BELASAN & PULUHAN,はちじゅう,八十,80
+ANGKA BELASAN & PULUHAN,きゅうじゅうきゅう,九十九,99
+ANGKA RATUSAN (~HYAKU),ひゃく,百,100
+ANGKA RATUSAN (~HYAKU),にひゃく,二百,200
+ANGKA RATUSAN (~HYAKU),さんびゃく,三百,300
+ANGKA RATUSAN (~HYAKU),よんひゃく,四百,400
+ANGKA RATUSAN (~HYAKU),ごひゃく,五百,500
+ANGKA RATUSAN (~HYAKU),ろっぴゃく,六百,600
+ANGKA RATUSAN (~HYAKU),ななひゃく,七百,700
+ANGKA RATUSAN (~HYAKU),はっぴゃく,八百,800
+ANGKA RATUSAN (~HYAKU),きゅうひゃく,九百,900
+ANGKA RIBUAN (~SEN),せん,千,1000
+ANGKA RIBUAN (~SEN),にせん,二千,2000
+ANGKA RIBUAN (~SEN),さんぜん,三千,3000
+ANGKA RIBUAN (~SEN),よんせん,四千,4000
+ANGKA RIBUAN (~SEN),ごせん,五千,5000
+ANGKA RIBUAN (~SEN),ろくせん,六千,6000
+ANGKA RIBUAN (~SEN),ななせん,七千,7000
+ANGKA RIBUAN (~SEN),はっせん,八千,8000
+ANGKA RIBUAN (~SEN),きゅうせん,九千,9000
+ANGKA PULUHAN RIBU & BESAR,まん,万,10000
+ANGKA PULUHAN RIBU & BESAR,いちまん,一万,10000
+ANGKA PULUHAN RIBU & BESAR,おく,億,100000000
+SATUAN BENDA UMUM (~TSU),ひとつ,一つ,1つ
+SATUAN BENDA UMUM (~TSU),ふたつ,二つ,2つ
+SATUAN BENDA UMUM (~TSU),みっつ,三つ,3つ
+SATUAN BENDA UMUM (~TSU),よっつ,四つ,4つ
+SATUAN BENDA UMUM (~TSU),いつつ,五つ,5つ
+SATUAN BENDA UMUM (~TSU),むっつ,六つ,6つ
+SATUAN BENDA UMUM (~TSU),ななつ,七つ,7つ
+SATUAN BENDA UMUM (~TSU),やっつ,八つ,8つ
+SATUAN BENDA UMUM (~TSU),ここのつ,九つ,9つ
+SATUAN BENDA UMUM (~TSU),とお,十,10つ
+SATUAN TINGKAT / LANTAI (~KAI),いっかい,一階,Lantai 1
+SATUAN TINGKAT / LANTAI (~KAI),にかい,二階,Lantai 2
+SATUAN TINGKAT / LANTAI (~KAI),さんがい,三階,Lantai 3
+SATUAN TINGKAT / LANTAI (~KAI),よんかい,四階,Lantai 4
+SATUAN TINGKAT / LANTAI (~KAI),ごかい,五階,Lantai 5
+SATUAN TINGKAT / LANTAI (~KAI),ろっかい,六階,Lantai 6
+SATUAN TINGKAT / LANTAI (~KAI),ななかい,七階,Lantai 7
+SATUAN TINGKAT / LANTAI (~KAI),はっかい,八階,Lantai 8
+SATUAN TINGKAT / LANTAI (~KAI),きゅうかい,九階,Lantai 9
+SATUAN TINGKAT / LANTAI (~KAI),じゅっかい,十階,Lantai 10
+ANGKA PECAHAN & DESIMAL,にてんご,二点五,2.5
+ANGKA PECAHAN & DESIMAL,さんぶんのに,三分の二,2 / 3 (Dua pertiga)
+KATA TANYA (GIMONSHI),なんがい？,何階？,Lantai berapa?
+KATA TANYA (GIMONSHI),いくつ？,幾つ？,Berapa banyak?
+ARAH & POSISI SPASIAL,ひがし,東,Timur
+ARAH & POSISI SPASIAL,にし,西,Barat
+ARAH & POSISI SPASIAL,きた,北,Utara
+ARAH & POSISI SPASIAL,みなみ,南,Selatan
+PARTIKEL & UNGKAPAN SALAM,〜ていしょく,〜定食,Menu paket ~
+PARTIKEL & UNGKAPAN SALAM,〜えん,〜円,〜円
+KOSAKATA SERAPAN (KATAKANA),カレー(ライス),,Kare
+KOSAKATA SERAPAN (KATAKANA),ホチキス,,Stapler
+KOSAKATA SERAPAN (KATAKANA),ペンチ,,Tang
+KOSAKATA SERAPAN (KATAKANA),テスト,,Tes
+KOSAKATA SERAPAN (KATAKANA),プレゼント,,Hadiah
+KOSAKATA SERAPAN (KATAKANA),スパナ,,Kuncing pas / kunci pas
+KOSAKATA SERAPAN (KATAKANA),スタッフ,,Staff
+KOSAKATA SERAPAN (KATAKANA),ハンバーガー,,Hamburger
+KOSAKATA SERAPAN (KATAKANA),ドライバー,,Obeng
+BANGUNAN & RUANGAN,とけい,時計,Jam dinding
+BANGUNAN & RUANGAN,おてあらい,お手洗い,Toilet
+BANGUNAN & RUANGAN,いえ,家,Rumah
+BANGUNAN & RUANGAN,ごみばこ,ゴミ箱,Tempat sampah
+BANGUNAN & RUANGAN,うち,家,Rumah
+BANGUNAN & RUANGAN,きょうしつ,教室,Ruang kelas
+BANGUNAN & RUANGAN,かいぎしつ,会議室,Ruang rapat
+BANGUNAN & RUANGAN,へや,部屋,Kamar
+BANGUNAN & RUANGAN,じむしょ,事務所,Ruang kantor
+BANGUNAN & RUANGAN,だいどころ,台所,Dapur
+BANGUNAN & RUANGAN,げんかん,玄関,Teras rumah
+BANGUNAN & RUANGAN,クラス,,Ruang kelas
+BANGUNAN & RUANGAN,キッチン,,Dapur
+ALAM & LINGKUNGAN,せんぷうき,扇風機,Kipas angin

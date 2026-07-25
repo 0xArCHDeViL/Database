@@ -1,0 +1,106 @@
+KATEGORI,KANA,KANJI,ARTI
+KATA GANTI ORANG & SUBJEK,ひとり,一人,1 orang
+KATA GANTI ORANG & SUBJEK,ふたり,二人,2 orang
+KATA GANTI ORANG & SUBJEK,さんにん,三人,3 orang
+KATA GANTI ORANG & SUBJEK,よにん,四人,4 orang
+KATA GANTI ORANG & SUBJEK,ごにん,五人,5 orang
+KATA GANTI ORANG & SUBJEK,ろくにん,六人,6 orang
+KATA GANTI ORANG & SUBJEK,しちにん,七人,7 orang
+KATA GANTI ORANG & SUBJEK,はちにん,八人,8 orang
+KATA GANTI ORANG & SUBJEK,きゅうにん,九人,9 orang
+KATA GANTI ORANG & SUBJEK,じゅうにん,十人,10 orang
+KATA GANTI ORANG & SUBJEK,あいつ,彼奴,Orang itu *)
+KATA GANTI ORANG & SUBJEK,こいつ,此奴,Orang ini *)
+KATA GANTI ORANG & SUBJEK,ひと,人,Orang
+KATA GANTI ORANG & SUBJEK,おとこのひと,男の人,Orang laki-laki
+KATA GANTI ORANG & SUBJEK,おんなのひと,女の人,Orang perempuan
+KATA GANTI ORANG & SUBJEK,あいつら,彼奴等,Mereka *)
+KATA GANTI ORANG & SUBJEK,おにいさん,お兄さん,Kakak laki-laki (orang)
+KATA GANTI ORANG & SUBJEK,おねえさん,お姉さん,Kakak perempuan (orang)
+KATA GANTI ORANG & SUBJEK,むすこさん,息子さん,Anak laki-laki (orang)
+KATA GANTI ORANG & SUBJEK,おとうとさん,弟さん,Adik laki-laki (orang)
+KATA GANTI ORANG & SUBJEK,いもうとさん,妹さん,Adik perempuan (orang)
+KATA GANTI ORANG & SUBJEK,むすめさん,娘さん,Anak perempuan (orang)
+KATA GANTI ORANG & SUBJEK,なんにん,何人,Berapa orang?
+KELUARGA & HUBUNGAN SOSIAL,こ,子,Anak
+KELUARGA & HUBUNGAN SOSIAL,むすこ,息子,Anak laki-laki
+KELUARGA & HUBUNGAN SOSIAL,むすめ,娘,Anak perempuan
+KATEGORI ORANG & GENDER,じょせい,女性,Perempuan
+KATEGORI ORANG & GENDER,だんせい,男性,Laki-laki
+KATEGORI ORANG & GENDER,おとこ,男,Laki-laki
+KATEGORI ORANG & GENDER,おんな,女,Perempuan
+KATEGORI ORANG & GENDER,あかちゃん,赤ちゃん,Bayi
+BAHASA & LINGUISTIK,〜ご,〜語,Bahasa~
+BAHASA & LINGUISTIK,えいご,英語,Bahasa inggris
+BAHASA & LINGUISTIK,ちゅうごくご,中国語,Bahasa mandarin
+BAHASA & LINGUISTIK,インドネシアご,インドネシア語,Bahasa indonesia
+BAHASA & LINGUISTIK,マレーシアご,マレーシア語,Bahasa malaysia
+BAHASA & LINGUISTIK,アラビアご,アラビア語,Bahasa arab
+BAHASA & LINGUISTIK,スンダご,スンダ語,Bahasa sunda
+BAHASA & LINGUISTIK,メラユご,メラユ語,Bahasa melayu
+BAHASA & LINGUISTIK,ジャワご,ジャワ語,Bahasa jawa
+"""TEMPAT, BANGUNAN & FASILITAS""",こうこう,高校,SMA
+"""TEMPAT, BANGUNAN & FASILITAS""",がっこう,学校,Sekolah
+"""TEMPAT, BANGUNAN & FASILITAS""",ちゅうがっこう,中学校,SMP
+"""TEMPAT, BANGUNAN & FASILITAS""",しょうがっこう,小学校,SD
+"""TEMPAT, BANGUNAN & FASILITAS""",せんもんがっこう,専門学校,Sekolah kejuruan
+"""TEMPAT, BANGUNAN & FASILITAS""",だいがく,大学,Universitas
+"""TEMPAT, BANGUNAN & FASILITAS""",かいしゃ,会社,Perusahaan
+"""TEMPAT, BANGUNAN & FASILITAS""",かぶしきがいしゃ,株式会社,PT
+"""TEMPAT, BANGUNAN & FASILITAS""",ようちえん,幼稚園,TK
+PAKAIAN & AKSESORIS,さいふ,財布,Dompet
+PAKAIAN & AKSESORIS,かばん,鞄,Tas
+ALAT TULIS & PERLENGKAPAN KANTOR,ざっし,雑誌,Majalah
+ALAT TULIS & PERLENGKAPAN KANTOR,しょうせつ,小説,Novel
+ALAT TULIS & PERLENGKAPAN KANTOR,えんぴつ,鉛筆,Pensil
+ALAT TULIS & PERLENGKAPAN KANTOR,よみもの,読み物,Buku bacaan
+ALAT TULIS & PERLENGKAPAN KANTOR,きょうかしょ,教科書,Buku pelajaran
+ALAT TULIS & PERLENGKAPAN KANTOR,じしょ,辞書,Kamus
+ALAT TULIS & PERLENGKAPAN KANTOR,じてん,辞典,Kamus
+ALAT TULIS & PERLENGKAPAN KANTOR,でんしじてん,電子辞典,Kamus elektronik
+ALAT TULIS & PERLENGKAPAN KANTOR,こくばん,黒板,Papan tulis
+ALAT TULIS & PERLENGKAPAN KANTOR,しんぶん,新聞,Koran
+ALAT TULIS & PERLENGKAPAN KANTOR,ほん,本,Buku
+ALAT TULIS & PERLENGKAPAN KANTOR,ノート,,Buku catatan
+ALAT TULIS & PERLENGKAPAN KANTOR,ホワイトボード,,Papan tulis
+ALAT TULIS & PERLENGKAPAN KANTOR,けしゴム,消しゴム,Penghapus
+ALAT TULIS & PERLENGKAPAN KANTOR,シャープペンシル,,Pensil mekanik
+ALAT TULIS & PERLENGKAPAN KANTOR,ボールペン,,Pulpen
+ALAT ELEKTRONIK & MESIN,ラジオ,,Radio
+ALAT ELEKTRONIK & MESIN,マウス,,Mouse
+ALAT ELEKTRONIK & MESIN,テレホンカード,,Kartu telepon
+ALAT ELEKTRONIK & MESIN,キーボード,,Papan ketik
+ALAT ELEKTRONIK & MESIN,テレビ,,Televisi
+ALAT ELEKTRONIK & MESIN,スマホ,,Smartphone
+ALAT ELEKTRONIK & MESIN,デジカメ,,Kamera dijital
+ALAT ELEKTRONIK & MESIN,カメラ,,Kamera
+ALAT ELEKTRONIK & MESIN,パソコン,,Laptop
+ALAT ELEKTRONIK & MESIN,モニター,,Monitor
+ALAT ELEKTRONIK & MESIN,コンピューター,,Komputer / PC
+ALAT ELEKTRONIK & MESIN,DVDプレーヤー,,DVD player
+KENDARAAN & TRANSPORTASI,くるま,車,Mobil
+KENDARAAN & TRANSPORTASI,じてんしゃ,自転車,Sepeda
+KENDARAAN & TRANSPORTASI,バイク,,Sepeda motor
+KENDARAAN & TRANSPORTASI,オートバイク,,Sepeda motor
+MEREK & PERUSAHAAN,パナソニック,,Panasonic
+MEREK & PERUSAHAAN,トヨタ,豊田,Toyota
+MEREK & PERUSAHAAN,ホンダ,本田,Honda
+MEREK & PERUSAHAAN,ダイハツ,大発,Daihatsu
+MEREK & PERUSAHAAN,シャオミ,,Xiaomi
+MEREK & PERUSAHAAN,サムスン,,Samsung
+MEREK & PERUSAHAAN,ソニー,,Sony
+"""HIBURAN, HOBI & OLAHRAGA""",えいが,映画,Film
+"""HIBURAN, HOBI & OLAHRAGA""",おんがく,音楽,Musik
+"""HIBURAN, HOBI & OLAHRAGA""",クラシック,,Klasik
+"""HIBURAN, HOBI & OLAHRAGA""",ロマンチック,,Romantis
+"""HIBURAN, HOBI & OLAHRAGA""",ロック,,Rock
+"""HIBURAN, HOBI & OLAHRAGA""",ドラマ,,Drama / sinetron
+"""HIBURAN, HOBI & OLAHRAGA""",ホラー,,Horor
+KATA TANYA (GIMONSHI),なん・なに,何,Apa
+KOSAKATA SERAPAN (KATAKANA),ニッサン,日産,Nissan
+KOSAKATA SERAPAN (KATAKANA),マーカー,,Spidol
+BANGUNAN & RUANGAN,けしょうしつ,化粧室,Kamar kecil
+BANGUNAN & RUANGAN,トイレ,,Toilet
+NEGARA & GEOGRAFI,にほんごがっこう,日本語学校,Sekolah bahasa jepang
+NEGARA & GEOGRAFI,かんこくご,韓国語,Bahasa korea
+NEGARA & GEOGRAFI,にほんご,日本語,Bahasa jepang

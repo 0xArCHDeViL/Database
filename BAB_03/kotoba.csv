@@ -1,0 +1,71 @@
+KATEGORI,KANA,KANJI,ARTI
+KATA KERJA GOL. 1 (GODAN),のみます,飲みます,Minum (tidak minum)
+KATA KERJA GOL. 1 (GODAN),すみません,済みません,Maaf
+KATA KERJA GOL. 2 (ICHIDAN),たべます,食べます,Makan (tidak makan)
+KATA SIFAT -NA (NA-KEIYOUSHI),すき,好き,Suka
+KATA BENDA VERBAL (SURU-MEISHI),ごれんらく,ご連絡,Menghubungi
+KATA BENDA VERBAL (SURU-MEISHI),ごけっこん,ご結婚,Menikah
+KELUARGA & HUBUNGAN SOSIAL,ごかぞく,ご家族,Keluarga
+PROFESI & PEKERJAAN,おしごと,お仕事,Pekerjaan
+MAKANAN (DAGING & SEAFOOD),にく,肉,Daging
+MAKANAN (DAGING & SEAFOOD),〜にく,〜肉,Daging~
+MAKANAN (DAGING & SEAFOOD),ぎゅうにく,牛肉,Daging sapi
+MAKANAN (DAGING & SEAFOOD),ぶたにく,豚肉,Daging babi
+MAKANAN (DAGING & SEAFOOD),とりにく,鶏肉,Daging ayam
+MAKANAN (DAGING & SEAFOOD),さかな,魚,Ikan (hewan air / bahan makanan)
+MAKANAN (DAGING & SEAFOOD),やきとり,焼き鳥,Sate ayam (makanan olahan)
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",はくさい,白菜,Sawi
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",やさい,野菜,Sayuran
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",しょうが,生姜,Jahe
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",ねぎ,葱,Daun bawang
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",たまねぎ,玉葱,Bawang bombai
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",あかたまねぎ,赤玉葱,Bawang merah
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",にんにく,大蒜,Bawang putih
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",とうがらし,唐辛子,Cabai
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",わさび,山葵,Wasabi
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",じゃがいも,じゃが芋,Kentang
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",きゅうり,胡瓜,Timun
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",だいこん,大根,Lobak
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",にんじん,人参,Wortel
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",キャベツ,,Kubis
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",トマト,,Tomat
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",ワイン,,Minuman anggur
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",ピーマン,,Paprika
+MAKANAN (UMUM & OLAHAN),なっとう,納豆,Natto
+MAKANAN (UMUM & OLAHAN),おかし,お菓子,Camilan
+MAKANAN (UMUM & OLAHAN),すし,寿司,Sushi
+MAKANAN (UMUM & OLAHAN),うめぼし,梅干し,Umeboshi
+MAKANAN (UMUM & OLAHAN),たべもの,食べ物,Makanan
+MAKANAN (UMUM & OLAHAN),そば,蕎麦,Mie soba
+MAKANAN (UMUM & OLAHAN),てんぷら,天ぷら,Tempura
+MAKANAN (UMUM & OLAHAN),みそしる,味噌汁,Sup miso
+MAKANAN (UMUM & OLAHAN),うどん,饂飩,Mie udon
+MAKANAN (UMUM & OLAHAN),ごはん,ご飯,Nasi
+MAKANAN (UMUM & OLAHAN),ケーキ,,Kue
+MAKANAN (UMUM & OLAHAN),カレーライス,,Nasi kare
+MAKANAN (UMUM & OLAHAN),ヨーグルト,,Yogurt
+MAKANAN (UMUM & OLAHAN),スープ,,Sup
+MAKANAN (UMUM & OLAHAN),アイスクリーム,,Es krim
+MAKANAN (UMUM & OLAHAN),ラーメン,拉麺,Mie ramen
+MINUMAN,おさけ,お酒,Alkohol
+MINUMAN,みず,水,Air putih
+MINUMAN,のみもの,飲み物,Minuman
+MINUMAN,こうちゃ,紅茶,Teh hitam
+MINUMAN,おちゃ,お茶,Teh
+MINUMAN,りょくちゃ,緑茶,Teh hijau jepang
+MINUMAN,ウーロンちゃ,烏龍茶,Teh ulong
+MINUMAN,ソフトドリンク,,Minuman ringan
+MINUMAN,ジュース,,Jus
+MINUMAN,ビール,,Bir
+MINUMAN,コーヒー,珈琲,Kopi
+ALAT MAKAN & DAPUR,おさら,お皿,Piring
+ALAT MAKAN & DAPUR,おちゃわん,お茶碗,Mangkok
+ANGGOTA TUBUH & ANATOMI,おなか,お腹,Perut
+KONDISI MEDIS & KESEHATAN,くすり,薬,Obat
+MEREK & PERUSAHAAN,コカコーラ,,Cocacola
+KONSEP ABSTRAK & IDENTITAS,ごあんない,ご案内,Panduan
+KONSEP ABSTRAK & IDENTITAS,おなまえ,お名前,Nama
+KONSEP ABSTRAK & IDENTITAS,ごいけん,ご意見,Pendapat
+KATA KETERANGAN (FUKUSHI) & SAMBUNG,だいすき,大好き,Sangat suka
+PARTIKEL & UNGKAPAN SALAM,ちょっと…,一寸…,(tidak suka)
+PARTIKEL & UNGKAPAN SALAM,ごあいさつ,ご挨拶,Salam / sambutan

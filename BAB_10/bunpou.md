@@ -1,4 +1,6 @@
-# BUNPOU BAB 10 — Bentuk ～ない (Nai-Form) & Rangkuman Bentuk Biasa (Futsuukei)
+# 🏯 Sensei N1 Dojo: Bunpou Bab 10 — Bentuk ～ない (Nai-Form) & Rangkuman Bentuk Biasa (Futsuukei)
+
+*Ossu!* Selamat datang di dojo Sensei! Di sini kita nggak cuma ngapalin rumus, tapi kita **hack** logikanya biar nyangkut di otak! 🧠💥
 
 > **Kotoba baru di bab ini:** kata kerja kondisi/medis (足を挫く=keseleo, 風邪を引く=masuk angin, 病気に掛かる=sakit), kata kerja aktivitas (吸います, 動きます, 履きます, 曲がります, 渡ります, dll), durasi waktu lengkap (〜分, 〜時間, 〜週間, 〜ヶ月, 〜年間), istilah bank/finansial (クレジットカード, キャッシュカード, 暗証番号, 現金), dan kata tanya universal (何でも, 何か, いつでも, いつか, dll).
 >
@@ -36,45 +38,45 @@ Bentuk negatif KASUAL dari kata kerja — kalau bentuk sopan pakai ～ません,
 Tiga pola dasar memakai bentuk ～ない untuk pernyataan negatif kasual, larangan, dan larangan sopan.
 
 ### 【141】KK〜ない
-**Fungsi:** Menyatakan negatif kasual — "tidak me~" (setara ～ません tapi level akrab).
+🎯 **Target:** Menyatakan negatif kasual — "tidak me~" (setara ～ません tapi level akrab).
 
-**Rumus:** KK〜ない
+🛠️ **Rumus Hack:** KK〜ない
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：豚肉、食べる？(Daging babi, apakah makan?)
 B：ううん、食べない。(Enggak, gak makan.)
 
-**Contoh tambahan (pakai kotoba Bab 1-10):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)** (pakai kotoba Bab 1-10):**
 - 今日 は 学校 に 行かない。(Hari ini saya tidak pergi ke sekolah.)
 - お酒 を 飲まない。(Saya tidak minum alkohol.)
 
 ---
 
 ### 【142】KK〜ないで、〜
-**Fungsi:** Menyatakan "tanpa melakukan~".
+🎯 **Target:** Menyatakan "tanpa melakukan~".
 
-**Rumus:** KK〜ないで、〜
+🛠️ **Rumus Hack:** KK〜ないで、〜
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 本 を 見ないで、もんだい を やって ください。(Tolong kerjakan soal tanpa melihat buku.)
 はらわないで、ジュース を 飲んで は だめ よ。(Tanpa membayar, tidak boleh minum jus.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 傘 を 差さないで、歩きました。(Saya jalan tanpa memakai payung.)
 - 何 も 食べないで、寝ました。(Saya tidur tanpa makan apapun.)
 
 ---
 
 ### 【143】KK〜ないで ください
-**Fungsi:** Meminta tolong jangan melakukan sesuatu — "tolong jangan~".
+🎯 **Target:** Meminta tolong jangan melakukan sesuatu — "tolong jangan~".
 
-**Rumus:** KK〜ないで ください
+🛠️ **Rumus Hack:** KK〜ないで ください
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：ここ で きんえん です から、タバコ を すわないで ください。(Di sini dilarang merokok, jadi jangan merokok di sini.)
 B：はい、わかりました。(Baik, saya mengerti.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - ここ で 遊ばないで ください。(Tolong jangan bermain di sini.)
 - 心配 しないで ください。(Tolong jangan khawatir.)
 
@@ -85,60 +87,60 @@ B：はい、わかりました。(Baik, saya mengerti.)
 Lima pola ini SEMUA berarti "harus/tidak perlu", tapi dengan nuansa berbeda-beda — penting dibedain satu-satu.
 
 ### 【144】KK〜なくても いいです
-**Fungsi:** Menyatakan "tidak perlu/tidak harus melakukan~".
+🎯 **Target:** Menyatakan "tidak perlu/tidak harus melakukan~".
 
-**Rumus:** [Nai-form tanpa い]くても いい です
+🛠️ **Rumus Hack:** [Nai-form tanpa い]くても いい です
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：あした 休み です から、がっこう に 来なくても いいです。(Besok karena libur, tidak perlu datang ke sekolah.)
 B：はい。(Baik.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 明日 は 仕事 に 行かなくても いいです。(Besok saya tidak perlu pergi kerja.)
 - 心配 しなくても いいです。(Tidak perlu khawatir.)
 
 ---
 
 ### 【145】KK〜なくては いけません／だめです
-**Fungsi:** Menyatakan "harus melakukan~" — nuansa formal/tegas, sering dari aturan/norma sosial.
+🎯 **Target:** Menyatakan "harus melakukan~" — nuansa formal/tegas, sering dari aturan/norma sosial.
 
-**Rumus:** [Nai-form tanpa い]くては いけません／だめ です
+🛠️ **Rumus Hack:** [Nai-form tanpa い]くては いけません／だめ です
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：ごはん を 食べる まえに、何 を しますか。(Sebelum makan, melakukan apa?)
 B：手 を あらわなくては いけません。(Harus cuci tangan.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 薬 を 飲まなくては いけません。(Harus minum obat.)
 - 宿題 を しなくては だめ です。(Harus mengerjakan PR.)
 
 ---
 
 ### 【146】KK〜なければ なりません
-**Fungsi:** Menyatakan "harus melakukan~" — nuansa mirip 【145】, tapi lebih ke keharusan situasional/keadaan (bukan aturan tetap).
+🎯 **Target:** Menyatakan "harus melakukan~" — nuansa mirip 【145】, tapi lebih ke keharusan situasional/keadaan (bukan aturan tetap).
 
-**Rumus:** [Nai-form tanpa い]ければ なりません
+🛠️ **Rumus Hack:** [Nai-form tanpa い]ければ なりません
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 明日、しけん が ある から、勉強 しなければ ならない よ。(Besok karena ada tes, harus belajar loh.)
 もう 日本 で 働いたら、せつやく しなければ なりません。(Kalau sudah bekerja di Jepang, harus berhemat.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 病気 です から、休まなければ なりません。(Karena sakit, harus istirahat.)
 - 毎日、日本語 を 勉強しなければ なりません。(Setiap hari harus belajar bahasa Jepang.)
 
 ---
 
 ### 【147】KK〜ないと（いけません）
-**Fungsi:** Menyatakan "harus melakukan~" — versi paling KASUAL dari ketiga pola keharusan di atas, sering muncul dalam percakapan sehari-hari dengan bagian akhir (いけません) sering dihilangkan.
+🎯 **Target:** Menyatakan "harus melakukan~" — versi paling KASUAL dari ketiga pola keharusan di atas, sering muncul dalam percakapan sehari-hari dengan bagian akhir (いけません) sering dihilangkan.
 
-**Rumus:** [Nai-form]と（いけません）
+🛠️ **Rumus Hack:** [Nai-form]と（いけません）
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：もう 時間 が ない から、いそがない と（いけない）。(Karena sudah tidak ada waktu, harus bergegas.)
 B：じゃ、行きましょう。(Kalau begitu, mari pergi.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - もう 帰らない と。(Sudah harus pulang nih.)
 - 早く 起きない と、遅刻する よ。(Kalau tidak segera bangun, bakal telat lho.)
 
@@ -147,15 +149,15 @@ B：じゃ、行きましょう。(Kalau begitu, mari pergi.)
 ---
 
 ### 【148】KK〜ない ほうが いいです
-**Fungsi:** Memberi saran "sebaiknya tidak melakukan~" — negatif dari 【108】 di Bab 8 (KK〜たほうがいいです).
+🎯 **Target:** Memberi saran "sebaiknya tidak melakukan~" — negatif dari 【108】 di Bab 8 (KK〜たほうがいいです).
 
-**Rumus:** [Nai-form]ほうが いい です
+🛠️ **Rumus Hack:** [Nai-form]ほうが いい です
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 コーヒー を あまり 飲まない ほうが いいです。(Sebaiknya tidak terlalu sering minum kopi.)
 明日 しけん だから、おそく ねない ほうが いいです。(Karena besok tes, sebaiknya tidak tidur larut.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - タバコ を 吸わない ほうが いいです。(Sebaiknya tidak merokok.)
 - 夜遅く、食べない ほうが いいです。(Sebaiknya tidak makan larut malam.)
 
@@ -166,30 +168,30 @@ B：じゃ、行きましょう。(Kalau begitu, mari pergi.)
 Dua pola tentang naik/turun kendaraan dan menyatakan durasi waktu/biaya yang dibutuhkan.
 
 ### 【149】KB kendaraan〜に のる／〜を おりる
-**Fungsi:** Menyatakan "naik~/turun dari~" kendaraan.
+🎯 **Target:** Menyatakan "naik~/turun dari~" kendaraan.
 
-**Rumus:** KB Kendaraan に のる／を おりる
+🛠️ **Rumus Hack:** KB Kendaraan に のる／を おりる
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 ここ から、１２ばん の バス に のって ください。(Dari sini, naiklah bus nomor 12.)
 バスセンター で バス を おりて ください。(Turunlah dari bus di terminal.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 電車 に 乗って ください。(Silakan naik kereta.)
 - 駅 で 電車 を 降ります。(Saya turun kereta di stasiun.)
 
 ---
 
 ### 【150】〜かかります
-**Fungsi:** Menyatakan "membutuhkan~" (waktu atau uang).
+🎯 **Target:** Menyatakan "membutuhkan~" (waktu atau uang).
 
-**Rumus:** KB Durasi Waktu／Uang 〜かかる
+🛠️ **Rumus Hack:** KB Durasi Waktu／Uang 〜かかる
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：クラテン から ジャカルタ まで どのぐらい かかります か。(Dari Klaten ke Jakarta butuh berapa lama?)
 B：６時間 ぐらい かかります。(Butuh waktu sekitar 6 jam.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - バンドン まで 三時間 かかります。(Ke Bandung butuh 3 jam.)
 - この かばん は 五千円 かかりました。(Tas ini menghabiskan biaya 5000 yen.)
 
@@ -224,13 +226,13 @@ Ini bagian TERPENTING Bab 10 — tabel yang menyatukan konjugasi dari SEMUA jeni
 >
 > Semua turunan ini SATU akar yang sama (buang い duluan), cuma beda akhiran yang ditempel. Pengecualian tunggal tetap いい (bagus) yang semua bentuknya pakai akar よ- (よくない, よかった, よくなかった), bukan い-.
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 学生：すみません、明日 は 休み です か。(Maaf, apakah besok libur?)
 先生：うん、休み だ よ。(Iya, libur.)
 学生：帰っても いい です か。(Boleh pulang?)
 先生：ううん、だめ だ よ。(Enggak, gak boleh.)
 
-**Contoh tambahan (pakai kotoba Bab 1-10):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)** (pakai kotoba Bab 1-10):**
 - 今日 は 雨 だ。(Hari ini hujan. — KB biasa)
 - この 問題 は 難しくない。(Soal ini tidak susah. — KS-i biasa negatif)
 - 昨日 は 忙しかった。(Kemarin sibuk. — KS-i biasa lampau)
@@ -239,15 +241,15 @@ Ini bagian TERPENTING Bab 10 — tabel yang menyatukan konjugasi dari SEMUA jeni
 ---
 
 ### 【152】（f）＋KB
-**Fungsi:** Menggunakan Bentuk Biasa sebagai anak kalimat yang menjelaskan kata benda — "KB yang ~".
+🎯 **Target:** Menggunakan Bentuk Biasa sebagai anak kalimat yang menjelaskan kata benda — "KB yang ~".
 
-**Rumus:** (f) + KB
+🛠️ **Rumus Hack:** (f) + KB
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 母 が 作った ケーキ です。(Kue yang ibu buat.)
 姉 が くれた お金 です。(Uang yang kakak perempuan berikan.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 兄 が 買った 車 です。(Mobil yang kakak laki-laki beli.)
 - 先生 が 教えた 漢字 です。(Kanji yang guru ajarkan.)
 
@@ -258,59 +260,59 @@ Ini bagian TERPENTING Bab 10 — tabel yang menyatukan konjugasi dari SEMUA jeni
 Tiga pola menggunakan Bentuk Biasa untuk mengutip apa yang dipikirkan, dikatakan, atau didengar dari orang lain.
 
 ### 【153】（f）と 思う
-**Fungsi:** Menyatakan pendapat/pikiran sendiri — "saya pikir/rasa/kira~".
+🎯 **Target:** Menyatakan pendapat/pikiran sendiri — "saya pikir/rasa/kira~".
 
-**Rumus:** (f) 〜と 思う
+🛠️ **Rumus Hack:** (f) 〜と 思う
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 田中さん は けっこん している と 思います。(Saya rasa Tanaka sudah menikah.)
 これ は かんたん だ と 思う。(Saya kira ini mudah.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 明日 は 雨 だ と 思います。(Saya pikir besok akan hujan.)
 - この 料理 は おいしい と 思います。(Saya rasa masakan ini enak.)
 
 ---
 
 ### 【154】（f）と 言う
-**Fungsi:** Mengutip perkataan orang lain — "berkata bahwa~".
+🎯 **Target:** Mengutip perkataan orang lain — "berkata bahwa~".
 
-**Rumus:** (f) 〜と 言う
+🛠️ **Rumus Hack:** (f) 〜と 言う
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 さっき、先生 は 明日、休み だ と 言いました。(Tadi, sensei bilang bahwa besok libur.)
 イヤンさん は 日本 で 働きたい と 言った。(Iyan bilang ingin bekerja di Jepang.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 兄 は 疲れた と 言いました。(Kakak laki-laki saya bilang lelah.)
 - 母 は 元気 だ と 言いました。(Ibu bilang sehat.)
 
 ---
 
 ### 【155】（f）と 聞く
-**Fungsi:** Menyatakan hal yang didengar dari sumber lain — "saya dengar~".
+🎯 **Target:** Menyatakan hal yang didengar dari sumber lain — "saya dengar~".
 
-**Rumus:** (f) 〜と 聞く
+🛠️ **Rumus Hack:** (f) 〜と 聞く
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 田中さん は 明日 日本 に 戻る と 聞いた。それ は 本当 です か。(Saya dengar Tanaka besok akan kembali ke Jepang. Apa itu benar?)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 兄 は 来月、結婚する と 聞きました。(Saya dengar kakak laki-laki saya bulan depan akan menikah.)
 - あの店 は 美味しい と 聞きました。(Saya dengar toko itu enak.)
 
 ---
 
 ### 【156】それで・だから
-**Fungsi:** Menghubungkan sebab-akibat — "karena itu/jadi/oleh sebab itu~".
+🎯 **Target:** Menghubungkan sebab-akibat — "karena itu/jadi/oleh sebab itu~".
 
-**Rumus:** Kalimat1。それで・だから、〜
+🛠️ **Rumus Hack:** Kalimat1。それで・だから、〜
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 今日 は かぜ です。それで、がっこう を やすむ。(Hari ini saya masuk angin. Karena itu saya libur sekolah.)
 明日、テスト が あります。だから、勉強しないと。(Besok ada tes. Jadi saya harus belajar.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 昨日 は 忙しかった。それで、寝るのが 遅かった。(Kemarin sibuk. Karena itu tidurnya larut.)
 - お金 が ない。だから、買えません。(Tidak ada uang. Jadi tidak bisa beli.)
 
@@ -321,26 +323,26 @@ Tiga pola menggunakan Bentuk Biasa untuk mengutip apa yang dipikirkan, dikatakan
 Enam pola penutup Bab 10 (dan penutup seluruh materi): kata tanya yang jadi universal dengan でも/か, kalimat tanya tersemat, dan partikel penekan subjek.
 
 ### 【157】Kata Tanya ＋ でも
-**Fungsi:** Membuat kata tanya jadi universal — "~ pun/apapun".
+🎯 **Target:** Membuat kata tanya jadi universal — "~ pun/apapun".
 
-**Rumus:** Kata Tanya でも
+🛠️ **Rumus Hack:** Kata Tanya でも
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 その どうぶつ は 何でも 食べる。(Binatang itu makan apapun.)
 いつでも、また きて ね。(Silakan datang kapanpun.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 誰でも できます。(Siapapun bisa.)
 - どこでも 行きます。(Saya akan pergi ke manapun.)
 
 ---
 
 ### 【158】Kata Tanya ＋ か
-**Fungsi:** Membuat kata tanya jadi "suatu~" (tidak spesifik).
+🎯 **Target:** Membuat kata tanya jadi "suatu~" (tidak spesifik).
 
-**Rumus:** Kata Tanya か
+🛠️ **Rumus Hack:** Kata Tanya か
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 いつか、日本 に 行きたい なあ。(Suatu saat saya ingin ke Jepang.)
 何か、食べたい。(Ingin makan sesuatu.)
 
@@ -351,52 +353,52 @@ Enam pola penutup Bab 10 (dan penutup seluruh materi): kata tanya yang jadi univ
 | どこでも | dimanapun | どこか | suatu tempat |
 | だれでも | siapapun | だれか | seseorang |
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 誰か、来ました か。(Ada seseorang yang datang?)
 - どこか、行きたい です。(Saya ingin pergi ke suatu tempat.)
 
 ---
 
 ### 【159】Kalimat Tanya（f）か、〜 わかります／しっています か？
-**Fungsi:** Menyematkan kalimat tanya di dalam kalimat lain — "apakah kamu tahu~?"
+🎯 **Target:** Menyematkan kalimat tanya di dalam kalimat lain — "apakah kamu tahu~?"
 
-**Rumus:** Kalimat Tanya (f) か、〜
+🛠️ **Rumus Hack:** Kalimat Tanya (f) か、〜
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：コンサート は 何時 に 始まる か、しっています か？(Konsernya mulai jam berapa, kamu tahu?)
 B：知らない。(Tidak tahu.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 明日、雨 が 降る か、わかります か。(Apakah kamu tahu besok akan hujan atau tidak?)
 - あの人 は 誰 か、知っています か。(Apakah kamu tahu orang itu siapa?)
 
 ---
 
 ### 【160】Kalimat か どうか、〜
-**Fungsi:** Menyatakan ketidakpastian "apakah~atau tidak".
+🎯 **Target:** Menyatakan ketidakpastian "apakah~atau tidak".
 
-**Rumus:** Kalimat か どうか、〜
+🛠️ **Rumus Hack:** Kalimat か どうか、〜
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 明日、お金 が あるか どうか、わからない。(Besok ada uang atau tidak, saya tidak tahu.)
 行く か どうか、まだ 決めません。(Mau pergi atau tidak, saya belum memutuskan.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 彼 が 来る か どうか、わかりません。(Apakah dia akan datang atau tidak, saya tidak tahu.)
 - これ が 正しい か どうか、確認します。(Saya akan pastikan apakah ini benar atau tidak.)
 
 ---
 
 ### 【161】には、では、へは、までは、からは
-**Fungsi:** Menambahkan partikel は ke partikel lain untuk menekankan/mengontraskan subjek/tempat yang dibicarakan.
+🎯 **Target:** Menambahkan partikel は ke partikel lain untuk menekankan/mengontraskan subjek/tempat yang dibicarakan.
 
-**Rumus:** partikel + は
+🛠️ **Rumus Hack:** partikel + は
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 日本 では 仕事 を さがす のは かんたん です。(Di Jepang, mencari pekerjaan itu mudah.)
 チラチャップ まで は 何 で 来た の？(Sampai Cilacap, datang pakai apa?)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 東京 には まだ 行った こと が ありません。(Ke Tokyo, saya belum pernah pergi.)
 - この 電車 は ジャカルタ から は 出ません。(Kereta ini tidak berangkat dari Jakarta.)
 
@@ -424,7 +426,7 @@ Sampai di titik ini, seluruh fondasi tata bahasa dari Bab 1-10 sudah saling terh
 - **Bab 6**: bentuk lampau untuk semua jenis kata (でした/かった/ました)
 - **Bab 7**: bentuk ～て (lem penghubung paling serbaguna)
 - **Bab 8**: bentuk ～た (kembaran lampau dari ～て) dan ～る (bentuk kamus/kebalikan た)
-- **Bab 9**: STEM (batang kata kerja tanpa ます) sebagai fondasi banyak pola sekaligus
+- **Bab 9**: 🔪 **STEM (Akar Kata) Hack:** Coret `ます` nya! (misal: 食べます ➡️ 食べ). Udah, gampang kan? Sisanya tinggal tempel bumbu-bumbunya! (batang kata kerja tanpa ます) sebagai fondasi banyak pola sekaligus
 - **Bab 10**: bentuk ～ない (kembaran negatif dari ～る) dan rangkuman Bentuk Biasa yang menyatukan semuanya
 
 Kalau digambarkan sebagai satu siklus: **ます (sopan) ↔ る/た/ない (biasa)**, dengan て sebagai jembatan penghubung di tengah-tengahnya. Menguasai Bab 10 berarti sudah punya seluruh kerangka gramatikal untuk berbicara bahasa Jepang di level natural — sisanya tinggal memperbanyak kosakata dan jam terbang percakapan.

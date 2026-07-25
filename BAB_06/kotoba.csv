@@ -1,0 +1,276 @@
+KATEGORI,KANA,KANJI,ARTI
+KATA KERJA GOL. 1 (GODAN),かいます,買います,Membeli
+KATA KERJA GOL. 1 (GODAN),あらいます,洗います,Mencuci
+KATA KERJA GOL. 1 (GODAN),いきます,行きます,Pergi
+KATA KERJA GOL. 1 (GODAN),はたらきます,働きます,Bekerja
+KATA KERJA GOL. 1 (GODAN),シャワーをあびます,シャワーを浴びます,Mandi
+KATA KERJA GOL. 1 (GODAN),やすみます,休みます,Libur
+KATA KERJA GOL. 1 (GODAN),よみます,読みます,Membaca
+KATA KERJA GOL. 1 (GODAN),うります,売ります,Menjual
+KATA KERJA GOL. 1 (GODAN),かえります,帰ります,Pulang
+KATA KERJA GOL. 1 (GODAN),もどります,戻ります,Kembali
+KATA KERJA GOL. 1 (GODAN),はじまります,始まります,Mulai
+KATA KERJA GOL. 1 (GODAN),おわります,終ります,Selesai
+KATA KERJA GOL. 2 (ICHIDAN),うえます,植えます,Menanam
+KATA KERJA GOL. 2 (ICHIDAN),おきます,起きます,Bangun tidur
+KATA KERJA GOL. 2 (ICHIDAN),でかけます,出かけます,Pergi
+KATA KERJA GOL. 2 (ICHIDAN),ねます,寝ます,Tidur
+KATA KERJA GOL. 3 (FUKISOKU),きます,来ます,Datang
+KATA KERJA GOL. 3 (FUKISOKU),あんないします,案内します,Memandu
+KATA KERJA GOL. 3 (FUKISOKU),うんどうします,運動します,Olah raga
+KATA KERJA GOL. 3 (FUKISOKU),ねぼうします,寝坊します,Bangun siang
+KATA KERJA GOL. 3 (FUKISOKU),べんきょうします,勉強します,Belajar
+KATA KERJA GOL. 3 (FUKISOKU),えいぎょうします,営業します,Beroperasi
+KATA KERJA GOL. 3 (FUKISOKU),さぎょうします,作業します,Kerja
+KATA KERJA GOL. 3 (FUKISOKU),ざんぎょうします,残業します,Lembur
+KATA KERJA GOL. 3 (FUKISOKU),せんたくします,洗濯します,Mencuci baju
+KATA KERJA GOL. 3 (FUKISOKU),そうじします,掃除します,Bersih-bersih
+KATA KERJA GOL. 3 (FUKISOKU),しょくじします,食事します,Makan
+KATA KERJA GOL. 3 (FUKISOKU),しごとします,仕事します,Bekerja
+KATA KERJA GOL. 3 (FUKISOKU),かいものします,買い物します,Belanja
+KATA KERJA GOL. 3 (FUKISOKU),さんぽします,散歩します,Jalan-jalan
+KATA KERJA GOL. 3 (FUKISOKU),りょうりします,料理します,Memasak
+KATA KERJA GOL. 3 (FUKISOKU),ゆっくりします,,Bersantai
+KATA KERJA GOL. 3 (FUKISOKU),おいのりします,お祈りします,Berdoa
+KATA KERJA GOL. 3 (FUKISOKU),ごろごろします,,Bermalas-malasan
+KATA KERJA GOL. 3 (FUKISOKU),つりをします,釣りをする,Memancing
+KATA KERJA GOL. 3 (FUKISOKU),ジョギングします,,Jogging
+KATA KERJA GOL. 3 (FUKISOKU),スポーツします,,Berolahraga
+KATA BENDA VERBAL (SURU-MEISHI),しょくじ,食事,Makan
+"""TEMPAT, BANGUNAN & FASILITAS""",しょくどう,食堂,Kantin
+"""TEMPAT, BANGUNAN & FASILITAS""",はたけ,畑,Sawah / ladang
+"""TEMPAT, BANGUNAN & FASILITAS""",みせ,店,Toko
+"""TEMPAT, BANGUNAN & FASILITAS""",たんぼ,田んぼ,Sawah
+"""TEMPAT, BANGUNAN & FASILITAS""",〜や,〜屋,Kedai~
+"""TEMPAT, BANGUNAN & FASILITAS""",いざかや,居酒屋,Bar
+"""TEMPAT, BANGUNAN & FASILITAS""",たいしかん,大使館,Kantor kedutaan
+"""TEMPAT, BANGUNAN & FASILITAS""",カフェ,,Kafe
+"""TEMPAT, BANGUNAN & FASILITAS""",デパート,,Pasar raya
+"""TEMPAT, BANGUNAN & FASILITAS""",コンビニ,,Minimarket
+"""TEMPAT, BANGUNAN & FASILITAS""",レストラン,,Restoran
+"""TEMPAT, BANGUNAN & FASILITAS""",スーパー,,Supermarket
+MAKANAN (DAGING & SEAFOOD),いか,烏賊,Cumi-cumi
+MAKANAN (DAGING & SEAFOOD),うなぎ,鰻,Belut
+MAKANAN (DAGING & SEAFOOD),たこ,蛸,Gurita
+MAKANAN (DAGING & SEAFOOD),かに,蟹,Kepiting
+MAKANAN (DAGING & SEAFOOD),えび,蝦 / 海老,Udang
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",らっかせい,落花生,Kacang tanah
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",ぶどう,葡萄,Anggur
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",かき,柿,Kesemek
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",いちご,苺,Stroberi
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",りんご,林檎,Apel
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",なし,梨,Pir
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",くだもの,果物,Buah-buahan
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",うめ,梅,Buah ume
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",えだまめ,枝豆,Kacang edamame
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",もも,桃,Buah persik
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",どんぐり,団栗,Kacang donguri
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",みかん,蜜柑,Jeruk
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",スイカ,西瓜,Semangka
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",ピーナツ,,Kacang
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",バナナ,,Pisang
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",パイナップル,,Nanas
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",メロン,,Melon
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",マンゴー,,Mangga
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",チェリー,,Ceri
+MAKANAN (UMUM & OLAHAN),ちゅうしょく,昼食,Makan siang
+MAKANAN (UMUM & OLAHAN),ゆうしょく,夕食,Makan malam
+MAKANAN (UMUM & OLAHAN),ちょうしょく,朝食,Makan pagi
+MAKANAN (UMUM & OLAHAN),すしや,すし屋,Kedai sushi
+MAKANAN (UMUM & OLAHAN),パンや,パン屋,Toko roti
+MAKANAN (UMUM & OLAHAN),ラーメンや,ラーメン屋,Kedai ramen
+MAKANAN (UMUM & OLAHAN),あさごはん,朝ごはん,Sarapan
+MAKANAN (UMUM & OLAHAN),ひるごはん,昼ごはん,Makan siang
+MAKANAN (UMUM & OLAHAN),ばんごはん,晩ごはん,Makan malam
+MAKANAN (UMUM & OLAHAN),ランチ,,Makan siang
+MINUMAN,きっさてん,喫茶店,Kedai teh
+HEWAN & BINATANG,うさぎ,兎,Kelinci
+HEWAN & BINATANG,やぎ,山羊,Kambing
+HEWAN & BINATANG,うし,牛,Sapi
+HEWAN & BINATANG,いのしし,猪,Babi hutan
+HEWAN & BINATANG,むし,虫,Serangga
+HEWAN & BINATANG,ぶた,豚,Babi
+HEWAN & BINATANG,どうぶつ,動物,Binatang
+HEWAN & BINATANG,へび,蛇,Ular
+HEWAN & BINATANG,うま,馬,Kuda
+HEWAN & BINATANG,くま,熊,Beruang
+HEWAN & BINATANG,あり,蟻,Semut
+HEWAN & BINATANG,にわとり,鶏,Ayam
+HEWAN & BINATANG,かえる,蛙,Katak
+ALAT ELEKTRONIK & MESIN,いちじ,１時,Jam 1
+ALAT ELEKTRONIK & MESIN,にじ,２時,Jam 2
+ALAT ELEKTRONIK & MESIN,さんじ,３時,Jam 3
+ALAT ELEKTRONIK & MESIN,よじ,４時,Jam 4
+ALAT ELEKTRONIK & MESIN,ごじ,５時,Jam 5
+ALAT ELEKTRONIK & MESIN,ろくじ,６時,Jam 6
+ALAT ELEKTRONIK & MESIN,しちじ,７時,Jam 7
+ALAT ELEKTRONIK & MESIN,はちじ,８時,Jam 8
+ALAT ELEKTRONIK & MESIN,くじ,９時,Jam 9
+ALAT ELEKTRONIK & MESIN,じゅうじ,１０時,Jam 10
+ALAT ELEKTRONIK & MESIN,じゅういちじ,１１時,Jam 11
+ALAT ELEKTRONIK & MESIN,じゅうにじ,１２時,Jam 12
+ALAT ELEKTRONIK & MESIN,なんじ？,何時？,Jam berapa?
+FURNITUR & PERALATAN RUMAH,ボックス,,Kotak
+FURNITUR & PERALATAN RUMAH,キャビネット,,Lemari kabinet
+FURNITUR & PERALATAN RUMAH,ダンボール,段ボール,Kardus
+KENDARAAN & TRANSPORTASI,ひこうき,飛行機,Pesawat
+KENDARAAN & TRANSPORTASI,でんしゃ,電車,Kereta
+KENDARAAN & TRANSPORTASI,しんかんせん,新幹線,Kereta cepat
+KENDARAAN & TRANSPORTASI,バス,,Bus
+KENDARAAN & TRANSPORTASI,モノレール,,Monorel
+KENDARAAN & TRANSPORTASI,タクシー,,Taksi
+"""HIBURAN, HOBI & OLAHRAGA""",コンサート,,Konser
+ACARA & PERAYAAN,かんげいかい,歓迎会,Acara penyambutan
+ACARA & PERAYAAN,そうべつかい,送別会,Acara perpisahan
+ACARA & PERAYAAN,ぼうねんかい,忘年会,Acara akhir tahun
+ACARA & PERAYAAN,はなみ,花見,Hanami
+"""WAKTU (JAM, MENIT, DETIK)""",いっぷん,１分,1 menit
+"""WAKTU (JAM, MENIT, DETIK)""",にふん,２分,2 menit
+"""WAKTU (JAM, MENIT, DETIK)""",さんぷん,３分,3 menit
+"""WAKTU (JAM, MENIT, DETIK)""",よんぷん,４分,4 menit
+"""WAKTU (JAM, MENIT, DETIK)""",ごふん,５分,5 menit
+"""WAKTU (JAM, MENIT, DETIK)""",ろっぷん,６分,6 menit
+"""WAKTU (JAM, MENIT, DETIK)""",ななふん,７分,7 menit
+"""WAKTU (JAM, MENIT, DETIK)""",はっぷん,８分,8 menit
+"""WAKTU (JAM, MENIT, DETIK)""",きゅうふん,９分,9 menit
+"""WAKTU (JAM, MENIT, DETIK)""",じゅっぷん,１０分,10 menit
+"""WAKTU (JAM, MENIT, DETIK)""",じゅういっぷん,１１分,11 menit
+"""WAKTU (JAM, MENIT, DETIK)""",じゅうごふん,１５分,15 menit
+"""WAKTU (JAM, MENIT, DETIK)""",さんじゅっぷん,３０分,30 menit
+"""WAKTU (JAM, MENIT, DETIK)""",びょう,秒,Detik
+"""WAKTU (JAM, MENIT, DETIK)""",なんびょう？,何秒？,Berapa detik?
+"""WAKTU (JAM, MENIT, DETIK)""",なんぷん？,何分？,Berapa menit?
+WAKTU & PENANGGALAN (HARI),すいようび,水曜日,Rabu
+WAKTU & PENANGGALAN (HARI),かようび,火曜日,Selasa
+WAKTU & PENANGGALAN (HARI),もくようび,木曜日,Kamis
+WAKTU & PENANGGALAN (HARI),げつようび,月曜日,Senin
+WAKTU & PENANGGALAN (HARI),どようび,土曜日,Sabtu
+WAKTU & PENANGGALAN (HARI),きんようび,金曜日,Jumat
+WAKTU & PENANGGALAN (HARI),なんようび？,何曜日？,Hari apa?
+WAKTU & PENANGGALAN (TANGGAL),ついたち,１日,Tanggal 1
+WAKTU & PENANGGALAN (TANGGAL),ふつか,２日,Tanggal 2
+WAKTU & PENANGGALAN (TANGGAL),みっか,３日,Tanggal 3
+WAKTU & PENANGGALAN (TANGGAL),よっか,４日,Tanggal 4
+WAKTU & PENANGGALAN (TANGGAL),いつか,五日,Tanggal 5
+WAKTU & PENANGGALAN (TANGGAL),むいか,６日,Tanggal 6
+WAKTU & PENANGGALAN (TANGGAL),なのか,７日,Tanggal 7
+WAKTU & PENANGGALAN (TANGGAL),ようか,８日,Tanggal 8
+WAKTU & PENANGGALAN (TANGGAL),ここのか,９日,Tanggal 9
+WAKTU & PENANGGALAN (TANGGAL),とおか,１０日,Tanggal 10
+WAKTU & PENANGGALAN (TANGGAL),じゅういちにち,１１日,Tanggal 11
+WAKTU & PENANGGALAN (TANGGAL),じゅうににち,１２日,Tanggal 12
+WAKTU & PENANGGALAN (TANGGAL),じゅうさんにち,１３日,Tanggal 13
+WAKTU & PENANGGALAN (TANGGAL),じゅうよっか,１４日,Tanggal 14
+WAKTU & PENANGGALAN (TANGGAL),じゅうごにち,１５日,Tanggal 15
+WAKTU & PENANGGALAN (TANGGAL),じゅうしちにち,１７日,Tanggal 17
+WAKTU & PENANGGALAN (TANGGAL),じゅうくにち,１９日,Tanggal 19
+WAKTU & PENANGGALAN (TANGGAL),はつか,２０日,Tanggal 20
+WAKTU & PENANGGALAN (TANGGAL),にじゅういちにち,２１日,Tanggal 21
+WAKTU & PENANGGALAN (TANGGAL),にじゅうににち,２２日,Tanggal 22
+WAKTU & PENANGGALAN (TANGGAL),にじゅうよっか,２４日,Tanggal 24
+WAKTU & PENANGGALAN (TANGGAL),にじゅうしちにち,２７日,Tanggal 27
+WAKTU & PENANGGALAN (TANGGAL),にじゅうくにち,２９日,Tanggal 29
+WAKTU & PENANGGALAN (TANGGAL),さんじゅうにち,３０日,Tanggal 30
+WAKTU & PENANGGALAN (TANGGAL),さんじゅういちにち,３１日,Tanggal 31
+WAKTU & PENANGGALAN (TANGGAL),にちようび,日曜日,Minggu
+WAKTU & PENANGGALAN (TANGGAL),なんにち？,何日？,Tanggal berapa?
+WAKTU & PENANGGALAN (BULAN),じゅうがつ,１０月,Oktober
+WAKTU & PENANGGALAN (BULAN),くがつ,９月,September
+WAKTU & PENANGGALAN (BULAN),ろくがつ,６月,Juni
+WAKTU & PENANGGALAN (BULAN),ごがつ,５月,Mei
+WAKTU & PENANGGALAN (BULAN),しがつ,４月,April
+WAKTU & PENANGGALAN (BULAN),いちがつ,１月,Januari
+WAKTU & PENANGGALAN (BULAN),じゅういちがつ,１１月,November
+WAKTU & PENANGGALAN (BULAN),しちがつ,７月,Juli
+WAKTU & PENANGGALAN (BULAN),はちがつ,８月,Agustus
+WAKTU & PENANGGALAN (BULAN),にがつ,２月,Februari
+WAKTU & PENANGGALAN (BULAN),じゅうにがつ,１２月,Desember
+WAKTU & PENANGGALAN (BULAN),さんがつ,３月,Maret
+KETERANGAN WAKTU (MASA LAMPAU),せんせんしゅう,先々週,2 minggu yang lalu
+KETERANGAN WAKTU (MASA LAMPAU),おととし,一昨年,2 tahun lalu
+KETERANGAN WAKTU (MASA LAMPAU),さきおととい,一昨昨日,3 hari yang lalu
+KETERANGAN WAKTU (MASA LAMPAU),おととい,一昨日,Kemarin lalu
+KETERANGAN WAKTU (MASA LAMPAU),きのう,昨日,Kemarin
+KETERANGAN WAKTU (MASA LAMPAU),せんしゅう,先週,Minggu lalu
+KETERANGAN WAKTU (MASA LAMPAU),このまえ,この前,Sebelumnya
+KETERANGAN WAKTU (MASA LAMPAU),さっき,,Baru saja
+KETERANGAN WAKTU (MASA LAMPAU),きのうのあさ,昨日の朝,Kemarin pagi
+KETERANGAN WAKTU (MASA LAMPAU),むかし,昔,Dahulu
+KETERANGAN WAKTU (MASA LAMPAU),せんしゅうのどようび,先週の土曜日,Sabtu minggu lalu
+KETERANGAN WAKTU (MASA LAMPAU),きょねん,去年,Tahun lalu
+KETERANGAN WAKTU (SEKARANG & MASA DEPAN),さらいしゅう,再来週,2 minggu depan
+KETERANGAN WAKTU (SEKARANG & MASA DEPAN),しあさって,明々後日,3 hari lagi
+KETERANGAN WAKTU (SEKARANG & MASA DEPAN),らいしゅう,来週,Minggu depan
+KETERANGAN WAKTU (SEKARANG & MASA DEPAN),こんしゅう,今週,Minggu ini
+KETERANGAN WAKTU (SEKARANG & MASA DEPAN),きょう,今日,Hari ini
+KETERANGAN WAKTU (SEKARANG & MASA DEPAN),まえ,前,Depan
+KETERANGAN WAKTU (SEKARANG & MASA DEPAN),もうすぐ,,Sebentar lagi
+KETERANGAN WAKTU (SEKARANG & MASA DEPAN),けさ,今朝,Pagi ini
+KETERANGAN WAKTU (SEKARANG & MASA DEPAN),ことし,今年,Tahun ini
+KETERANGAN WAKTU (SEKARANG & MASA DEPAN),あした,明日,Besok
+KETERANGAN WAKTU (SEKARANG & MASA DEPAN),あさって,明後日,Besok lusa
+KETERANGAN WAKTU (SEKARANG & MASA DEPAN),そのあと,その後,Setelah itu
+KETERANGAN WAKTU (SEKARANG & MASA DEPAN),こんど,今度,Berikutnya
+KETERANGAN WAKTU (SEKARANG & MASA DEPAN),いま,今,Sekarang
+KETERANGAN WAKTU (SEKARANG & MASA DEPAN),いまから,今から,Sekarang
+KETERANGAN WAKTU (SEKARANG & MASA DEPAN),これから,,Setelah ini
+KETERANGAN WAKTU (SEKARANG & MASA DEPAN),らいねん,来年,Tahun depan
+KETERANGAN WAKTU (SEKARANG & MASA DEPAN),こんばん,今晩,Malam ini
+KETERANGAN WAKTU TAMBAHAN,よなか,夜中,Tengah malam
+KETERANGAN WAKTU TAMBAHAN,あさ,朝,Pagi
+KETERANGAN WAKTU TAMBAHAN,ゆうがた,夕方,Sore
+KETERANGAN WAKTU TAMBAHAN,ひるやすみ,昼休み,Istirahat siang
+KETERANGAN WAKTU TAMBAHAN,ひる,昼,Siang
+KETERANGAN WAKTU TAMBAHAN,よる,夜,Malam
+KETERANGAN WAKTU TAMBAHAN,ばん,晩,Malam
+KATA TANYA (GIMONSHI),いつ,,Kapan
+KATA TANYA (GIMONSHI),どうして,,Kenapa / mengapa
+ARAH & POSISI SPASIAL,うえ,上,Atas
+ARAH & POSISI SPASIAL,なか,中,Dalam / tengah
+ARAH & POSISI SPASIAL,みぎ,右,Kanan
+ARAH & POSISI SPASIAL,おく,奥,Dalam
+ARAH & POSISI SPASIAL,よこ,横,Samping / Sebelah (sejajar horizontal)
+ARAH & POSISI SPASIAL,した,下,Bawah
+ARAH & POSISI SPASIAL,そと,外,Luar
+ARAH & POSISI SPASIAL,そば,側 / 傍,Dekat / Sekitar (radius dekat)
+ARAH & POSISI SPASIAL,ひだり,左,Kiri
+ARAH & POSISI SPASIAL,となり,隣,Sebelah
+ARAH & POSISI SPASIAL,ごろ,,Sekitar~
+ARAH & POSISI SPASIAL,うしろ,後ろ,Belakang
+KATA KETERANGAN (FUKUSHI) & SAMBUNG,すぐ(すぐに),直ぐ(直ぐに),Segera
+KATA KETERANGAN (FUKUSHI) & SAMBUNG,ぜったい,絶対,Pasti
+KATA KETERANGAN (FUKUSHI) & SAMBUNG,しょうしょう,少々,Sedikit
+KATA KETERANGAN (FUKUSHI) & SAMBUNG,つぎ,次,Berikutnya
+KATA KETERANGAN (FUKUSHI) & SAMBUNG,はやく,早く / 速く,Dengan cepat
+KATA KETERANGAN (FUKUSHI) & SAMBUNG,かならず,必ず,Pasti
+KATA KETERANGAN (FUKUSHI) & SAMBUNG,きっと,,Pasti
+KATA KETERANGAN (FUKUSHI) & SAMBUNG,ずっと,,Terus menerus
+KATA KETERANGAN (FUKUSHI) & SAMBUNG,べつべつに,別々に,Masing-masing
+KATA KETERANGAN (FUKUSHI) & SAMBUNG,いっしょに,一緒に,Bersama-sama
+KATA KETERANGAN (FUKUSHI) & SAMBUNG,ぜひ,是非,Pasti
+KATA KETERANGAN (FUKUSHI) & SAMBUNG,たぶん,多分,Mungkin
+PARTIKEL & UNGKAPAN SALAM,〜まえ,〜前,~ sebelumnya
+KOSAKATA SERAPAN (KATAKANA),ココナッツ,,Kelapa
+KOSA KATA LAINNYA,はん,半,Setengah
+ALAM & LINGKUNGAN,さらいげつ,再来月,2 bulan depan
+ALAM & LINGKUNGAN,せんせんげつ,先々月,2 bulan lalu
+ALAM & LINGKUNGAN,はなびたいかい,花火大会,Acara kembang api
+ALAM & LINGKUNGAN,ちきゅう,地球,Bumi
+ALAM & LINGKUNGAN,ちか,地下,Bawah tanah
+ALAM & LINGKUNGAN,らいげつ,来月,Bulan depan
+ALAM & LINGKUNGAN,こんげつ,今月,Bulan ini
+ALAM & LINGKUNGAN,せんげつ,先月,Bulan lalu
+ALAM & LINGKUNGAN,ちかてつ,地下鉄,Kereta bawah tanah
+ALAM & LINGKUNGAN,ふね,船,Kapal laut
+ALAM & LINGKUNGAN,うみ,海,Laut / pantai
+ALAM & LINGKUNGAN,もり,森,Hutan
+ALAM & LINGKUNGAN,じめん,地面,Permukaan tanah
+ALAM & LINGKUNGAN,なんがつ？,何月？,Bulan apa?
+BANGUNAN & RUANGAN,にわ,庭,Halaman
+BANGUNAN & RUANGAN,たいいくかん,体育館,Gedung olah raga
+BANGUNAN & RUANGAN,びじゅつかん,美術館,Gedung kesenian
+BANGUNAN & RUANGAN,ベッド,,Tempat tidur
+WAKTU (JAM & MENIT),ごご,午後,PM
+WAKTU (JAM & MENIT),ゆうべ,夕べ,Kemarin malam
+WAKTU (JAM & MENIT),ごぜん,午前,AM
+WAKTU (JAM & MENIT),きのうのばん,昨日の晩,Kemarin malam

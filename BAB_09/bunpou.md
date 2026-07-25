@@ -1,4 +1,6 @@
-# BUNPOU BAB 9 — STEM Kata Kerja: Fondasi Banyak Pola Sekaligus
+# 🏯 Sensei N1 Dojo: Bunpou Bab 9 — 🔪 **STEM (Akar Kata) Hack:** Coret `ます` nya! (misal: 食べます ➡️ 食べ). Udah, gampang kan? Sisanya tinggal tempel bumbu-bumbunya! Kata Kerja: Fondasi Banyak Pola Sekaligus
+
+*Ossu!* Selamat datang di dojo Sensei! Di sini kita nggak cuma ngapalin rumus, tapi kita **hack** logikanya biar nyangkut di otak! 🧠💥
 
 > **Kotoba baru di bab ini:** banyak kata kerja golongan 1/2/3 (会います, 迷います, 咲きます, 選びます, 決めます, 結婚します, dll), istilah pacaran (ボーイフレンド, ガールフレンド, 付き合います), acara/festival (〜祭り, 〜大会, イベント), dan istilah akademik (文, 字, 文章, 例文).
 >
@@ -35,17 +37,17 @@ Begitu STEM ini dipahami, semua 17 pola di bawah cuma soal "STEM + akhiran apa" 
 Satu pola yang menggabungkan STEM dengan kata kerja pergi/datang/pulang untuk menyatakan TUJUAN kepergian.
 
 ### 【124】STEM + に いく／くる／かえる
-**Fungsi:** Menyatakan "pergi/datang/pulang UNTUK melakukan~" — STEM di sini berfungsi membendakan kata kerja jadi semacam "tujuan perjalanan".
+🎯 **Target:** Menyatakan "pergi/datang/pulang UNTUK melakukan~" — STEM di sini berfungsi membendakan kata kerja jadi semacam "tujuan perjalanan".
 
-**Rumus:** [STEM kata kerja] + に いく／くる／かえる
+🛠️ **Rumus Hack:** [STEM kata kerja] + に いく／くる／かえる
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：こんど の 土曜日、どこ に 行く？(Sabtu besok pergi ke mana?)
 B：ともだち と えいが を **みに** 行く。(Pergi menonton film bersama teman.) — dari 見ます → STEM 見
 A：何 を **しに** きた の？(Kamu datang mau ngapain?) — dari します → STEM し
 B：ちょっと、おねがい が あるんです。(Mau minta tolong sedikit.)
 
-**Contoh tambahan (pakai kotoba Bab 1-9):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)** (pakai kotoba Bab 1-9):**
 - 友達 に **会いに** 行きます。(Pergi untuk bertemu teman.) — dari 会います → STEM 会い
 - 図書館 へ 本 を **借りに** 行きます。(Pergi ke perpustakaan untuk meminjam buku.) — dari 借ります → STEM 借り
 - 母 は 買い物 を **しに** デパート へ 行きました。(Ibu pergi ke pasar raya untuk berbelanja.)
@@ -57,30 +59,30 @@ B：ちょっと、おねがい が あるんです。(Mau minta tolong sedikit.
 Tiga pola tentang mengajak orang lain melakukan sesuatu bersama, dan menawarkan bantuan.
 
 ### 【125】STEM + ませんか／KK〜ない？
-**Fungsi:** Mengajak melakukan sesuatu bersama — "maukah ~ (bareng)?"
+🎯 **Target:** Mengajak melakukan sesuatu bersama — "maukah ~ (bareng)?"
 
-**Rumus:** [STEM] + ませんか (sopan) ／ KK bentuk kamus negatif + ない？(kasual)
+🛠️ **Rumus Hack:** [STEM] + ませんか (sopan) ／ KK bentuk kamus negatif + ない？(kasual)
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：こんど の 日曜日、いっしょに かいもの に **行きませんか**。(Maukah pergi belanja bareng hari Minggu nanti?)
 B：いいですね。行きましょう。(Baiklah. Mari pergi.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 一緒に 映画 を **見ませんか**。(Maukah nonton film bareng?)
 - 今度、日本語 を **勉強しませんか**。(Maukah belajar bahasa Jepang bareng nanti?)
 
 ---
 
 ### 【126】STEM + ましょう
-**Fungsi:** Mengajak dengan lebih tegas/positif — "ayo/mari ~".
+🎯 **Target:** Mengajak dengan lebih tegas/positif — "ayo/mari ~".
 
-**Rumus:** [STEM] + ましょう
+🛠️ **Rumus Hack:** [STEM] + ましょう
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：そろそろ 帰りましょう。(Sudah saatnya, mari kita pulang.)
 B：そう、しましょう。(Mari.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - もう 遅い です から、寝ましょう。(Sudah larut, ayo tidur.)
 - 一緒に 勉強しましょう。(Ayo belajar bareng.)
 
@@ -89,15 +91,15 @@ B：そう、しましょう。(Mari.)
 ---
 
 ### 【127】STEM + ましょうか
-**Fungsi:** Menawarkan BANTUAN kepada orang lain — "maukah saya~kan?" (beda dari 【126】 yang ngajak bareng, ini nawarin BANTUAN sepihak).
+🎯 **Target:** Menawarkan BANTUAN kepada orang lain — "maukah saya~kan?" (beda dari 【126】 yang ngajak bareng, ini nawarin BANTUAN sepihak).
 
-**Rumus:** [STEM] + ましょうか
+🛠️ **Rumus Hack:** [STEM] + ましょうか
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：その かばん を **持ちましょうか**。(Bagaimana kalau saya bawakan tas itu?)
 B：すみません、おねがいします。(Maaf merepotkan, tolong ya.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 窓 を **開けましょうか**。(Mau saya bukakan jendelanya?)
 - 手伝いましょうか。(Mau saya bantu?)
 
@@ -111,75 +113,75 @@ Menolak: いいですよ・だいじょうぶです
 Empat pola tentang cara melakukan sesuatu sambil melakukan hal lain, cara/metode, dan tingkat mudah-sulitnya suatu tindakan.
 
 ### 【128】STEM + ながら、〜
-**Fungsi:** Menyatakan dua kegiatan dilakukan BERSAMAAN — "sambil ~".
+🎯 **Target:** Menyatakan dua kegiatan dilakukan BERSAMAAN — "sambil ~".
 
-**Rumus:** [STEM] + ながら、〜
+🛠️ **Rumus Hack:** [STEM] + ながら、〜
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：テレビ を **見ながら**、何 を しますか。(Sambil nonton TV, melakukan apa?)
 B：テレビ を 見ながら、ラーメン を 食べる。(Sambil nonton TV, saya makan ramen.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 音楽 を **聞きながら**、勉強します。(Sambil dengar musik, saya belajar.)
 - 歌を **歌いながら**、料理します。(Sambil bernyanyi, saya memasak.)
 
 ---
 
 ### 【129】STEM + かた
-**Fungsi:** Menyatakan "cara melakukan~" — mengubah kata kerja jadi kata benda cara/metode.
+🎯 **Target:** Menyatakan "cara melakukan~" — mengubah kata kerja jadi kata benda cara/metode.
 
-**Rumus:** [STEM] + かた
+🛠️ **Rumus Hack:** [STEM] + かた
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：すみません、この かんじ の **おぼえかた** を おしえて ください。(Maaf, tolong ajari saya cara menghafal kanji ini.)
 B：ええ、いい ですよ。(Boleh dong.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - この りょうり の **つくりかた** を おしえて ください。(Tolong ajari cara membuat masakan ini.) — dari 作ります → STEM 作り
 - 漢字 の **かきかた** が わかりません。(Saya tidak tahu cara menulis kanji.) — dari 書きます → STEM 書き
 
 ---
 
 ### 【130】STEM + なさい
-**Fungsi:** Bentuk perintah tegas — biasa dipakai guru ke murid, orang tua ke anak. **(Koreksi: rumus di sumber asli tertulis sama persis dengan 【129】 "KK〜ますかた" — ini typo copy-paste. Rumus yang benar untuk pola perintah adalah STEM + なさい, bukan かた.)**
+🎯 **Target:** Bentuk perintah tegas — biasa dipakai guru ke murid, orang tua ke anak. **(Koreksi: rumus di sumber asli tertulis sama persis dengan 【129】 "KK〜ますかた" — ini typo copy-paste. Rumus yang benar untuk pola perintah adalah STEM + なさい, bukan かた.)**
 
-**Rumus:** [STEM] + なさい
+🛠️ **Rumus Hack:** [STEM] + なさい
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：あした しけん です から、ちゃんと **べんきょうしなさい**！(Karena besok tes, belajarlah dengan baik!)
 B：はい、先生！(Baik, sensei!)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 早く **寝なさい**。(Cepat tidur!) — dari 寝ます → STEM 寝
 - 野菜 も **食べなさい**。(Sayurnya juga dimakan!) — dari 食べます → STEM 食べ
 
 ---
 
 ### 【131】STEM + やすい、〜
-**Fungsi:** Menyatakan sesuatu MUDAH dilakukan — "mudah di~".
+🎯 **Target:** Menyatakan sesuatu MUDAH dilakukan — "mudah di~".
 
-**Rumus:** [STEM] + やすい です
+🛠️ **Rumus Hack:** [STEM] + やすい です
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 この そうじき は **使いやすくて**、べんり です。(Vakum cleaner ini mudah dipakai, praktis.)
 この くすり は **飲みやすい** です。(Obat ini mudah diminum.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - この 本 は **読みやすい** です。(Buku ini mudah dibaca.)
 - この 漢字 は **覚えやすい** です。(Kanji ini mudah dihafal.)
 
 ---
 
 ### 【132】STEM + にくい、〜
-**Fungsi:** Menyatakan sesuatu SUSAH dilakukan — kebalikan dari 【131】.
+🎯 **Target:** Menyatakan sesuatu SUSAH dilakukan — kebalikan dari 【131】.
 
-**Rumus:** [STEM] + にくい です
+🛠️ **Rumus Hack:** [STEM] + にくい です
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 この漢字 は **読みにくい** です ね。(Kanji ini sulit dibaca ya.)
 この そうじき は ふべんで、**使いにくい** です。(Vakum cleaner ini ribet dan susah dipakai.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - この 問題 は **わかりにくい** です。(Soal ini susah dipahami.)
 - この 道 は **走りにくい** です。(Jalan ini susah untuk dilalui berlari.)
 
@@ -190,60 +192,60 @@ B：はい、先生！(Baik, sensei!)
 Empat pola tentang menyatakan "ingin" — dua untuk kata benda (ほしい), dua untuk kata kerja (STEM+たい).
 
 ### 【133】KB が ほしい です
-**Fungsi:** Menyatakan ingin memiliki suatu KATA BENDA.
+🎯 **Target:** Menyatakan ingin memiliki suatu KATA BENDA.
 
-**Rumus:** KB が ほしい です
+🛠️ **Rumus Hack:** KB が ほしい です
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：おみやげ、何 が ほしい？(Oleh-olehnya, ingin apa?)
 B：おもちゃ が ほしい よ。(Mau mainan.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 新しい かばん が ほしい です。(Saya ingin tas baru.)
 - 誕生日 に 時計 が ほしい です。(Saat ulang tahun saya ingin jam tangan.)
 
 ---
 
 ### 【134】KB は ほしくない です
-**Fungsi:** Menyatakan TIDAK ingin suatu kata benda (bentuk negatif dari ほしい, ikut pola KS-i biasa: buang い, tambah くない).
+🎯 **Target:** Menyatakan TIDAK ingin suatu kata benda (bentuk negatif dari ほしい, ikut pola KS-i biasa: buang い, tambah くない).
 
-**Rumus:** KB は ほしくない です
+🛠️ **Rumus Hack:** KB は ほしくない です
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：車 が ほしいですか。(Apakah ingin mobil?)
 B：いいえ、車 は ほしくない です。(Tidak, saya tidak ingin mobil.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - お金 は ほしくない です。(Saya tidak ingin uang.)
 - 新しい スマホ は ほしくない です。(Saya tidak ingin smartphone baru.)
 
 ---
 
 ### 【135】STEM + たい です
-**Fungsi:** Menyatakan ingin melakukan suatu KATA KERJA (beda dari ほしい yang untuk kata benda).
+🎯 **Target:** Menyatakan ingin melakukan suatu KATA KERJA (beda dari ほしい yang untuk kata benda).
 
-**Rumus:** KB が／を + [STEM] + たい です
+🛠️ **Rumus Hack:** KB が／を + [STEM] + たい です
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：何 が **食べたい** です か。(Ingin makan apa?)
 B：え〜と、ラーメン が 食べたい です。(Hmm, saya ingin makan ramen.) — dari 食べます → STEM 食べ
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 日本 に **行きたい** です。(Saya ingin pergi ke Jepang.) — dari 行きます → STEM 行き
 - 富士山 に **登りたい** です。(Saya ingin mendaki Gunung Fuji.) — dari 登ります → STEM 登り
 
 ---
 
 ### 【136】STEM + たくない です
-**Fungsi:** Menyatakan TIDAK ingin melakukan suatu kata kerja (bentuk negatif dari たい, sama pola dengan KS-i: buang い, tambah くない).
+🎯 **Target:** Menyatakan TIDAK ingin melakukan suatu kata kerja (bentuk negatif dari たい, sama pola dengan KS-i: buang い, tambah くない).
 
-**Rumus:** KB が／を + [STEM] + たくない です
+🛠️ **Rumus Hack:** KB が／を + [STEM] + たくない です
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：この なっとう は **食べたくない** です か。(Apakah tidak ingin makan natto ini?)
 B：ええ、すみません。にがて です から。(Iya, maaf. Karena saya tidak suka.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 今日 は **勉強したくない** です。(Hari ini saya tidak ingin belajar.)
 - 一人 で **行きたくない** です。(Saya tidak ingin pergi sendirian.)
 
@@ -256,47 +258,47 @@ B：ええ、すみません。にがて です から。(Iya, maaf. Karena saya
 Empat pola penutup Bab 9 yang TIDAK memakai STEM — ini pola berdiri sendiri yang juga penting di bab ini.
 
 ### 【137】KB tempat〜で KB acara〜が あります
-**Fungsi:** Menyatakan ada suatu ACARA di suatu tempat (mirip pola あります di Bab 4, tapi khusus buat event/acara).
+🎯 **Target:** Menyatakan ada suatu ACARA di suatu tempat (mirip pola あります di Bab 4, tapi khusus buat event/acara).
 
-**Rumus:** KB tempat で KB acara が あります
+🛠️ **Rumus Hack:** KB tempat で KB acara が あります
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 ひろば で まつり が あります。(Di lapangan ada perayaan.)
 としょかん で べんきょうかい が あります。(Di perpustakaan ada belajar kelompok.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 公園 で 夏祭り が あります。(Di taman ada perayaan musim panas.)
 - 学校 で 試合 が あります。(Di sekolah ada pertandingan.)
 
 ---
 
 ### 【138】Kalimat 〜の？
-**Fungsi:** Menandai kalimat tanya dalam bentuk KASUAL/biasa (bukan pakai か formal, tapi の di akhir kalimat biasa).
+🎯 **Target:** Menandai kalimat tanya dalam bentuk KASUAL/biasa (bukan pakai か formal, tapi の di akhir kalimat biasa).
 
-**Rumus:** Kalimat Biasa 〜の？
+🛠️ **Rumus Hack:** Kalimat Biasa 〜の？
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：今日、休む の？(Hari ini libur?)
 B：…うん。(...Ya.)
 A：これ、あらった の？(Ini sudah dicuci?)
 B：まだ です よ。(Belum.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 明日、来る の？(Besok datang?)
 - もう 食べた の？(Sudah makan?)
 
 ---
 
 ### 【139】〜けど・けれど・けれども
-**Fungsi:** Penghubung kontras "tapi" dalam kalimat biasa/kasual — level formalitas berbeda dari が (Bab 5) dan でも (Bab 5-6).
+🎯 **Target:** Penghubung kontras "tapi" dalam kalimat biasa/kasual — level formalitas berbeda dari が (Bab 5) dan でも (Bab 5-6).
 
-**Rumus:** Kalimat Biasa 〜けど・けれど・けれども、〜
+🛠️ **Rumus Hack:** Kalimat Biasa 〜けど・けれど・けれども、〜
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 おなか が すいた けど、何も ない。(Lapar tapi tidak ada apapun.)
 本日 は 忙しい です けれど、昨日 より あまり 忙しくない です。(Hari ini sibuk, tapi daripada kemarin, tidak begitu sibuk.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 疲れた けど、まだ 頑張ります。(Capek, tapi masih akan berusaha.)
 - 難しい けど、面白い です。(Sulit, tapi menarik.)
 
@@ -305,16 +307,16 @@ B：まだ です よ。(Belum.)
 ---
 
 ### 【140】じゃ・それじゃ・それでは・では
-**Fungsi:** Penghubung "kalau begitu~" untuk memulai kalimat/tindakan baru berdasarkan konteks sebelumnya.
+🎯 **Target:** Penghubung "kalau begitu~" untuk memulai kalimat/tindakan baru berdasarkan konteks sebelumnya.
 
-**Rumus:** Kalimat1。じゃ・それじゃ・それでは・では、〜
+🛠️ **Rumus Hack:** Kalimat1。じゃ・それじゃ・それでは・では、〜
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 今日 は ここまで です。それでは、また 来週。(Hari ini sampai di sini ya. Sampai ketemu lagi minggu depan.)
 A：時間 が ないよ！(Sudah tidak ada waktu!)
 B：じゃ、タクシー で 行きましょう！(Kalau begitu, mari pergi dengan taksi!)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - じゃ、また 明日。(Kalau begitu, sampai besok.)
 - それでは、始めましょう。(Kalau begitu, mari kita mulai.)
 

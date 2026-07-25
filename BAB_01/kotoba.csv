@@ -1,0 +1,133 @@
+KATEGORI,KANA,KANJI,ARTI
+KATA KERJA GOL. 1 (GODAN),ちがいます,違います,Salah / berbeda
+KATA KERJA GOL. 1 (GODAN),すんでいます,住んでいます,Tinggal / bermukim
+KATA KERJA GOL. 3 (FUKISOKU),きました,来ました,Datang
+KATA GANTI ORANG & SUBJEK,おまえ,お前,Kamu (kasar)
+KATA GANTI ORANG & SUBJEK,わたし,私,Saya
+KATA GANTI ORANG & SUBJEK,あのかた,あの方,Orang itu (lebih sopan)
+KATA GANTI ORANG & SUBJEK,あなた,貴方,Kamu
+KATA GANTI ORANG & SUBJEK,わたしたち,私たち,Kami
+KATA GANTI ORANG & SUBJEK,ちち,父,Ayah (saya)
+KATA GANTI ORANG & SUBJEK,おとうと,弟,Adik laki-laki (saya)
+KATA GANTI ORANG & SUBJEK,いもうと,妹,Adik perempuan (saya)
+KATA GANTI ORANG & SUBJEK,あのひと,あの人,Orang itu
+KATA GANTI ORANG & SUBJEK,あに,兄,Kakak laki-laki (saya)
+KATA GANTI ORANG & SUBJEK,あね,姉,Kakak perempuan (saya)
+KATA GANTI ORANG & SUBJEK,はは,母,Ibu (saya)
+KATA GANTI ORANG & SUBJEK,きみ,君,Kamu
+KATA GANTI ORANG & SUBJEK,こども,子供,Anak (saya)
+KATA GANTI ORANG & SUBJEK,かのじょ,彼女,Dia (perempuan)
+KATA GANTI ORANG & SUBJEK,かれら,彼ら,Mereka
+KATA GANTI ORANG & SUBJEK,おれ,俺,Saya (kasar)
+KATA GANTI ORANG & SUBJEK,かれ,彼,Dia (laki-laki)
+KATA GANTI ORANG & SUBJEK,〜さん,,Mr. / Mrs.~ (orang)
+KATA GANTI ORANG & SUBJEK,おかあさん,お母さん,Ibu (orang)
+KATA GANTI ORANG & SUBJEK,おばあさん,お祖母さん,Nenek (orang)
+KATA GANTI ORANG & SUBJEK,おじいさん,お祖父さん,Kakek (orang)
+KATA GANTI ORANG & SUBJEK,おとうさん,お父さん,Ayah (orang)
+KATA GANTI ORANG & SUBJEK,おくさん,奥さん,Istri (orang)
+KATA GANTI ORANG & SUBJEK,おこさん,お子さん,Anak (orang)
+KATA GANTI ORANG & SUBJEK,みなさん,皆さん,Kalian semua
+KATA GANTI ORANG & SUBJEK,りょうしん,両親,Orang tua
+KATA GANTI ORANG & SUBJEK,ごしゅじん,ご主人,Suami (orang)
+KELUARGA & HUBUNGAN SOSIAL,おい,甥,Keponakan laki-laki
+KELUARGA & HUBUNGAN SOSIAL,きょうだい,兄弟,Saudara
+KELUARGA & HUBUNGAN SOSIAL,しまい,姉妹,Saudara perempuan
+KELUARGA & HUBUNGAN SOSIAL,めい,姪,Keponakan perempuan
+KELUARGA & HUBUNGAN SOSIAL,かぞく,家族,Keluarga
+KELUARGA & HUBUNGAN SOSIAL,いとこ,従兄弟 / 従姉妹,Sepupu
+KELUARGA & HUBUNGAN SOSIAL,まご,孫,Cucu
+KELUARGA & HUBUNGAN SOSIAL,かれし,彼氏,Pacar laki-laki
+KELUARGA & HUBUNGAN SOSIAL,ともだち,友達,Teman
+KELUARGA & HUBUNGAN SOSIAL,ままちち,継父,Ayah tiri
+KELUARGA & HUBUNGAN SOSIAL,おっと,夫,Suami
+KELUARGA & HUBUNGAN SOSIAL,こいびと,恋人,Pacar
+KELUARGA & HUBUNGAN SOSIAL,ままはは,継母,Ibu tiri
+KELUARGA & HUBUNGAN SOSIAL,そふ,祖父,Kakek
+KELUARGA & HUBUNGAN SOSIAL,しゅふ,主婦,Ibu rumah tangga
+KELUARGA & HUBUNGAN SOSIAL,そぼ,祖母,Nenek
+KELUARGA & HUBUNGAN SOSIAL,つま,妻,Istri
+KELUARGA & HUBUNGAN SOSIAL,おじさん,叔父さん / 伯父さん,Paman
+KELUARGA & HUBUNGAN SOSIAL,おばさん,叔母さん / 伯母さん,Bibi
+KELUARGA & HUBUNGAN SOSIAL,〜ちゃん,,(untuk anak kecil)
+KATEGORI ORANG & GENDER,〜くん,〜君,(untuk laki-laki)
+PROFESI & PEKERJAAN,がくせい,学生,Siswa
+PROFESI & PEKERJAAN,せんせい,先生,Guru / dosen
+PROFESI & PEKERJAAN,のうか,農家,Petani
+PROFESI & PEKERJAAN,かんごし,看護師,Perawat
+PROFESI & PEKERJAAN,けいさつ,警察,Polisi
+PROFESI & PEKERJAAN,せいと,生徒,Murid
+PROFESI & PEKERJAAN,いしゃ,医者,Dokter
+PROFESI & PEKERJAAN,ぎんこういん,銀行員,Pegawai bank
+PROFESI & PEKERJAAN,えきいん,駅員,Pegawai stasiun
+PROFESI & PEKERJAAN,こうむいん,公務員,Pegawai negeri
+PROFESI & PEKERJAAN,じむいん,事務員,Staff
+PROFESI & PEKERJAAN,しゃいん,社員,Karyawan
+PROFESI & PEKERJAAN,かいしゃいん,会社員,Pegawai perusahaan
+PROFESI & PEKERJAAN,しょうにん,商人,Pedagang
+BAHASA & LINGUISTIK,インドネシア,,Indonesia
+BAHASA & LINGUISTIK,イギリス,,Inggris
+INFRASTRUKTUR & TATA KOTA,しゅふ,主夫,Bapak rumah tangga
+ANGKA DASAR (1 - 10),いっさい,一歳,1 tahun
+ANGKA DASAR (1 - 10),にさい,二歳,2 tahun
+ANGKA DASAR (1 - 10),さんさい,三歳,3 tahun
+ANGKA DASAR (1 - 10),よんさい,四歳,4 tahun
+ANGKA DASAR (1 - 10),ごさい,五歳,5 tahun
+ANGKA DASAR (1 - 10),ろくさい,六歳,6 tahun
+ANGKA DASAR (1 - 10),ななさい,七歳,7 tahun
+ANGKA DASAR (1 - 10),はっさい,八歳,8 tahun
+ANGKA DASAR (1 - 10),きゅうさい,九歳,9 tahun
+ANGKA DASAR (1 - 10),じゅっさい,十歳,10 tahun
+ANGKA BELASAN & PULUHAN,はたち,二十歳,20 tahun
+KATA TANYA (GIMONSHI),なんさい,何歳,Berapa tahun?
+KATA TANYA (GIMONSHI),どこ,何処,Dimana
+KATA TANYA (GIMONSHI),どなた,何方,Siapa (lebih sopan)
+KATA TANYA (GIMONSHI),おいくつ,お幾つ,Berapa usianya?
+KATA TANYA (GIMONSHI),だれ,誰,Siapa
+KATA TUNJUK (KOSOADO),から,,Dari
+KATA KETERANGAN (FUKUSHI) & SAMBUNG,ひとりで,一人で,Sendirian
+PARTIKEL & UNGKAPAN SALAM,はい,,Iya
+PARTIKEL & UNGKAPAN SALAM,あのう,,Hm…
+PARTIKEL & UNGKAPAN SALAM,いいえ,,Tidak
+PARTIKEL & UNGKAPAN SALAM,そう です,,(membenarkan)
+KOSAKATA SERAPAN (KATAKANA),ロシア,,Rusia
+KOSAKATA SERAPAN (KATAKANA),マレーシア,,Malaysia
+KOSAKATA SERAPAN (KATAKANA),アジア,,Asia
+KOSAKATA SERAPAN (KATAKANA),ケニア,,Kenya
+KOSAKATA SERAPAN (KATAKANA),サウジアラビア,,Saudi Arabia
+KOSAKATA SERAPAN (KATAKANA),イタリア,,Italia
+KOSAKATA SERAPAN (KATAKANA),オーストラリア,,Australia
+KOSAKATA SERAPAN (KATAKANA),タイ,,Thailand
+KOSAKATA SERAPAN (KATAKANA),アフリカ,,Afrika
+KOSAKATA SERAPAN (KATAKANA),アメリカ,,Amerika
+KOSAKATA SERAPAN (KATAKANA),メキシコ,,Meksiko
+KOSAKATA SERAPAN (KATAKANA),トルコ,,Turki
+KOSAKATA SERAPAN (KATAKANA),スイス,,Swiss
+KOSAKATA SERAPAN (KATAKANA),フランス,,Prancis
+KOSAKATA SERAPAN (KATAKANA),カナダ,,Kanada
+KOSAKATA SERAPAN (KATAKANA),ドイツ,,Jerman
+KOSAKATA SERAPAN (KATAKANA),エジプト,,Mesir
+KOSAKATA SERAPAN (KATAKANA),インド,,India
+KOSAKATA SERAPAN (KATAKANA),ニュージーランド,,New Zealand
+KOSAKATA SERAPAN (KATAKANA),ヨーロッパ,,Eropa
+KOSAKATA SERAPAN (KATAKANA),ベトナム,,Vietnam
+KOSAKATA SERAPAN (KATAKANA),ブラジル,,Brazil
+KOSAKATA SERAPAN (KATAKANA),ネパール,,Nepal
+KOSAKATA SERAPAN (KATAKANA),シンガポール,,Singapura
+KOSAKATA SERAPAN (KATAKANA),スペイン,,Spanyol
+KOSAKATA SERAPAN (KATAKANA),フィリピン,,Filipina
+KOSAKATA SERAPAN (KATAKANA),タイワン,台湾,Taiwan
+KOSAKATA SERAPAN (KATAKANA),ミャンマー,,Myanmar
+BANGUNAN & RUANGAN,りょう,寮,Asrama
+BANGUNAN & RUANGAN,みんしゅく,民宿,Guest house
+BANGUNAN & RUANGAN,りょかん,旅館,Penginapan
+BANGUNAN & RUANGAN,ゲストハウス,,Guest house
+BANGUNAN & RUANGAN,アパート,,Apartemen
+BANGUNAN & RUANGAN,ホテル,,Hotel
+BANGUNAN & RUANGAN,マンション,,Mansion
+NEGARA & GEOGRAFI,いなか,田舎,Desa
+NEGARA & GEOGRAFI,かんこく,韓国,Korea Selatan
+NEGARA & GEOGRAFI,ちゅうごく,中国,China
+NEGARA & GEOGRAFI,まち,町,Kota
+NEGARA & GEOGRAFI,ふるさと,故郷,Kampung halaman
+NEGARA & GEOGRAFI,にほん,日本,Jepang

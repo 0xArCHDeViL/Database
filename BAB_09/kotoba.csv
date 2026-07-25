@@ -1,0 +1,75 @@
+KATEGORI,KANA,KANJI,ARTI
+KATA KERJA GOL. 1 (GODAN),あいます,会います,Bertemu
+KATA KERJA GOL. 1 (GODAN),あいます,合います,Cocok
+KATA KERJA GOL. 1 (GODAN),つきあいます,付き合います,Berpacaran
+KATA KERJA GOL. 1 (GODAN),おこないます,行います,Menyelenggarakan
+KATA KERJA GOL. 1 (GODAN),おもいます,思います,Memikirkan
+KATA KERJA GOL. 1 (GODAN),かよいます,通います,Pergi (PP)
+KATA KERJA GOL. 1 (GODAN),まよいます,迷います,Bingung
+KATA KERJA GOL. 1 (GODAN),はらいます,払います,Membayar
+KATA KERJA GOL. 1 (GODAN),あじわいます,味わいます,Mencicipi
+KATA KERJA GOL. 1 (GODAN),あきます,空きます,Kosong
+KATA KERJA GOL. 1 (GODAN),いきます,生きます,Hidup
+KATA KERJA GOL. 1 (GODAN),さきます,咲きます,Mekar
+KATA KERJA GOL. 1 (GODAN),すきます,空きます,Kosong
+KATA KERJA GOL. 1 (GODAN),ひきます,引きます,Menarik
+KATA KERJA GOL. 1 (GODAN),ふきます,吹きます,Bertiup
+KATA KERJA GOL. 1 (GODAN),ひらきます,開きます,Membuka
+KATA KERJA GOL. 1 (GODAN),とじます,閉じます,Menutup
+KATA KERJA GOL. 1 (GODAN),かちます,勝ちます,Menang
+KATA KERJA GOL. 1 (GODAN),とびます,飛びます,Terbang
+KATA KERJA GOL. 1 (GODAN),えらびます,選びます,Memilih
+KATA KERJA GOL. 1 (GODAN),いります,要ります,Membutuhkan
+KATA KERJA GOL. 1 (GODAN),とおります,通ります,Melewati
+KATA KERJA GOL. 1 (GODAN),おくります,送ります,Mengantar
+KATA KERJA GOL. 1 (GODAN),なぐります,殴ります,Memukul
+KATA KERJA GOL. 1 (GODAN),けります,蹴ります,Menendang
+KATA KERJA GOL. 1 (GODAN),はしります,走ります,Berlari
+KATA KERJA GOL. 1 (GODAN),としをとります,年を取ります,Menjadi tua
+KATA KERJA GOL. 1 (GODAN),かぶります,被ります,Memakai (topi)
+KATA KERJA GOL. 1 (GODAN),きまります,決まります,Diputuskan
+KATA KERJA GOL. 1 (GODAN),こまります,困ります,Kesulitan
+KATA KERJA GOL. 1 (GODAN),たまります,溜まります,Bertumpuk
+KATA KERJA GOL. 2 (ICHIDAN),むかえます,迎えます,Menjemput
+KATA KERJA GOL. 2 (ICHIDAN),まけます,負けます,Kalah
+KATA KERJA GOL. 2 (ICHIDAN),わけます,分けます,Membagi
+KATA KERJA GOL. 2 (ICHIDAN),さげます,下げます,Menurunkan
+KATA KERJA GOL. 2 (ICHIDAN),にげます,逃げます,Kabur
+KATA KERJA GOL. 2 (ICHIDAN),きめます,決めます,Memutuskan
+KATA KERJA GOL. 2 (ICHIDAN),やめます,辞めます,Berhenti
+KATA KERJA GOL. 3 (FUKISOKU),おします,押します,Menekan
+KATA KERJA GOL. 3 (FUKISOKU),たおします,倒します,Meroboh
+KATA KERJA GOL. 3 (FUKISOKU),けんかします,喧嘩します,Bertengkar
+KATA KERJA GOL. 3 (FUKISOKU),ながします,流します,Mengalirkan
+KATA KERJA GOL. 3 (FUKISOKU),よやくします,予約します,Reservasi
+KATA KERJA GOL. 3 (FUKISOKU),こんやくします,婚約します,Bertunangan
+KATA KERJA GOL. 3 (FUKISOKU),けします,消します,Menghapus
+KATA KERJA GOL. 3 (FUKISOKU),はずします,外します,Melepas
+KATA KERJA GOL. 3 (FUKISOKU),たします,足します,Menambah
+KATA KERJA GOL. 3 (FUKISOKU),だします,出します,Mengeluarkan
+KATA KERJA GOL. 3 (FUKISOKU),おとします,落とします,Menjatuhkan
+KATA KERJA GOL. 3 (FUKISOKU),もどします,戻します,Mengembalikan
+KATA KERJA GOL. 3 (FUKISOKU),はなします,離します,Melepaskan
+KATA KERJA GOL. 3 (FUKISOKU),こわします,壊します,Merusakkan
+KATA KERJA GOL. 3 (FUKISOKU),けっこんします,結婚します,Menikah
+KELUARGA & HUBUNGAN SOSIAL,フレンド,,Teman
+KELUARGA & HUBUNGAN SOSIAL,ボーイフレンド,,Pacar cowok
+KELUARGA & HUBUNGAN SOSIAL,ガールフレンド,,Pacar perempuan
+PAKAIAN & AKSESORIS,ぼうし,帽子,Topi
+PAKAIAN & AKSESORIS,ヒジャブ,,Hijab
+ALAT ELEKTRONIK & MESIN,スイッチ,,Saklar
+"""HIBURAN, HOBI & OLAHRAGA""",しあい,試合,Pertandingan
+"""HIBURAN, HOBI & OLAHRAGA""",おもちゃ,玩具,Mainan
+"""HIBURAN, HOBI & OLAHRAGA""",フェスティバル,,Festival
+PENDIDIKAN & AKADEMIK,べんきょうかい,勉強会,Belajar kelompok
+PENDIDIKAN & AKADEMIK,ぶんしょう,文章,Bacaan
+PENDIDIKAN & AKADEMIK,じ,字,Huruf
+PENDIDIKAN & AKADEMIK,ぶん,文,Kalimat
+PENDIDIKAN & AKADEMIK,れいぶん,例文,Contoh kalimat
+ACARA & PERAYAAN,〜まつり,〜祭り,Perayaan ~
+ACARA & PERAYAAN,なつまつり,夏祭り,Perayaan musim panas
+ACARA & PERAYAAN,イベント,,Even / acara
+PARTIKEL & UNGKAPAN SALAM,〜たいかい,〜大会,Turnamen ~
+KOSAKATA SERAPAN (KATAKANA),ビジネス,,Bisnis
+KOSAKATA SERAPAN (KATAKANA),レベル,,Level
+ALAM & LINGKUNGAN,ゆきまつり,雪祭り,Perayaan salju
