@@ -1,4 +1,6 @@
-# BUNPOU BAB 8 — Bentuk ～た (Lampau Kasual) & ～る (Bentuk Kamus)
+# 🏯 Sensei N1 Dojo: Bunpou Bab 8 — Bentuk ～た (Lampau Kasual) & ～る (Bentuk Kamus)
+
+*Ossu!* Selamat datang di dojo Sensei! Di sini kita nggak cuma ngapalin rumus, tapi kita **hack** logikanya biar nyangkut di otak! 🧠💥
 
 > **Kotoba baru di bab ini:** banyak kata kerja hobi/aktivitas (歌います, 弾きます, 描きます, 登ります, 旅行します, dll), musim (春, 夏, 秋, 冬), istilah hubungan sosial (同僚, 友人, 仲間, 知り合い, 相手), dan kata benda verbal tambahan (買い物, 読書, 料理, スポーツ).
 >
@@ -48,105 +50,105 @@ Bentuk paling dasar/mentah, yang dicari di kamus. Ini bentuk NON-LAMPAU kasual (
 Enam pola ini semua pakai bentuk ～た untuk menyatakan pengalaman, urutan kejadian, atau hal yang baru saja terjadi.
 
 ### 【104】KK〜た
-**Fungsi:** Kata kerja lampau bentuk kasual (biasa) — dipakai ke teman dekat/sederajat, bukan ke atasan.
+🎯 **Target:** Kata kerja lampau bentuk kasual (biasa) — dipakai ke teman dekat/sederajat, bukan ke atasan.
 
-**Rumus:** KB1 を KK〜た
+🛠️ **Rumus Hack:** KB1 を KK〜た
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：けさ、何 を 食べた？(Tadi pagi, makan apa?)
 B：けさ、パン と ヨーグルト を 食べた。(Tadi pagi saya sarapan roti dan yogurt.)
 
-**Contoh tambahan (pakai kotoba Bab 1-8):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)** (pakai kotoba Bab 1-8):**
 - 昨日、映画 を 見た。(Kemarin saya nonton film.)
 - 兄 は 漢字 を 習った。(Kakak laki-laki saya belajar kanji.)
 
 ---
 
 ### 【105】KK〜た こと が あります
-**Fungsi:** Menyatakan pengalaman "pernah melakukan~".
+🎯 **Target:** Menyatakan pengalaman "pernah melakukan~".
 
-**Rumus:** KK〜た ことが あります
+🛠️ **Rumus Hack:** KK〜た ことが あります
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：わさび を 食べた こと が あります か。(Pernah makan wasabi?)
 B：いいえ、食べた こと が ない です。(Belum, belum pernah makan.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 富士山 に 登った こと が あります。(Saya pernah mendaki Gunung Fuji.)
 - ギター を 弾いた こと が ありません。(Saya belum pernah main gitar.)
 
 ---
 
 ### 【106】KK〜た あと、〜
-**Fungsi:** Menyatakan "setelah melakukan~" — versi bentuk た dari 【89】 (Te-form).
+🎯 **Target:** Menyatakan "setelah melakukan~" — versi bentuk た dari 【89】 (Te-form).
 
-**Rumus:** KK〜た あと、〜
+🛠️ **Rumus Hack:** KK〜た あと、〜
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：べんきょうした あと、何 を していますか。(Setelah belajar, biasanya ngapain?)
 B：クラス を かたづけます。(Membereskan kelas.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 勉強した あと、テレビ を 見ます。(Setelah belajar, saya nonton TV.)
 - ご飯 を 食べた あと、歯 を 磨きます。(Setelah makan, saya gosok gigi.)
 
 ---
 
 ### 【107】KK〜た ばかり です
-**Fungsi:** Menyatakan "baru saja melakukan~".
+🎯 **Target:** Menyatakan "baru saja melakukan~".
 
-**Rumus:** KK〜た ばかり です
+🛠️ **Rumus Hack:** KK〜た ばかり です
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：えいが は おわった？(Filmnya udah selesai ya?)
 B：いいえ、はじまった ばかり。(Enggak kok. Baru aja mulai.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 今、起きた ばかり です。(Saya baru saja bangun.)
 - 学校 は 始まった ばかり です。(Sekolahnya baru saja mulai.)
 
 ---
 
 ### 【108】KK〜た ほう が いい です
-**Fungsi:** Memberi saran — "sebaiknya melakukan~".
+🎯 **Target:** Memberi saran — "sebaiknya melakukan~".
 
-**Rumus:** KK〜た ほう が いい です
+🛠️ **Rumus Hack:** KK〜た ほう が いい です
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：あたま、いたい なあ〜。(Duh kepala saya sakit.)
 B：くすり を 飲んだ ほうが いい です よ。(Sebaiknya segera minum obat.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 早く 寝た ほう が いい です。(Sebaiknya cepat tidur.)
 - 病院 に 行った ほう が いい です よ。(Sebaiknya pergi ke rumah sakit.)
 
 ---
 
 ### 【109】KK〜たら
-**Fungsi:** Menyatakan kondisional "kalau melakukan~".
+🎯 **Target:** Menyatakan kondisional "kalau melakukan~".
 
-**Rumus:** KK〜たら、〜
+🛠️ **Rumus Hack:** KK〜たら、〜
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：漢字 を 書いたら、えんぴつ を 使って ください。(Kalau menulis kanji, gunakan pensil.)
 B：はい。わかりました。(Baik.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 雨 が 降ったら、行きません。(Kalau hujan turun, saya tidak pergi.)
 - 学校 が 終わったら、電話 して ください。(Kalau sekolah sudah selesai, tolong telepon saya.)
 
 ---
 
 ### 【110】KK〜たり、〜たり します
-**Fungsi:** Menyebutkan beberapa kegiatan yang dilakukan (tidak berurutan ketat, cuma contoh aktivitas).
+🎯 **Target:** Menyebutkan beberapa kegiatan yang dilakukan (tidak berurutan ketat, cuma contoh aktivitas).
 
-**Rumus:** KK〜たり、〜たり します
+🛠️ **Rumus Hack:** KK〜たり、〜たり します
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：休みの日、何 を しました か。(Saat libur, ngapain aja?)
 B：家 で せんたく したり、そうじ したり しました。(Di rumah nyuci baju, bersih-bersih, dan lain-lain.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 週末 は 本 を 読んだり、音楽 を 聞いたり します。(Akhir pekan saya baca buku, dengar musik, dan lain-lain.)
 - 休みの日、料理 したり、映画 を 見たり します。(Hari libur saya masak, nonton film, dan lain-lain.)
 
@@ -157,90 +159,90 @@ B：家 で せんたく したり、そうじ したり しました。(Di ruma
 Enam pola ini memakai bentuk ～る (bentuk kamus) untuk berbagai fungsi: pernyataan kasual, hobi, kadang-kadang, dan kemampuan.
 
 ### 【111】KK〜る
-**Fungsi:** Bentuk kamus (non-lampau, kasual) — dipakai untuk kalimat santai sehari-hari.
+🎯 **Target:** Bentuk kamus (non-lampau, kasual) — dipakai untuk kalimat santai sehari-hari.
 
-**Rumus:** KK〜る
+🛠️ **Rumus Hack:** KK〜る
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：ぶた肉、食べる？(Kamu makan daging babi?)
 B：いいえ、食べません。(Tidak, saya tidak makan.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 明日、映画 を 見る。(Besok saya akan nonton film.)
 - 毎日、日本語 を 勉強する。(Setiap hari saya belajar bahasa Jepang.)
 
 ---
 
 ### 【112】KK〜る こと です
-**Fungsi:** Menyatakan hobi menggunakan kata kerja — "hobi saya adalah ~".
+🎯 **Target:** Menyatakan hobi menggunakan kata kerja — "hobi saya adalah ~".
 
-**Rumus:** KK〜る こと です
+🛠️ **Rumus Hack:** KK〜る こと です
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：しゅみ は 何 です か。(Hobi kamu apa?)
 B：ハイキングする ことです。(Hiking.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 私 の しゅみ は 歌を歌う こと です。(Hobi saya adalah bernyanyi.)
 - 兄 の しゅみ は ギター を ひく こと です。(Hobi kakak laki-laki saya adalah main gitar.)
 
 ---
 
 ### 【113】KK〜る こと が あります
-**Fungsi:** Menyatakan "kadang-kadang melakukan~" — beda dari ときどき (Bab 4/6) yang lebih langsung, ini lebih formal.
+🎯 **Target:** Menyatakan "kadang-kadang melakukan~" — beda dari ときどき (Bab 4/6) yang lebih langsung, ini lebih formal.
 
-**Rumus:** KK〜る こと が あります
+🛠️ **Rumus Hack:** KK〜る こと が あります
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：食べたあと、何 を しますか。(Setelah makan, ngapain?)
 B：ビール を 飲む ことが あります。(Kadang-kadang saya minum bir.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 週末、映画 を 見る こと が あります。(Kadang-kadang akhir pekan saya nonton film.)
 - 友達 と お喋りする こと が あります。(Kadang-kadang saya mengobrol dengan teman.)
 
 ---
 
 ### 【114】KK〜る こと が できます
-**Fungsi:** Menyatakan kemampuan "bisa melakukan~".
+🎯 **Target:** Menyatakan kemampuan "bisa melakukan~".
 
-**Rumus:** KK〜る こと が できます
+🛠️ **Rumus Hack:** KK〜る こと が できます
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：ギター を ひく こと が できます か。(Apakah bisa main gitar?)
 B：はい、できますよ。／いいえ、できません。(Ya, bisa. / Tidak bisa.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 私 は 歌 を 歌う こと が できます。(Saya bisa bernyanyi.)
 - 弟 は 山 に 登る こと が できます。(Adik laki-laki saya bisa mendaki gunung.)
 
 ---
 
 ### 【115】KK〜る まえに、〜
-**Fungsi:** Menyatakan "sebelum melakukan~".
+🎯 **Target:** Menyatakan "sebelum melakukan~".
 
-**Rumus:** KK〜る まえに、〜
+🛠️ **Rumus Hack:** KK〜る まえに、〜
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：べんきょうする まえに、何 を した ほうが いいですか。(Sebelum belajar, sebaiknya melakukan apa?)
 B：いっしょに おいのり を した ほうが いいです。(Sebaiknya kita berdoa bersama.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 寝る まえに、歯 を 磨きます。(Sebelum tidur, saya gosok gigi.)
 - 旅行する まえに、荷物 を 準備します。(Sebelum jalan-jalan, saya siapkan barang bawaan.)
 
 ---
 
 ### 【116】KK〜る ときに、〜
-**Fungsi:** Menyatakan "pada saat melakukan~".
+🎯 **Target:** Menyatakan "pada saat melakukan~".
 
-**Rumus:** KK〜る ときに、〜
+🛠️ **Rumus Hack:** KK〜る ときに、〜
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：あめ が ふる とき に、何 を した ほうが いいですか。(Pada saat hujan, sebaiknya melakukan apa?)
 B：ねた ほうが いいです。(Sebaiknya tidur.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 料理する とき に、気を付けて ください。(Pada saat memasak, hati-hati ya.)
 - 漢字 を 書く とき に、辞書 を 使います。(Pada saat menulis kanji, saya pakai kamus.)
 
@@ -251,44 +253,44 @@ B：ねた ほうが いいです。(Sebaiknya tidur.)
 Tiga pola tentang mengubah kata kerja jadi seperti kata benda, dan kondisional dengan と.
 
 ### 【117】KK〜る のは 〜
-**Fungsi:** "Membendakan" kata kerja — mengubah aktivitas jadi subjek/topik kalimat.
+🎯 **Target:** "Membendakan" kata kerja — mengubah aktivitas jadi subjek/topik kalimat.
 
-**Rumus:** KK〜る のは／のが 〜
+🛠️ **Rumus Hack:** KK〜る のは／のが 〜
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：何 が 好き です か。(Kamu suka apa?)
 B：山 に のぼる のが 好きです。(Saya suka naik gunung.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 本 を 読む の が 好き です。(Saya suka membaca buku.)
 - 料理する の は 楽しい です。(Memasak itu menyenangkan.)
 
 ---
 
 ### 【118】KK〜る KB
-**Fungsi:** Menjelaskan kata benda menggunakan kata kerja bentuk kamus — "KB yang akan/biasa di~".
+🎯 **Target:** Menjelaskan kata benda menggunakan kata kerja bentuk kamus — "KB yang akan/biasa di~".
 
-**Rumus:** KK〜る KB
+🛠️ **Rumus Hack:** KK〜る KB
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 それ は 食べる パン です。(Itu adalah roti yang akan saya makan.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - これ は 明日 着る 服 です。(Ini baju yang akan saya pakai besok.)
 - あれ は 毎日 使う かばん です。(Itu tas yang saya pakai setiap hari.)
 
 ---
 
 ### 【119】KK〜る と、〜
-**Fungsi:** Menyatakan "kalau melakukan~, maka~" — hubungan sebab-akibat yang pasti terjadi.
+🎯 **Target:** Menyatakan "kalau melakukan~, maka~" — hubungan sebab-akibat yang pasti terjadi.
 
-**Rumus:** KK〜る と、〜
+🛠️ **Rumus Hack:** KK〜る と、〜
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 この ドア を あける と、山 が みえます。(Kalau pintu ini dibuka, terlihat gunung.)
 はやく 行くと、間に合う よ。(Kalau bergegas, masih bisa loh.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 春 に なると、花 が さきます。(Kalau musim semi tiba, bunga mekar.)
 - この ボタン を おすと、電気 が つきます。(Kalau tombol ini ditekan, lampu menyala.)
 
@@ -299,30 +301,30 @@ B：山 に のぼる のが 好きです。(Saya suka naik gunung.)
 Empat pola penutup: cara menanyakan "gimana selanjutnya", jenis KB, frekuensi ekstrem, dan aktivitas bersama.
 
 ### 【120】どう しますか
-**Fungsi:** Menanyakan rencana selanjutnya — "gimana (rencananya) selanjutnya?"
+🎯 **Target:** Menanyakan rencana selanjutnya — "gimana (rencananya) selanjutnya?"
 
-**Rumus:** どう しますか
+🛠️ **Rumus Hack:** どう しますか
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：テスト が 終わって から、どう しますか。(Setelah tes selesai, mau bagaimana?)
 B：えいが は どうですか。(Bagaimana kalau nonton film?)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - A：仕事 が 終わって から、どう しますか。
 - B：友達 と 食事 は どうですか。
 
 ---
 
 ### 【121】どんな〜KB
-**Fungsi:** Menanyakan jenis dari suatu kata benda — "KB apa/yang bagaimana" (mirip 【53】 tapi lebih fokus ke kategori/jenis).
+🎯 **Target:** Menanyakan jenis dari suatu kata benda — "KB apa/yang bagaimana" (mirip 【53】 tapi lebih fokus ke kategori/jenis).
 
-**Rumus:** どんな KB
+🛠️ **Rumus Hack:** どんな KB
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：どんな スポーツ が 好きです か。(Suka olahraga apa?)
 B：バレボール です。(Voli.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - A：どんな 音楽 が 好き です か。
 - B：ロック が 好き です。
 - A：どんな 映画 を 見ました か。
@@ -331,30 +333,30 @@ B：バレボール です。(Voli.)
 ---
 
 ### 【122】ぜんぜん・ほとんど・いちども〜ません
-**Fungsi:** Menyatakan frekuensi ekstrem negatif — "sama sekali tidak/hampir tidak pernah".
+🎯 **Target:** Menyatakan frekuensi ekstrem negatif — "sama sekali tidak/hampir tidak pernah".
 
-**Rumus:** ぜんぜん・ほとんど・いちども KK〜ません
+🛠️ **Rumus Hack:** ぜんぜん・ほとんど・いちども KK〜ません
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 ぜんぜん、おすし を 食べた こと が ありません。(Sama sekali belum pernah makan sushi.)
 わさび は ほとんど 食べません。(Saya hampir tidak makan wasabi.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 私 は いちども 富士山 に のぼった こと が ありません。(Saya belum pernah sekalipun mendaki Gunung Fuji.)
 - 兄 は ほとんど お酒 を 飲みません。(Kakak laki-laki saya hampir tidak minum alkohol.)
 
 ---
 
 ### 【123】KB Orang Jamak〜と KB Jumlah Orang〜で
-**Fungsi:** Menyatakan melakukan sesuatu bersama sejumlah orang tertentu.
+🎯 **Target:** Menyatakan melakukan sesuatu bersama sejumlah orang tertentu.
 
-**Rumus:** KB Orang Jamak と KB Jumlah Orang で
+🛠️ **Rumus Hack:** KB Orang Jamak と KB Jumlah Orang で
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 きのう、ともだち と 2人 で デパート で かいものした。(Kemarin, belanja di department store bersama teman berdua.)
 ときどき、かぞく と ４人 で りょこうした。(Kadang-kadang traveling bersama keluarga berempat.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 家族 と 5人 で 旅行しました。(Saya jalan-jalan bersama keluarga berlima.)
 - 友達 と 3人 で 映画 を 見ました。(Saya nonton film bersama teman bertiga.)
 

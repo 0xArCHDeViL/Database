@@ -1,4 +1,6 @@
-# BUNPOU BAB 6 — Waktu, Lokasi Aktivitas & Bentuk Lampau
+# 🏯 Sensei N1 Dojo: Bunpou Bab 6 — Waktu, Lokasi Aktivitas & Bentuk Lampau
+
+*Ossu!* Selamat datang di dojo Sensei! Di sini kita nggak cuma ngapalin rumus, tapi kita **hack** logikanya biar nyangkut di otak! 🧠💥
 
 > **Kotoba baru di bab ini:** kata kerja aktivitas harian (買います, 働きます, 起きます, 寝ます, 掃除します, dll), waktu lengkap (jam 1-12, menit, hari dalam seminggu, tanggal 1-31, bulan 1-12), keterangan waktu (昨日, 今日, 明日, 先週, 来月, dll), arah & posisi (上, 下, 中, 隣, そば, dll), tempat makan & belanja (レストラン, コンビニ, デパート, 屋 sufiks kedai), kendaraan (電車, 飛行機, タクシー, dll), binatang & buah tambahan, dan kata keterangan (すぐに, 必ず, 多分, dll).
 >
@@ -13,15 +15,15 @@ Bab 6 ini bab paling padat sejauh ini — gabungan tiga topik besar: (1) nyebut 
 Tiga pola dasar buat nempelin keterangan tempat dan waktu ke kalimat kerja.
 
 ### 【64】〜で
-**Fungsi:** Menunjukkan lokasi tempat suatu aktivitas (kata kerja) berlangsung — beda dari に yang menunjukkan lokasi keberadaan statis (lihat Bab 4).
+🎯 **Target:** Menunjukkan lokasi tempat suatu aktivitas (kata kerja) berlangsung — beda dari に yang menunjukkan lokasi keberadaan statis (lihat Bab 4).
 
-**Rumus:** KB tempat 〜で KK〜ます
+🛠️ **Rumus Hack:** KB tempat 〜で KK〜ます
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：トニさん、どこで はたらきます か。(Toni, bekerja di mana?)
 B：日本で はたらきます。(Bekerja di Jepang.)
 
-**Contoh tambahan (pakai kotoba Bab 1-6):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)** (pakai kotoba Bab 1-6):**
 - 私 は レストラン で 食事します。(Saya makan di restoran.)
 - 兄 は 会社 で 働きます。(Kakak laki-laki saya bekerja di perusahaan.)
 - 母 は 台所 で 料理します。(Ibu memasak di dapur.)
@@ -29,15 +31,15 @@ B：日本で はたらきます。(Bekerja di Jepang.)
 ---
 
 ### 【65】〜に／〜ごろ
-**Fungsi:** Menunjukkan keterangan waktu terjadinya suatu kegiatan — に untuk waktu pasti, ごろ untuk waktu perkiraan ("sekitar~").
+🎯 **Target:** Menunjukkan keterangan waktu terjadinya suatu kegiatan — に untuk waktu pasti, ごろ untuk waktu perkiraan ("sekitar~").
 
-**Rumus:** KB waktu 〜に／〜ごろ KK〜ます
+🛠️ **Rumus Hack:** KB waktu 〜に／〜ごろ KK〜ます
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：何時に あさごはんを 食べます か。(Jam berapa sarapan?)
 B：7時に あさごはんを 食べます。(Sarapan pada pukul 7.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 私 は 六時 に 起きます。(Saya bangun pukul 6.)
 - 兄 は 十時ごろ 寝ます。(Kakak laki-laki saya tidur sekitar jam 10.)
 - 月曜日 に 学校 に 行きます。(Saya pergi ke sekolah pada hari Senin.)
@@ -45,15 +47,15 @@ B：7時に あさごはんを 食べます。(Sarapan pada pukul 7.)
 ---
 
 ### 【66】〜は なんじ です か
-**Fungsi:** Menanyakan jam suatu kegiatan — "~nya jam berapa?"
+🎯 **Target:** Menanyakan jam suatu kegiatan — "~nya jam berapa?"
 
-**Rumus:** KB は なんじ です か
+🛠️ **Rumus Hack:** KB は なんじ です か
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：ゆうしょく は 何時 です か。(Makan malam pukul berapa?)
 B：２１時 です。(Pukul 21.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - A：朝ごはん は 何時 です か。
 - B：七時 です。
 - A：クラス は 何時 から です か。
@@ -66,15 +68,15 @@ B：２１時 です。(Pukul 21.)
 Tiga pola tentang bilang alasan (から), rentang dari-sampai (から〜まで), dan cara menawarkan kesepakatan waktu.
 
 ### 【67】〜が いいです か
-**Fungsi:** Menanyakan waktu/pilihan yang cocok buat lawan bicara — "kapan/yang mana baiknya?"
+🎯 **Target:** Menanyakan waktu/pilihan yang cocok buat lawan bicara — "kapan/yang mana baiknya?"
 
-**Rumus:** Kata Tanya が いい です か
+🛠️ **Rumus Hack:** Kata Tanya が いい です か
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：いつ が いいです か。(Kapan bisanya?)
 B：どようび が いいです。(Saya bisanya Sabtu.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - A：何時 が いいです か。(Jam berapa baiknya?)
 - B：三時 が いいです。
 - A：どこ が いいです か。
@@ -83,30 +85,30 @@ B：どようび が いいです。(Saya bisanya Sabtu.)
 ---
 
 ### 【68】〜から 〜まで
-**Fungsi:** Menyatakan rentang "dari~sampai~", bisa dipakai untuk waktu maupun tempat.
+🎯 **Target:** Menyatakan rentang "dari~sampai~", bisa dipakai untuk waktu maupun tempat.
 
-**Rumus:** KB1 から KB2 まで です／KK〜ます
+🛠️ **Rumus Hack:** KB1 から KB2 まで です／KK〜ます
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：日本語のクラス は 何時から 何時まで です か。(Kelas bahasa Jepang dari jam berapa sampai jam berapa?)
 B：日本語のクラス は ９時から １５時まで です。(Dari pukul 9 sampai pukul 15.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 月曜日 から 金曜日 まで 働きます。(Bekerja dari Senin sampai Jumat.)
 - 家 から 学校 まで 三十分 かかります。(Dari rumah sampai sekolah butuh 30 menit.)
 
 ---
 
 ### 【69】〜から、〜
-**Fungsi:** Menyatakan alasan/sebab — "karena ~".
+🎯 **Target:** Menyatakan alasan/sebab — "karena ~".
 
-**Rumus:** Alasan から、Akibat
+🛠️ **Rumus Hack:** Alasan から、Akibat
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：どうして、食べません か。(Kenapa tidak makan?)
 B：おいしくない です から、食べません。(Karena tidak enak, saya tidak makan.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 忙しい です から、休みません。(Karena sibuk, saya tidak libur.)
 - あめ です から、行きません。(Karena hujan, saya tidak pergi.)
 
@@ -117,17 +119,17 @@ B：おいしくない です から、食べません。(Karena tidak enak, say
 Tiga pola tentang kata kerja gerak (行きます／来ます／帰ります) dengan berbagai keterangan tambahan.
 
 ### 【70】KB tempat 〜に／へ 行きます／来ます／帰ります
-**Fungsi:** Menyatakan pergi/datang/pulang KE suatu tempat.
+🎯 **Target:** Menyatakan pergi/datang/pulang KE suatu tempat.
 
-**Rumus:** KB Tempat に／へ いく／くる／かえる
+🛠️ **Rumus Hack:** KB Tempat に／へ いく／くる／かえる
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：明日、どこに 行きます か。(Besok pergi ke mana?)
 B：デパートに 行きます。(Pergi ke pasar raya.)
 A：だれと 行きます か。(Sama siapa?)
 B：彼女と 行きます。(Sama pacar.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 明日、図書館 に 行きます。(Besok saya pergi ke perpustakaan.)
 - 兄 は 来週、日本 に 来ます。(Kakak laki-laki saya minggu depan datang ke Jepang.)
 - 私 は 七時 に 家 に 帰ります。(Saya pulang ke rumah pukul 7.)
@@ -135,17 +137,17 @@ B：彼女と 行きます。(Sama pacar.)
 ---
 
 ### 【71】KB kendaraan〜で 〜に／へ 行きます／来ます／帰ります
-**Fungsi:** Menyatakan pergi/datang/pulang dengan menggunakan kendaraan tertentu.
+🎯 **Target:** Menyatakan pergi/datang/pulang dengan menggunakan kendaraan tertentu.
 
-**Rumus:** KB Kendaraan で、KB Tempat に／へ いく／くる／かえる
+🛠️ **Rumus Hack:** KB Kendaraan で、KB Tempat に／へ いく／くる／かえる
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：どうやって、会社に 行きます か。(Dengan apa pergi ke kantor?)
 B：バスで 会社に 行きます。(Pergi ke kantor dengan bus.)
 A：何で 学校に 行きます か。
 B：あるいて 学校に 行きます。(Pergi ke sekolah dengan jalan kaki.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 私 は 電車 で 学校 に 行きます。(Saya pergi ke sekolah dengan kereta.)
 - 兄 は 自転車 で 会社 に 行きます。(Kakak laki-laki saya pergi ke kantor dengan sepeda.)
 - タクシー で 空港 に 行きます。(Pergi ke bandara dengan taksi.)
@@ -155,30 +157,30 @@ B：あるいて 学校に 行きます。(Pergi ke sekolah dengan jalan kaki.)
 ---
 
 ### 【72】KB aktifitas/acara 〜に 行きます／来ます／帰ります
-**Fungsi:** Menyatakan pergi ke suatu tempat UNTUK melakukan aktivitas/acara tertentu.
+🎯 **Target:** Menyatakan pergi ke suatu tempat UNTUK melakukan aktivitas/acara tertentu.
 
-**Rumus:** KB Aktifitas/Acara に いく／くる／かえる
+🛠️ **Rumus Hack:** KB Aktifitas/Acara に いく／くる／かえる
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：今年 の ぼうねんかい に 行きます？(Pergi ke acara akhir tahun ini?)
 B：はい、行きます。(Ya, pergi.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 花見 に 行きます。(Pergi untuk hanami.)
 - 明日、送別会 に 行きます か。(Besok pergi ke acara perpisahan?)
 
 ---
 
 ### 【73】すぐに・はやく・もうすぐ
-**Fungsi:** Kata keterangan waktu — すぐに (dengan segera), はやく (dengan cepat), もうすぐ (sebentar lagi).
+🎯 **Target:** Kata keterangan waktu — すぐに (dengan segera), はやく (dengan cepat), もうすぐ (sebentar lagi).
 
-**Rumus:** すぐに 〜・はやく〜・もうすぐ〜
+🛠️ **Rumus Hack:** すぐに 〜・はやく〜・もうすぐ〜
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 もう くらくなる から、すぐに 帰って ください。(Karena sudah gelap, segera pulang.)
 もうすぐ おわる から、はやく やって！(Karena sudah mau selesai, lakukan dengan cepat.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - すぐに 来て ください。(Tolong segera datang.)
 - もうすぐ 昼ごはん です。(Sebentar lagi makan siang.)
 
@@ -202,45 +204,45 @@ Ini bagian paling penting di Bab 6: setiap jenis kata (KB, KK, KS-i, KS-na) puny
 ---
 
 ### 【74】KB〜でした／〜じゃなかった です
-**Fungsi:** Bentuk lampau kata benda.
+🎯 **Target:** Bentuk lampau kata benda.
 
-**Rumus:** KB Waktu Lampau に KB でした／〜じゃなかった です
+🛠️ **Rumus Hack:** KB Waktu Lampau に KB でした／〜じゃなかった です
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：きのう、あめ でした か。(Apakah kemarin hujan?)
 B：いいえ、あめ じゃなかった です。(Tidak, tidak hujan.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 去年、私 は 学生 でした。(Tahun lalu saya siswa.)
 - 昨日 は 休み じゃなかった です。(Kemarin bukan hari libur.)
 
 ---
 
 ### 【75】KK〜ました／〜ません でした
-**Fungsi:** Bentuk lampau kata kerja.
+🎯 **Target:** Bentuk lampau kata kerja.
 
-**Rumus:** KB Waktu Lampau に KK〜ました／〜ません でした
+🛠️ **Rumus Hack:** KB Waktu Lampau に KK〜ました／〜ません でした
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：きのうの ばん は べんきょうしました か。(Kemarin malam apakah belajar?)
 B：いいえ、べんきょうしません でした。(Tidak, saya tidak belajar.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 昨日、レストラン で 食事しました。(Kemarin saya makan di restoran.)
 - 先週、映画 を 見ません でした。(Minggu lalu saya tidak nonton film.)
 
 ---
 
 ### 【76】もう KK〜ました
-**Fungsi:** Menyatakan "sudah" melakukan sesuatu.
+🎯 **Target:** Menyatakan "sudah" melakukan sesuatu.
 
-**Rumus:** もう KK〜ました
+🛠️ **Rumus Hack:** もう KK〜ました
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：あさごはん、もう 食べました か。(Sudah sarapan?)
 B：いいえ、まだ です。(Belum.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - もう 掃除しました。(Sudah bersih-bersih.)
 - A：もう 起きました か。
 - B：はい、もう 起きました。
@@ -248,15 +250,15 @@ B：いいえ、まだ です。(Belum.)
 ---
 
 ### 【77】KS〜かった です／KS〜くなかった です (KS-i)
-**Fungsi:** Bentuk lampau kata sifat -i.
+🎯 **Target:** Bentuk lampau kata sifat -i.
 
-**Rumus:** [KS-i tanpa い] + かった です／くなかった です
+🛠️ **Rumus Hack:** [KS-i tanpa い] + かった です／くなかった です
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：きょねん の ふゆ は さむかった です か。(Musim dingin tahun lalu dingin?)
 B：あまり さむくなかった です。(Tidak begitu dingin.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - あの 映画 は おもしろかった です。(dari おもしろい) (Film itu seru.)
 - 先週 は 忙しかった です。(dari 忙しい) (Minggu lalu saya sibuk.)
 - 昨日 の テスト は 難しくなかった です。(dari 難しい) (Tes kemarin tidak sulit.)
@@ -264,15 +266,15 @@ B：あまり さむくなかった です。(Tidak begitu dingin.)
 ---
 
 ### 【78】KS〜でした／KS〜じゃなかった です (KS-na)
-**Fungsi:** Bentuk lampau kata sifat -na.
+🎯 **Target:** Bentuk lampau kata sifat -na.
 
-**Rumus:** [KS-na] + でした／じゃなかった です
+🛠️ **Rumus Hack:** [KS-na] + でした／じゃなかった です
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：ジャカルタ は むかし から にぎやか でした か。(Apakah dari dulu Jakarta ramai?)
 B：いいえ、にぎやか じゃなかった です。(Tidak, tidak ramai.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 昔、この 町 は 静か でした。(Dulu kota ini tenang.)
 - テスト は 簡単 じゃなかった です。(Tesnya tidak mudah.)
 
@@ -283,15 +285,15 @@ B：いいえ、にぎやか じゃなかった です。(Tidak, tidak ramai.)
 Dua pola penutup Bab 6: cara detail menyebut posisi suatu benda, dan kontras dengan penghubung lain.
 
 ### 【79】KB の KB posisi
-**Fungsi:** Menjelaskan posisi suatu benda secara detail menggunakan kata posisi (atas, bawah, samping, dll).
+🎯 **Target:** Menjelaskan posisi suatu benda secara detail menggunakan kata posisi (atas, bawah, samping, dll).
 
-**Rumus:** KB1 は KB2 の KBPosisi に あります／います
+🛠️ **Rumus Hack:** KB1 は KB2 の KBPosisi に あります／います
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：はさみ は どこに あります か。(Gunting ada di mana?)
 B：はさみ は つくえ の うえに あります。(Guntingnya ada di atas meja.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 猫 は ソファ の 下 に います。(Kucing ada di bawah sofa.)
 - コンビニ は 銀行 の 隣 に あります。(Minimarket ada di sebelah bank.)
 - 私 の 部屋 は 台所 の そば に あります。(Kamar saya ada di dekat dapur.)
@@ -299,15 +301,15 @@ B：はさみ は つくえ の うえに あります。(Guntingnya ada di atas
 ---
 
 ### 【80】でも・しかし
-**Fungsi:** Kata penghubung kontras "tapi" antar kalimat — versi lebih formal dari でも yang sudah dikenal di Bab 5 (しかし lebih sering dipakai dalam tulisan/formal).
+🎯 **Target:** Kata penghubung kontras "tapi" antar kalimat — versi lebih formal dari でも yang sudah dikenal di Bab 5 (しかし lebih sering dipakai dalam tulisan/formal).
 
-**Rumus:** Kalimat1。でも・しかし、〜
+🛠️ **Rumus Hack:** Kalimat1。でも・しかし、〜
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 この りんご は あまい です。でも、食べません。(Apel ini manis. Tapi saya tidak memakannya.)
 日本の食べもの が 好きです。しかし、さしみ は にがてです。(Saya suka makanan Jepang. Tapi kalau sashimi saya tidak suka.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - この まんご は おいしい です。でも、たかい です。(Mangga ini enak. Tapi mahal.)
 - 私 は 運動 が 好き です。しかし、時間 が ありません。(Saya suka olahraga. Tapi tidak ada waktu.)
 

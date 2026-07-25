@@ -1,4 +1,6 @@
-# BUNPOU BAB 3 — Suka/Tidak Suka, Makan-Minum & Ekspresi Percakapan
+# 🏯 Sensei N1 Dojo: Bunpou Bab 3 — Suka/Tidak Suka, Makan-Minum & Ekspresi Percakapan
+
+*Ossu!* Selamat datang di dojo Sensei! Di sini kita nggak cuma ngapalin rumus, tapi kita **hack** logikanya biar nyangkut di otak! 🧠💥
 
 > **Kotoba baru di bab ini:** makanan & minuman (肉, 魚, 野菜, ご飯, 寿司, うどん, ラーメン, コーヒー, お茶, dll), bumbu & sayuran (生姜, 葱, 大蒜, わさび, にんじん, dll), kata sifat suka (好き, 大好き), kata kerja makan-minum (食べます, 飲みます), dan bentuk halus お〜／ご〜 (お仕事, ご家族, お名前, dll).
 >
@@ -13,15 +15,15 @@ Bab 3 ini soal ekspresi selera — suka apa, gak suka apa, makan/minum apa — d
 Empat pola ini semua soal preferensi rasa, dari yang blak-blakan (好き) sampai yang halus buat nolak tanpa nyakitin hati lawan bicara (ちょっと…, にがて).
 
 ### 【19】〜が すき です
-**Fungsi:** Menyatakan suka terhadap sesuatu.
+🎯 **Target:** Menyatakan suka terhadap sesuatu.
 
-**Rumus:** KB1 が すき です
+🛠️ **Rumus Hack:** KB1 が すき です
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：何 が 好き です か。(Suka apa?)
 B：魚 が 好き です。(Saya suka ikan.)
 
-**Contoh tambahan (pakai kotoba Bab 1-3):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)** (pakai kotoba Bab 1-3):**
 - 私 は 寿司 が 好き です。(Saya suka sushi.)
 - 兄 は コーヒー が 大好き です。(Kakak laki-laki saya sangat suka kopi.)
 - A：お父さん は 何 が 好き です か。
@@ -30,15 +32,15 @@ B：魚 が 好き です。(Saya suka ikan.)
 ---
 
 ### 【20】〜は すき じゃない です／ではない です
-**Fungsi:** Menyatakan tidak suka terhadap sesuatu.
+🎯 **Target:** Menyatakan tidak suka terhadap sesuatu.
 
-**Rumus:** KB1 は すき じゃない です／ではない です
+🛠️ **Rumus Hack:** KB1 は すき じゃない です／ではない です
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：わさび、好き です か。(Suka wasabi?)
 B：いいえ、わさび は 好き ではない です。(Tidak, saya tidak suka wasabi.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - A：豚肉、好き です か。(Suka daging babi?)
 - B：いいえ、豚肉 は 好き じゃない です。
 - 妹 は 納豆 が 好き じゃない です。(Adik perempuan saya tidak suka natto.)
@@ -46,15 +48,15 @@ B：いいえ、わさび は 好き ではない です。(Tidak, saya tidak su
 ---
 
 ### 【21】〜は ちょっと…
-**Fungsi:** Cara halus untuk menolak/menyatakan tidak suka, tanpa harus bilang "tidak suka" secara langsung — khas budaya Jepang yang menghindari penolakan blak-blakan.
+🎯 **Target:** Cara halus untuk menolak/menyatakan tidak suka, tanpa harus bilang "tidak suka" secara langsung — khas budaya Jepang yang menghindari penolakan blak-blakan.
 
-**Rumus:** KB1 は ちょっと…
+🛠️ **Rumus Hack:** KB1 は ちょっと…
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：ネギ が 好き です か。(Suka daun bawang?)
 B：すみません、ネギ は ちょっと…(Maaf, kalau daun bawang... (kurang suka).)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - A：お酒、飲みます か。(Minum alkohol?)
 - B：すみません、お酒 は ちょっと…
 - A：唐辛子、好き です か。
@@ -63,15 +65,15 @@ B：すみません、ネギ は ちょっと…(Maaf, kalau daun bawang... (kur
 ---
 
 ### 【22】〜は にがて です
-**Fungsi:** Menyatakan tidak suka/tidak jago terhadap sesuatu — lebih halus dari 好きじゃない tapi lebih jelas dari ちょっと….
+🎯 **Target:** Menyatakan tidak suka/tidak jago terhadap sesuatu — lebih halus dari 好きじゃない tapi lebih jelas dari ちょっと….
 
-**Rumus:** KB1 は にがて です
+🛠️ **Rumus Hack:** KB1 は にがて です
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：ぶたにく、好き です か。(Suka daging babi?)
 B：すみません、ぶたにく は にがて です。(Maaf, daging babi saya tidak suka.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 私 は 梅干し が にがて です。(Saya tidak suka umeboshi.)
 - A：山葵、食べます か。(Makan wasabi?)
 - B：すみません、山葵 は にがて です。
@@ -85,107 +87,107 @@ B：すみません、ぶたにく は にがて です。(Maaf, daging babi say
 Lima pola ini bangun kalimat kerja utuh: nyebut objek (を), bentuk negatifnya (ません vs ない です), sampai level "jarang" (あまり) dan "tidak sama sekali" (も + negatif).
 
 ### 【23】と
-**Fungsi:** Menghubungkan dua kata benda — "dan".
+🎯 **Target:** Menghubungkan dua kata benda — "dan".
 
-**Rumus:** KB1 と KB2
+🛠️ **Rumus Hack:** KB1 と KB2
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：何 が 好き です か。(Suka apa?)
 B：魚 と 肉 が 好き です。(Saya suka ikan dan daging.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 朝ごはん は ご飯 と みそしる です。(Sarapan saya nasi dan sup miso.)
 - 兄 と 私 は 学生 です。(Kakak laki-laki saya dan saya adalah siswa.)
 
 ---
 
 ### 【24】〜を 〜ます
-**Fungsi:** Bentuk kalimat kerja dengan objek yang ditandai partikel を.
+🎯 **Target:** Bentuk kalimat kerja dengan objek yang ditandai partikel を.
 
-**Rumus:** KB1 を KK〜ます
+🛠️ **Rumus Hack:** KB1 を KK〜ます
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：何 を 食べます か。(Makan apa?)
 B：ぎゅうにく を 食べます。(Makan daging sapi.)
 A：とりにく も 食べます か。(Daging ayam juga makan?)
 B：はい、食べます。(Iya, makan.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 私 は 毎朝、お茶 を 飲みます。(Saya minum teh tiap pagi.)
 - 弟 は カレーライス を 食べます。(Adik laki-laki saya makan nasi kare.)
 
 ---
 
 ### 【25】〜は 〜ません
-**Fungsi:** Bentuk negatif sopan dari kalimat kerja.
+🎯 **Target:** Bentuk negatif sopan dari kalimat kerja.
 
-**Rumus:** KB は KK〜ません
+🛠️ **Rumus Hack:** KB は KK〜ません
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：おさけ を 飲みます か。(Minum alkohol?)
 B：いいえ、おさけ は 飲みません。(Tidak, saya tidak minum alkohol.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 私 は 豚肉 を 食べません。(Saya tidak makan daging babi.)
 - 妹 は コーヒー を 飲みません。(Adik perempuan saya tidak minum kopi.)
 
 ---
 
 ### 【26】〜は 〜ない です
-**Fungsi:** Bentuk negatif biasa/kasual — makna sama dengan 【25】, tapi levelnya lebih santai (lihat detail perbandingan lengkap di Bab 10, pola 【151】).
+🎯 **Target:** Bentuk negatif biasa/kasual — makna sama dengan 【25】, tapi levelnya lebih santai (lihat detail perbandingan lengkap di Bab 10, pola 【151】).
 
-**Rumus:** KB は KK〜ない です
+🛠️ **Rumus Hack:** KB は KK〜ない です
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：おさけ を 飲みます か。
 B：いいえ、おさけ は 飲まない です。
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 私 は ワイン を 飲まない です。(Saya tidak minum anggur.)
 - 兄 は 納豆 を 食べない です。
 
 ---
 
 ### 【27】〜は あまり 〜ません／〜ないです／〜じゃないです
-**Fungsi:** Menyatakan "jarang" atau "tidak begitu" — level di antara suka dan tidak suka.
+🎯 **Target:** Menyatakan "jarang" atau "tidak begitu" — level di antara suka dan tidak suka.
 
-**Rumus:** KB は あまり 〜ない
+🛠️ **Rumus Hack:** KB は あまり 〜ない
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：魚 が 好き です か。(Suka ikan?)
 B：いいえ、魚 は あまり 好き じゃない です。(Tidak, saya tidak terlalu suka ikan.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 私 は 野菜 を あまり 食べません。(Saya jarang makan sayur.)
 - 姉 は お酒 が あまり 好き じゃない です。
 
 ---
 
 ### 【28】よく 〜ます
-**Fungsi:** Menyatakan frekuensi "sering".
+🎯 **Target:** Menyatakan frekuensi "sering".
 
-**Rumus:** 〜は よく 〜ます
+🛠️ **Rumus Hack:** 〜は よく 〜ます
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：お酒 は よく 飲みます か。(Sering minum sake?)
 B：いいえ、あまり 飲みません。(Tidak, jarang minum.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - 私 は よく コーヒー を 飲みます。(Saya sering minum kopi.)
 - 兄 は よく ラーメン を 食べます。
 
 ---
 
 ### 【29】(kata tanya) も 〜ません／〜ない です
-**Fungsi:** Menyatakan "tidak ~ apapun" — penyangkalan total dengan kata tanya + も.
+🎯 **Target:** Menyatakan "tidak ~ apapun" — penyangkalan total dengan kata tanya + も.
 
-**Rumus:** K.Tanya も 〜ない
+🛠️ **Rumus Hack:** K.Tanya も 〜ない
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：何 を 飲みます か。(Minum apa?)
 B：何 も 飲まない です。(Saya tidak minum apapun.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - A：何 を 食べます か。
 - B：何 も 食べません。おなか が いっぱい です。(Tidak makan apapun. Perut sudah kenyang.)
 
@@ -196,46 +198,46 @@ B：何 も 飲まない です。(Saya tidak minum apapun.)
 Tiga partikel kecil ini gak ngubah makna inti kalimat, tapi ngubah "rasa" obrolannya — dari netral, jadi mengonfirmasi, menegaskan, atau menunjukkan pemahaman baru.
 
 ### 【30】そう ですか
-**Fungsi:** Ekspresi saat menerima informasi baru dari lawan bicara dan menyatakan paham — mirip "oh, begitu ya" dalam bahasa Indonesia.
+🎯 **Target:** Ekspresi saat menerima informasi baru dari lawan bicara dan menyatakan paham — mirip "oh, begitu ya" dalam bahasa Indonesia.
 
-**Rumus:** 〜そう です か
+🛠️ **Rumus Hack:** 〜そう です か
 
 **Contoh asli (dilengkapi karena di sumber asli potongan dialognya belum utuh):**
 A：すみません、おなまえ は？(Maaf, nama Anda siapa?)
 B：ファデル です。インドネシア から きました。(Fadel. Saya dari Indonesia.)
 A：そう です か。よろしく お願いします。(Oh, begitu ya. Senang berkenalan.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - A：私 は 医者 じゃない です。看護師 です。
 - B：そう です か。(Oh, begitu ya.)
 
 ---
 
 ### 【31】〜ね
-**Fungsi:** Mengonfirmasi sesuatu sesuai pandangan sendiri, atau mencari perhatian/persetujuan lawan bicara.
+🎯 **Target:** Mengonfirmasi sesuatu sesuai pandangan sendiri, atau mencari perhatian/persetujuan lawan bicara.
 
-**Rumus:** 〜ね
+🛠️ **Rumus Hack:** 〜ね
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：あの人 は 日本人 です ね。(Orang itu orang Jepang, ya?)
 B：そう です ね。(Iya, ya.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - この ラーメン は おいしい です ね。(Ramen ini enak, ya?)
 - あなた は 学生 です ね。(Kamu siswa, ya?)
 
 ---
 
 ### 【32】〜よ
-**Fungsi:** Menegaskan kalimat atau memberi tahu hal baru yang lawan bicara belum tahu.
+🎯 **Target:** Menegaskan kalimat atau memberi tahu hal baru yang lawan bicara belum tahu.
 
-**Rumus:** 〜よ
+🛠️ **Rumus Hack:** 〜よ
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：アニメ、好き です か。(Suka anime?)
 B：はい、好き です よ。(Iya, suka dong.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - この 味噌汁 は おいしい です よ。(Sup miso ini enak, lho.)
 - 私 は 韓国語 も 話します よ。(Saya bisa bicara bahasa Korea juga, lho.)
 
@@ -248,17 +250,17 @@ B：はい、好き です よ。(Iya, suka dong.)
 Satu pola penutup Bab 3, tapi penting banget dipakai terus-menerus di percakapan sopan.
 
 ### 【33】お〜／ご〜
-**Fungsi:** Prefiks untuk memperhalus sebuah kata benda, biasa dipakai saat membicarakan hal milik lawan bicara/orang lain sebagai bentuk sopan santun.
+🎯 **Target:** Prefiks untuk memperhalus sebuah kata benda, biasa dipakai saat membicarakan hal milik lawan bicara/orang lain sebagai bentuk sopan santun.
 
-**Rumus:** お〜 (untuk kata asli Jepang/wago) ／ご〜 (untuk kata serapan Tionghoa/kango)
+🛠️ **Rumus Hack:** お〜 (untuk kata asli Jepang/wago) ／ご〜 (untuk kata serapan Tionghoa/kango)
 
-**Contoh asli:**
+📝 **Contoh Basic:**
 A：お しごと 何 です か。(Pekerjaan Anda apa?)
 B：学生 です。(Saya siswa.)
 A：ご かぞく は 何人 です か。(Keluarga Anda berapa orang?)
 B：3人 です。(3 orang.)
 
-**Contoh tambahan:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
 - A：お名前 は？(Nama Anda?)
 - B：ナラ です。
 - A：ご結婚 して います か。(Apakah sudah menikah?)

@@ -1,0 +1,101 @@
+KATEGORI,KANA,KANJI,ARTI
+KATA KERJA GOL. 1 (GODAN),いいます,言います,Bicara
+KATA KERJA GOL. 1 (GODAN),つかいます,使います,Menggunakan
+KATA KERJA GOL. 1 (GODAN),もっていきます,持って行きます,Membawa pergi
+KATA KERJA GOL. 1 (GODAN),おきます,置きます,Meletakkan
+KATA KERJA GOL. 1 (GODAN),かきます,書きます,Menulis
+KATA KERJA GOL. 1 (GODAN),ききます,聞きます,Mendengar
+KATA KERJA GOL. 1 (GODAN),もってきます,持って来ます,Datang membawa
+KATA KERJA GOL. 1 (GODAN),およぎます,泳ぎます,Berenang
+KATA KERJA GOL. 1 (GODAN),まちます,待ちます,Menunggu
+KATA KERJA GOL. 1 (GODAN),もちます,持ちます,Memegang
+KATA KERJA GOL. 1 (GODAN),しにます,死にます,Meninggal
+KATA KERJA GOL. 1 (GODAN),あそびます,遊びます,Bermain
+KATA KERJA GOL. 1 (GODAN),はいります,入ります,Masuk
+KATA KERJA GOL. 1 (GODAN),きります,切ります,Memotong
+KATA KERJA GOL. 1 (GODAN),つくります,作ります,Membuat
+KATA KERJA GOL. 1 (GODAN),とります,取ります,Mengambil
+KATA KERJA GOL. 2 (ICHIDAN),きがえます,着替えます,Ganti baju
+KATA KERJA GOL. 2 (ICHIDAN),きます,着ます,Mengenakan (baju)
+KATA KERJA GOL. 2 (ICHIDAN),できます,出来ます,Bisa melakukan
+KATA KERJA GOL. 2 (ICHIDAN),あけます,開けます,Membuka
+KATA KERJA GOL. 2 (ICHIDAN),かたづけます,片付けます,Merapikan
+KATA KERJA GOL. 2 (ICHIDAN),みせます,見せます,Memperlihatkan
+KATA KERJA GOL. 2 (ICHIDAN),おちます,落ちます,Jatuh
+KATA KERJA GOL. 2 (ICHIDAN),すてます,捨てます,Membuang
+KATA KERJA GOL. 2 (ICHIDAN),ならべます,並べます,Menjejerkan
+KATA KERJA GOL. 2 (ICHIDAN),みます,見ます,Melihat
+KATA KERJA GOL. 2 (ICHIDAN),しめます,閉めます,Menutup
+KATA KERJA GOL. 2 (ICHIDAN),かります,借ります,Meminjam
+KATA KERJA GOL. 2 (ICHIDAN),いれます,入れます,Memasukkan
+KATA KERJA GOL. 3 (FUKISOKU),ちゅういします,注意します,Memperingatkan
+KATA KERJA GOL. 3 (FUKISOKU),しょうかいします,紹介します,Memperkenalkan
+KATA KERJA GOL. 3 (FUKISOKU),しんぱいします,心配します,Khawatir
+KATA KERJA GOL. 3 (FUKISOKU),しゅっちょうします,出張します,Dinas keluar
+KATA KERJA GOL. 3 (FUKISOKU),かします,貸します,Meminjamkan
+KATA KERJA GOL. 3 (FUKISOKU),さがします,探します,Mencari
+KATA KERJA GOL. 3 (FUKISOKU),とうちゃくします,到着します,Tiba
+KATA KERJA GOL. 3 (FUKISOKU),しゅっぱつします,出発します,Berangkat
+KATA KERJA GOL. 3 (FUKISOKU),はなします,話します,Berbicara
+KATA KERJA GOL. 3 (FUKISOKU),じゅんびします,準備します,Mempersiapkan
+KATA KERJA GOL. 3 (FUKISOKU),しゅうりします,修理します,Memperbaiki
+KATA KERJA GOL. 3 (FUKISOKU),はっけんします,発見します,Menemukan
+KATA KERJA GOL. 3 (FUKISOKU),うんてんします,運転します,Mengendarai
+"""MAKANAN (SAYURAN, BUMBU & BUAH)""",こしょう,胡椒,Merica
+MAKANAN (UMUM & OLAHAN),しお,塩,Garam
+ALAT MAKAN & DAPUR,ほうちょう,包丁,Pisau besar
+ALAT MAKAN & DAPUR,はし,箸,Sumpit
+ALAT MAKAN & DAPUR,わりばし,割り箸,Sumpit belah
+ALAT MAKAN & DAPUR,なべ,鍋,Panci
+ALAT MAKAN & DAPUR,フォーク,,Garpu
+ALAT MAKAN & DAPUR,ナイフ,,Pisau
+ALAT MAKAN & DAPUR,コップ,,Gelas
+ALAT MAKAN & DAPUR,スプーン,,Sendok
+ANGGOTA TUBUH & ANATOMI,はみがきこ,歯磨き粉,Pasta gigi
+ANGGOTA TUBUH & ANATOMI,はブラシ,歯ブラシ,Sikat gigi
+ALAT TULIS & PERLENGKAPAN KANTOR,きって,切手,Perangko
+ALAT TULIS & PERLENGKAPAN KANTOR,きっぷ,切符,Tiket
+ALAT TULIS & PERLENGKAPAN KANTOR,かみ,紙,Kertas
+ALAT TULIS & PERLENGKAPAN KANTOR,てがみ,手紙,Surat
+ALAT TULIS & PERLENGKAPAN KANTOR,えんぴつけずり,鉛筆削り,Rautan pensil
+ALAT TULIS & PERLENGKAPAN KANTOR,ふせん,付箋,Stiky note
+ALAT ELEKTRONIK & MESIN,じゅうでんき,充電器,Pengisi daya
+ALAT ELEKTRONIK & MESIN,でんたく,電卓,Kalkulator
+FURNITUR & PERALATAN RUMAH,だんぼう,暖房,Pemanas ruangan
+FURNITUR & PERALATAN RUMAH,ほうき,箒,Sapu
+FURNITUR & PERALATAN RUMAH,かがみ,鏡,Cermin
+FURNITUR & PERALATAN RUMAH,せっけん,石鹸,Sabun
+FURNITUR & PERALATAN RUMAH,タオル,,Handuk
+FURNITUR & PERALATAN RUMAH,バスタオル,,Handuk mandi
+PENDIDIKAN & AKADEMIK,ちょうかい,聴解,Pendengaran
+PENDIDIKAN & AKADEMIK,しゅくだい,宿題,PR
+PENDIDIKAN & AKADEMIK,もんだい,問題,Soal
+PENDIDIKAN & AKADEMIK,かんじ,漢字,Aksara kanji
+PENDIDIKAN & AKADEMIK,ローマじ,ローマ字,Aksara romawi
+PENDIDIKAN & AKADEMIK,ひらがな,平仮名,Aksara hiragana
+PENDIDIKAN & AKADEMIK,かいわ,会話,Percakapan
+PENDIDIKAN & AKADEMIK,さくぶん,作文,Karangan
+PENDIDIKAN & AKADEMIK,カタカナ,片仮名,Aksara katakana
+WAKTU & PENANGGALAN (HARI),まいしゅう,毎週,Setiap minggu
+KETERANGAN WAKTU (SEKARANG & MASA DEPAN),まいにち,毎日,Setiap hari
+KETERANGAN WAKTU TAMBAHAN,まいあさ,毎朝,Setiap pagi
+KETERANGAN WAKTU TAMBAHAN,まいとし,毎年,Setiap tahun
+KETERANGAN WAKTU TAMBAHAN,まいばん,毎晩,Setiap malam
+KATA TANYA (GIMONSHI),どうやって,如何やって,Dengan cara apa
+KATA KETERANGAN (FUKUSHI) & SAMBUNG,だいたい,大体,Biasanya
+KATA KETERANGAN (FUKUSHI) & SAMBUNG,たいてい,大抵,Biasanya
+KATA KETERANGAN (FUKUSHI) & SAMBUNG,とくに,特に,Khususnya
+KATA KETERANGAN (FUKUSHI) & SAMBUNG,いつも,何時も,Selalu
+KOSAKATA SERAPAN (KATAKANA),リモコン,,Remot
+KOSAKATA SERAPAN (KATAKANA),ボタン,,Tombol
+KOSAKATA SERAPAN (KATAKANA),フライパン,,Penggorengan
+KOSAKATA SERAPAN (KATAKANA),プロジェクター,,Proyektor
+KOSAKATA SERAPAN (KATAKANA),カッター,,Pemotong
+KOSAKATA SERAPAN (KATAKANA),コンディショナー,,Konsioner
+KOSAKATA SERAPAN (KATAKANA),シャンプー,,Sampo
+KOSAKATA SERAPAN (KATAKANA),クーラー,,Pendingin rungan
+ALAM & LINGKUNGAN,まいつき,毎月,Setiap bulan
+ALAM & LINGKUNGAN,マッチ,,Korek api
+BANGUNAN & RUANGAN,まど,窓,Jendela
+BANGUNAN & RUANGAN,ドア,,Pintu
+BANGUNAN & RUANGAN,トイレットペーパー,,Tisu toilet
