@@ -40,7 +40,7 @@ B：魚 が 好き です。(Saya suka ikan.)
 A：わさび、好き です か。(Suka wasabi?)
 B：いいえ、わさび は 好き ではない です。(Tidak, saya tidak suka wasabi.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - A：豚肉、好き です か。(Suka daging babi?)
 - B：いいえ、豚肉 は 好き じゃない です。
 - 妹 は 納豆 が 好き じゃない です。(Adik perempuan saya tidak suka natto.)
@@ -56,7 +56,7 @@ B：いいえ、わさび は 好き ではない です。(Tidak, saya tidak su
 A：ネギ が 好き です か。(Suka daun bawang?)
 B：すみません、ネギ は ちょっと…(Maaf, kalau daun bawang... (kurang suka).)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - A：お酒、飲みます か。(Minum alkohol?)
 - B：すみません、お酒 は ちょっと…
 - A：唐辛子、好き です か。
@@ -73,7 +73,7 @@ B：すみません、ネギ は ちょっと…(Maaf, kalau daun bawang... (kur
 A：ぶたにく、好き です か。(Suka daging babi?)
 B：すみません、ぶたにく は にがて です。(Maaf, daging babi saya tidak suka.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 私 は 梅干し が にがて です。(Saya tidak suka umeboshi.)
 - A：山葵、食べます か。(Makan wasabi?)
 - B：すみません、山葵 は にがて です。
@@ -95,7 +95,7 @@ Lima pola ini bangun kalimat kerja utuh: nyebut objek (を), bentuk negatifnya (
 A：何 が 好き です か。(Suka apa?)
 B：魚 と 肉 が 好き です。(Saya suka ikan dan daging.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 朝ごはん は ご飯 と みそしる です。(Sarapan saya nasi dan sup miso.)
 - 兄 と 私 は 学生 です。(Kakak laki-laki saya dan saya adalah siswa.)
 
@@ -112,7 +112,7 @@ B：ぎゅうにく を 食べます。(Makan daging sapi.)
 A：とりにく も 食べます か。(Daging ayam juga makan?)
 B：はい、食べます。(Iya, makan.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 私 は 毎朝、お茶 を 飲みます。(Saya minum teh tiap pagi.)
 - 弟 は カレーライス を 食べます。(Adik laki-laki saya makan nasi kare.)
 
@@ -127,7 +127,7 @@ B：はい、食べます。(Iya, makan.)
 A：おさけ を 飲みます か。(Minum alkohol?)
 B：いいえ、おさけ は 飲みません。(Tidak, saya tidak minum alkohol.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 私 は 豚肉 を 食べません。(Saya tidak makan daging babi.)
 - 妹 は コーヒー を 飲みません。(Adik perempuan saya tidak minum kopi.)
 
@@ -142,7 +142,7 @@ B：いいえ、おさけ は 飲みません。(Tidak, saya tidak minum alkohol
 A：おさけ を 飲みます か。
 B：いいえ、おさけ は 飲まない です。
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 私 は ワイン を 飲まない です。(Saya tidak minum anggur.)
 - 兄 は 納豆 を 食べない です。
 
@@ -157,7 +157,7 @@ B：いいえ、おさけ は 飲まない です。
 A：魚 が 好き です か。(Suka ikan?)
 B：いいえ、魚 は あまり 好き じゃない です。(Tidak, saya tidak terlalu suka ikan.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 私 は 野菜 を あまり 食べません。(Saya jarang makan sayur.)
 - 姉 は お酒 が あまり 好き じゃない です。
 
@@ -172,7 +172,7 @@ B：いいえ、魚 は あまり 好き じゃない です。(Tidak, saya tida
 A：お酒 は よく 飲みます か。(Sering minum sake?)
 B：いいえ、あまり 飲みません。(Tidak, jarang minum.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 私 は よく コーヒー を 飲みます。(Saya sering minum kopi.)
 - 兄 は よく ラーメン を 食べます。
 
@@ -187,7 +187,7 @@ B：いいえ、あまり 飲みません。(Tidak, jarang minum.)
 A：何 を 飲みます か。(Minum apa?)
 B：何 も 飲まない です。(Saya tidak minum apapun.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - A：何 を 食べます か。
 - B：何 も 食べません。おなか が いっぱい です。(Tidak makan apapun. Perut sudah kenyang.)
 
@@ -207,7 +207,7 @@ A：すみません、おなまえ は？(Maaf, nama Anda siapa?)
 B：ファデル です。インドネシア から きました。(Fadel. Saya dari Indonesia.)
 A：そう です か。よろしく お願いします。(Oh, begitu ya. Senang berkenalan.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - A：私 は 医者 じゃない です。看護師 です。
 - B：そう です か。(Oh, begitu ya.)
 
@@ -222,7 +222,7 @@ A：そう です か。よろしく お願いします。(Oh, begitu ya. Senang
 A：あの人 は 日本人 です ね。(Orang itu orang Jepang, ya?)
 B：そう です ね。(Iya, ya.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - この ラーメン は おいしい です ね。(Ramen ini enak, ya?)
 - あなた は 学生 です ね。(Kamu siswa, ya?)
 
@@ -237,7 +237,7 @@ B：そう です ね。(Iya, ya.)
 A：アニメ、好き です か。(Suka anime?)
 B：はい、好き です よ。(Iya, suka dong.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - この 味噌汁 は おいしい です よ。(Sup miso ini enak, lho.)
 - 私 は 韓国語 も 話します よ。(Saya bisa bicara bahasa Korea juga, lho.)
 
@@ -260,7 +260,7 @@ B：学生 です。(Saya siswa.)
 A：ご かぞく は 何人 です か。(Keluarga Anda berapa orang?)
 B：3人 です。(3 orang.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - A：お名前 は？(Nama Anda?)
 - B：ナラ です。
 - A：ご結婚 して います か。(Apakah sudah menikah?)

@@ -39,7 +39,7 @@ Bahasa Jepang WAJIB bedain kata "ada" tergantung bendanya hidup atau mati. Ini e
 お金 は ありません。(Uang, tidak ada.)
 先生 は いません。(Guru, tidak ada.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 犬 は いません。猫 だけ います。(Anjing tidak ada. Cuma ada kucing.)
 - 冷蔵庫 に 卵 は ありません。(Di kulkas tidak ada telur.)
 
@@ -54,7 +54,7 @@ Bahasa Jepang WAJIB bedain kata "ada" tergantung bendanya hidup atau mati. Ini e
 A：お金 が あります か。(Ada uang?)
 B：いいえ、お金 は ない です。(Tidak, tidak ada uang.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - A：教室 に 先生 が います か。
 - B：いいえ、先生 は いない です。
 
@@ -71,7 +71,7 @@ B：しゃちょう が います。(Ada pimpinan perusahaan.)
 A：だいどころ に なに が あります か。(Di dapur ada apa?)
 B：すいはんき が あります。(Ada penanak nasi.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 台所 に 冷蔵庫 と ガスコンロ が あります。(Di dapur ada kulkas dan kompor.)
 - 教室 に 学生 が 十人 います。(Di ruang kelas ada 10 siswa.)
 
@@ -88,7 +88,7 @@ B：クラス に あります。(Ada di kelas.)
 A：せんせい は どこ に います か。(Guru ada di mana?)
 B：じむしょ に います。(Ada di kantor.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 猫 は 居間 に います。(Kucingnya ada di ruang keluarga.)
 - 私 の 鞄 は 部屋 に あります。(Tas saya ada di kamar.)
 
@@ -109,7 +109,7 @@ Tiga kata kerja ini artinya semua "memberi/menerima", tapi arah & sudut pandangn
 私 は いもうと に あめ を あげます。(Saya memberi adik perempuan permen.)
 母 は おとうと に お金 を あげます。(Ibu memberi adik laki-laki uang.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 私 は 友達 に 誕生日プレゼント を あげます。(Saya memberi teman hadiah ulang tahun.)
 - 兄 は 彼女 に 手袋 を あげました。(Kakak laki-laki saya memberi pacarnya sarung tangan.)
 
@@ -124,7 +124,7 @@ Tiga kata kerja ini artinya semua "memberi/menerima", tapi arah & sudut pandangn
 母 は 私 に あめ を くれます。(Ibu memberi saya permen.)
 父 は お金 を くれます。(Ayah memberi (saya) uang.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 先生 は 私 に 本 を くれました。(Guru memberi saya buku.)
 - 兄 は 私 に 時計 を くれました。(Kakak laki-laki saya memberi saya jam tangan.)
 
@@ -141,7 +141,7 @@ Tiga kata kerja ini artinya semua "memberi/menerima", tapi arah & sudut pandangn
 いもうと は 母 に お金 を もらいます。(Adik perempuan menerima uang dari ibu.)
 私 は 母 から お金 を もらいます。(Saya mendapat uang dari ibu.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 私 は 先生 に 本 を もらいました。(Saya menerima buku dari guru.)
 - 弟 は 父 から 自転車 を もらいました。(Adik laki-laki saya menerima sepeda dari ayah.)
 
@@ -160,7 +160,7 @@ Setelah paham "ada di mana", bab ini lanjut ke kata tunjuk tempat (versi lokasi 
 A：ここ は じむしょ です か。(Apakah di sini kantor?)
 B：いいえ、じむしょ じゃない です。そうこ です。(Bukan kantor. Ini gudang.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - あそこ は 工場 です。(Di sana adalah pabrik.)
 - ここ は 台所 です。そこ は 居間 です。(Di sini dapur. Di situ ruang keluarga.)
 
@@ -176,7 +176,7 @@ A：アイスコーヒー、おねがいします。(Tolong saya pesan es kopi.)
 B：はい、かしこまりました。(Baik, saya mengerti.)
 C：これ、ください。(Tolong yang ini.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - ラーメン、おねがいします。(Tolong saya pesan ramen.)
 - オレンジジュース、ください。(Tolong jus jeruknya.)
 
@@ -190,7 +190,7 @@ C：これ、ください。(Tolong yang ini.)
 📝 **Contoh Basic:**
 A：からげ ２つ、みず １つ と、ください。(Tolong pesan ayam goreng 2 dan air 1.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - ハンバーガー 二つ と、コーラ 一つ、おねがいします。(Tolong hamburger 2 dan cola 1.)
 - 卵焼き 一つ、ください。(Tolong telur dadar 1.)
 
@@ -205,7 +205,7 @@ A：からげ ２つ、みず １つ と、ください。(Tolong pesan ayam gor
 A：たなかさん、なに に します か。(Tanaka, mau pesan apa?)
 B：カレーライス ２つ に します。(Saya pesan nasi kare 2.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 私 は 牛丼 に します。(Saya pesan gyuudon.)
 - A：飲み物 は 何 に します か。
 - B：アイスコーヒー に します。
@@ -226,7 +226,7 @@ A：たまご は よく 食べます か。(Sering makan telur?)
 B：いいえ、たまご は ときどき 食べます。(Tidak, kadang-kadang makan telur.)
 水 は いつも 飲みます。(Air selalu diminum.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 私 は いつも お茶 を 飲みます。(Saya selalu minum teh.)
 - 兄 は ときどき ラーメン を 食べます。(Kakak laki-laki saya kadang-kadang makan ramen.)
 
@@ -241,7 +241,7 @@ B：いいえ、たまご は ときどき 食べます。(Tidak, kadang-kadang 
 パン だけ 食べます。(Saya hanya makan roti.)
 みず しか 飲みません。(Saya hanya minum air putih.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 卵 だけ あります。(Cuma ada telur.)
 - 千円 しか ありません。(Cuma ada seribu yen.)
 
@@ -256,7 +256,7 @@ B：いいえ、たまご は ときどき 食べます。(Tidak, kadang-kadang 
 A：かばん に 何 が あります か。(Di dalam tas ada apa?)
 B：ノート や えんぴつ など が あります。(Ada buku catatan, pensil, dan lainnya.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 冷蔵庫 に 卵 や 牛乳 など が あります。(Di kulkas ada telur, susu, dan lain-lain.)
 - 部屋 に 机 や 椅子 など が あります。(Di kamar ada meja, kursi, dan lain-lain.)
 

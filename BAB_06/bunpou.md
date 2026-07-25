@@ -39,7 +39,7 @@ B：日本で はたらきます。(Bekerja di Jepang.)
 A：何時に あさごはんを 食べます か。(Jam berapa sarapan?)
 B：7時に あさごはんを 食べます。(Sarapan pada pukul 7.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 私 は 六時 に 起きます。(Saya bangun pukul 6.)
 - 兄 は 十時ごろ 寝ます。(Kakak laki-laki saya tidur sekitar jam 10.)
 - 月曜日 に 学校 に 行きます。(Saya pergi ke sekolah pada hari Senin.)
@@ -55,7 +55,7 @@ B：7時に あさごはんを 食べます。(Sarapan pada pukul 7.)
 A：ゆうしょく は 何時 です か。(Makan malam pukul berapa?)
 B：２１時 です。(Pukul 21.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - A：朝ごはん は 何時 です か。
 - B：七時 です。
 - A：クラス は 何時 から です か。
@@ -76,7 +76,7 @@ Tiga pola tentang bilang alasan (から), rentang dari-sampai (から〜まで),
 A：いつ が いいです か。(Kapan bisanya?)
 B：どようび が いいです。(Saya bisanya Sabtu.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - A：何時 が いいです か。(Jam berapa baiknya?)
 - B：三時 が いいです。
 - A：どこ が いいです か。
@@ -93,7 +93,7 @@ B：どようび が いいです。(Saya bisanya Sabtu.)
 A：日本語のクラス は 何時から 何時まで です か。(Kelas bahasa Jepang dari jam berapa sampai jam berapa?)
 B：日本語のクラス は ９時から １５時まで です。(Dari pukul 9 sampai pukul 15.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 月曜日 から 金曜日 まで 働きます。(Bekerja dari Senin sampai Jumat.)
 - 家 から 学校 まで 三十分 かかります。(Dari rumah sampai sekolah butuh 30 menit.)
 
@@ -108,7 +108,7 @@ B：日本語のクラス は ９時から １５時まで です。(Dari pukul 
 A：どうして、食べません か。(Kenapa tidak makan?)
 B：おいしくない です から、食べません。(Karena tidak enak, saya tidak makan.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 忙しい です から、休みません。(Karena sibuk, saya tidak libur.)
 - あめ です から、行きません。(Karena hujan, saya tidak pergi.)
 
@@ -129,7 +129,7 @@ B：デパートに 行きます。(Pergi ke pasar raya.)
 A：だれと 行きます か。(Sama siapa?)
 B：彼女と 行きます。(Sama pacar.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 明日、図書館 に 行きます。(Besok saya pergi ke perpustakaan.)
 - 兄 は 来週、日本 に 来ます。(Kakak laki-laki saya minggu depan datang ke Jepang.)
 - 私 は 七時 に 家 に 帰ります。(Saya pulang ke rumah pukul 7.)
@@ -147,7 +147,7 @@ B：バスで 会社に 行きます。(Pergi ke kantor dengan bus.)
 A：何で 学校に 行きます か。
 B：あるいて 学校に 行きます。(Pergi ke sekolah dengan jalan kaki.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 私 は 電車 で 学校 に 行きます。(Saya pergi ke sekolah dengan kereta.)
 - 兄 は 自転車 で 会社 に 行きます。(Kakak laki-laki saya pergi ke kantor dengan sepeda.)
 - タクシー で 空港 に 行きます。(Pergi ke bandara dengan taksi.)
@@ -165,7 +165,7 @@ B：あるいて 学校に 行きます。(Pergi ke sekolah dengan jalan kaki.)
 A：今年 の ぼうねんかい に 行きます？(Pergi ke acara akhir tahun ini?)
 B：はい、行きます。(Ya, pergi.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 花見 に 行きます。(Pergi untuk hanami.)
 - 明日、送別会 に 行きます か。(Besok pergi ke acara perpisahan?)
 
@@ -180,7 +180,7 @@ B：はい、行きます。(Ya, pergi.)
 もう くらくなる から、すぐに 帰って ください。(Karena sudah gelap, segera pulang.)
 もうすぐ おわる から、はやく やって！(Karena sudah mau selesai, lakukan dengan cepat.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - すぐに 来て ください。(Tolong segera datang.)
 - もうすぐ 昼ごはん です。(Sebentar lagi makan siang.)
 
@@ -212,7 +212,7 @@ Ini bagian paling penting di Bab 6: setiap jenis kata (KB, KK, KS-i, KS-na) puny
 A：きのう、あめ でした か。(Apakah kemarin hujan?)
 B：いいえ、あめ じゃなかった です。(Tidak, tidak hujan.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 去年、私 は 学生 でした。(Tahun lalu saya siswa.)
 - 昨日 は 休み じゃなかった です。(Kemarin bukan hari libur.)
 
@@ -227,7 +227,7 @@ B：いいえ、あめ じゃなかった です。(Tidak, tidak hujan.)
 A：きのうの ばん は べんきょうしました か。(Kemarin malam apakah belajar?)
 B：いいえ、べんきょうしません でした。(Tidak, saya tidak belajar.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 昨日、レストラン で 食事しました。(Kemarin saya makan di restoran.)
 - 先週、映画 を 見ません でした。(Minggu lalu saya tidak nonton film.)
 
@@ -242,7 +242,7 @@ B：いいえ、べんきょうしません でした。(Tidak, saya tidak belaj
 A：あさごはん、もう 食べました か。(Sudah sarapan?)
 B：いいえ、まだ です。(Belum.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - もう 掃除しました。(Sudah bersih-bersih.)
 - A：もう 起きました か。
 - B：はい、もう 起きました。
@@ -258,7 +258,7 @@ B：いいえ、まだ です。(Belum.)
 A：きょねん の ふゆ は さむかった です か。(Musim dingin tahun lalu dingin?)
 B：あまり さむくなかった です。(Tidak begitu dingin.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - あの 映画 は おもしろかった です。(dari おもしろい) (Film itu seru.)
 - 先週 は 忙しかった です。(dari 忙しい) (Minggu lalu saya sibuk.)
 - 昨日 の テスト は 難しくなかった です。(dari 難しい) (Tes kemarin tidak sulit.)
@@ -274,7 +274,7 @@ B：あまり さむくなかった です。(Tidak begitu dingin.)
 A：ジャカルタ は むかし から にぎやか でした か。(Apakah dari dulu Jakarta ramai?)
 B：いいえ、にぎやか じゃなかった です。(Tidak, tidak ramai.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 昔、この 町 は 静か でした。(Dulu kota ini tenang.)
 - テスト は 簡単 じゃなかった です。(Tesnya tidak mudah.)
 
@@ -293,7 +293,7 @@ Dua pola penutup Bab 6: cara detail menyebut posisi suatu benda, dan kontras den
 A：はさみ は どこに あります か。(Gunting ada di mana?)
 B：はさみ は つくえ の うえに あります。(Guntingnya ada di atas meja.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - 猫 は ソファ の 下 に います。(Kucing ada di bawah sofa.)
 - コンビニ は 銀行 の 隣 に あります。(Minimarket ada di sebelah bank.)
 - 私 の 部屋 は 台所 の そば に あります。(Kamar saya ada di dekat dapur.)
@@ -309,7 +309,7 @@ B：はさみ は つくえ の うえに あります。(Guntingnya ada di atas
 この りんご は あまい です。でも、食べません。(Apel ini manis. Tapi saya tidak memakannya.)
 日本の食べもの が 好きです。しかし、さしみ は にがてです。(Saya suka makanan Jepang. Tapi kalau sashimi saya tidak suka.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)**:**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
 - この まんご は おいしい です。でも、たかい です。(Mangga ini enak. Tapi mahal.)
 - 私 は 運動 が 好き です。しかし、時間 が ありません。(Saya suka olahraga. Tapi tidak ada waktu.)
 
