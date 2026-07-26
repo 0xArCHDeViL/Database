@@ -58,7 +58,7 @@ Enam pola ini semua pakai bentuk ～た untuk menyatakan pengalaman, urutan keja
 A：けさ、何 を 食べた？(Tadi pagi, makan apa?)
 B：けさ、パン と ヨーグルト を 食べた。(Tadi pagi saya sarapan roti dan yogurt.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)** (pakai kotoba Bab 1-8):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya) (pakai kotoba Bab 1-8):
 - 昨日、映画 を 見た。(Kemarin saya nonton film.)
 - 兄 は 漢字 を 習った。(Kakak laki-laki saya belajar kanji.)
 
@@ -73,7 +73,7 @@ B：けさ、パン と ヨーグルト を 食べた。(Tadi pagi saya sarapan 
 A：わさび を 食べた こと が あります か。(Pernah makan wasabi?)
 B：いいえ、食べた こと が ない です。(Belum, belum pernah makan.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 富士山 に 登った こと が あります。(Saya pernah mendaki Gunung Fuji.)
 - ギター を 弾いた こと が ありません。(Saya belum pernah main gitar.)
 
@@ -88,7 +88,7 @@ B：いいえ、食べた こと が ない です。(Belum, belum pernah makan.
 A：べんきょうした あと、何 を していますか。(Setelah belajar, biasanya ngapain?)
 B：クラス を かたづけます。(Membereskan kelas.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 勉強した あと、テレビ を 見ます。(Setelah belajar, saya nonton TV.)
 - ご飯 を 食べた あと、歯 を 磨きます。(Setelah makan, saya gosok gigi.)
 
@@ -103,7 +103,7 @@ B：クラス を かたづけます。(Membereskan kelas.)
 A：えいが は おわった？(Filmnya udah selesai ya?)
 B：いいえ、はじまった ばかり。(Enggak kok. Baru aja mulai.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 今、起きた ばかり です。(Saya baru saja bangun.)
 - 学校 は 始まった ばかり です。(Sekolahnya baru saja mulai.)
 
@@ -118,7 +118,7 @@ B：いいえ、はじまった ばかり。(Enggak kok. Baru aja mulai.)
 A：あたま、いたい なあ〜。(Duh kepala saya sakit.)
 B：くすり を 飲んだ ほうが いい です よ。(Sebaiknya segera minum obat.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 早く 寝た ほう が いい です。(Sebaiknya cepat tidur.)
 - 病院 に 行った ほう が いい です よ。(Sebaiknya pergi ke rumah sakit.)
 
@@ -133,7 +133,7 @@ B：くすり を 飲んだ ほうが いい です よ。(Sebaiknya segera minu
 A：漢字 を 書いたら、えんぴつ を 使って ください。(Kalau menulis kanji, gunakan pensil.)
 B：はい。わかりました。(Baik.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 雨 が 降ったら、行きません。(Kalau hujan turun, saya tidak pergi.)
 - 学校 が 終わったら、電話 して ください。(Kalau sekolah sudah selesai, tolong telepon saya.)
 
@@ -148,7 +148,7 @@ B：はい。わかりました。(Baik.)
 A：休みの日、何 を しました か。(Saat libur, ngapain aja?)
 B：家 で せんたく したり、そうじ したり しました。(Di rumah nyuci baju, bersih-bersih, dan lain-lain.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 週末 は 本 を 読んだり、音楽 を 聞いたり します。(Akhir pekan saya baca buku, dengar musik, dan lain-lain.)
 - 休みの日、料理 したり、映画 を 見たり します。(Hari libur saya masak, nonton film, dan lain-lain.)
 
@@ -167,7 +167,7 @@ Enam pola ini memakai bentuk ～る (bentuk kamus) untuk berbagai fungsi: pernya
 A：ぶた肉、食べる？(Kamu makan daging babi?)
 B：いいえ、食べません。(Tidak, saya tidak makan.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 明日、映画 を 見る。(Besok saya akan nonton film.)
 - 毎日、日本語 を 勉強する。(Setiap hari saya belajar bahasa Jepang.)
 
@@ -182,7 +182,7 @@ B：いいえ、食べません。(Tidak, saya tidak makan.)
 A：しゅみ は 何 です か。(Hobi kamu apa?)
 B：ハイキングする ことです。(Hiking.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 私 の しゅみ は 歌を歌う こと です。(Hobi saya adalah bernyanyi.)
 - 兄 の しゅみ は ギター を ひく こと です。(Hobi kakak laki-laki saya adalah main gitar.)
 
@@ -197,7 +197,7 @@ B：ハイキングする ことです。(Hiking.)
 A：食べたあと、何 を しますか。(Setelah makan, ngapain?)
 B：ビール を 飲む ことが あります。(Kadang-kadang saya minum bir.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 週末、映画 を 見る こと が あります。(Kadang-kadang akhir pekan saya nonton film.)
 - 友達 と お喋りする こと が あります。(Kadang-kadang saya mengobrol dengan teman.)
 
@@ -212,7 +212,7 @@ B：ビール を 飲む ことが あります。(Kadang-kadang saya minum bir.
 A：ギター を ひく こと が できます か。(Apakah bisa main gitar?)
 B：はい、できますよ。／いいえ、できません。(Ya, bisa. / Tidak bisa.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 私 は 歌 を 歌う こと が できます。(Saya bisa bernyanyi.)
 - 弟 は 山 に 登る こと が できます。(Adik laki-laki saya bisa mendaki gunung.)
 
@@ -227,7 +227,7 @@ B：はい、できますよ。／いいえ、できません。(Ya, bisa. / Tid
 A：べんきょうする まえに、何 を した ほうが いいですか。(Sebelum belajar, sebaiknya melakukan apa?)
 B：いっしょに おいのり を した ほうが いいです。(Sebaiknya kita berdoa bersama.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 寝る まえに、歯 を 磨きます。(Sebelum tidur, saya gosok gigi.)
 - 旅行する まえに、荷物 を 準備します。(Sebelum jalan-jalan, saya siapkan barang bawaan.)
 
@@ -242,7 +242,7 @@ B：いっしょに おいのり を した ほうが いいです。(Sebaiknya 
 A：あめ が ふる とき に、何 を した ほうが いいですか。(Pada saat hujan, sebaiknya melakukan apa?)
 B：ねた ほうが いいです。(Sebaiknya tidur.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 料理する とき に、気を付けて ください。(Pada saat memasak, hati-hati ya.)
 - 漢字 を 書く とき に、辞書 を 使います。(Pada saat menulis kanji, saya pakai kamus.)
 
@@ -261,7 +261,7 @@ Tiga pola tentang mengubah kata kerja jadi seperti kata benda, dan kondisional d
 A：何 が 好き です か。(Kamu suka apa?)
 B：山 に のぼる のが 好きです。(Saya suka naik gunung.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 本 を 読む の が 好き です。(Saya suka membaca buku.)
 - 料理する の は 楽しい です。(Memasak itu menyenangkan.)
 
@@ -275,7 +275,7 @@ B：山 に のぼる のが 好きです。(Saya suka naik gunung.)
 📝 **Contoh Basic:**
 それ は 食べる パン です。(Itu adalah roti yang akan saya makan.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - これ は 明日 着る 服 です。(Ini baju yang akan saya pakai besok.)
 - あれ は 毎日 使う かばん です。(Itu tas yang saya pakai setiap hari.)
 
@@ -290,7 +290,7 @@ B：山 に のぼる のが 好きです。(Saya suka naik gunung.)
 この ドア を あける と、山 が みえます。(Kalau pintu ini dibuka, terlihat gunung.)
 はやく 行くと、間に合う よ。(Kalau bergegas, masih bisa loh.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 春 に なると、花 が さきます。(Kalau musim semi tiba, bunga mekar.)
 - この ボタン を おすと、電気 が つきます。(Kalau tombol ini ditekan, lampu menyala.)
 
@@ -309,7 +309,7 @@ Empat pola penutup: cara menanyakan "gimana selanjutnya", jenis KB, frekuensi ek
 A：テスト が 終わって から、どう しますか。(Setelah tes selesai, mau bagaimana?)
 B：えいが は どうですか。(Bagaimana kalau nonton film?)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - A：仕事 が 終わって から、どう しますか。
 - B：友達 と 食事 は どうですか。
 
@@ -324,7 +324,7 @@ B：えいが は どうですか。(Bagaimana kalau nonton film?)
 A：どんな スポーツ が 好きです か。(Suka olahraga apa?)
 B：バレボール です。(Voli.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - A：どんな 音楽 が 好き です か。
 - B：ロック が 好き です。
 - A：どんな 映画 を 見ました か。
@@ -341,7 +341,7 @@ B：バレボール です。(Voli.)
 ぜんぜん、おすし を 食べた こと が ありません。(Sama sekali belum pernah makan sushi.)
 わさび は ほとんど 食べません。(Saya hampir tidak makan wasabi.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 私 は いちども 富士山 に のぼった こと が ありません。(Saya belum pernah sekalipun mendaki Gunung Fuji.)
 - 兄 は ほとんど お酒 を 飲みません。(Kakak laki-laki saya hampir tidak minum alkohol.)
 
@@ -356,7 +356,7 @@ B：バレボール です。(Voli.)
 きのう、ともだち と 2人 で デパート で かいものした。(Kemarin, belanja di department store bersama teman berdua.)
 ときどき、かぞく と ４人 で りょこうした。(Kadang-kadang traveling bersama keluarga berempat.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 家族 と 5人 で 旅行しました。(Saya jalan-jalan bersama keluarga berlima.)
 - 友達 と 3人 で 映画 を 見ました。(Saya nonton film bersama teman bertiga.)
 

@@ -41,7 +41,7 @@ B：しずか です。(Sepi.)
 A：この まち の 人 は やさしい です か。(Apakah orang di kota ini baik?)
 B：はい、やさしい です。(Ya, baik.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)** (pakai kotoba Bab 1-5):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya) (pakai kotoba Bab 1-5):
 - この コーヒー は 苦い です。(Kopi ini pahit.)
 - 私 の 兄 は 優しい です。(Kakak laki-laki saya baik hati.)
 - あの 図書館 は 静か です。(Perpustakaan itu tenang.)
@@ -53,11 +53,11 @@ B：はい、やさしい です。(Ya, baik.)
 
 🛠️ **Rumus Hack:** KB1 は [KS-i tanpa い] + くない です
 
-**Contoh asli (dilengkapi karena di sumber asli hanya rumus tanpa contoh dialog):**
+**Contoh asli (dilengkapi karena di sumber asli hanya rumus tanpa contoh dialog):
 A：この ラーメン は おいしい です か。(Ramen ini enak?)
 B：いいえ、あまり おいしくない です。(Tidak, kurang enak.) — dari おいしい → おいし + くない
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - この 部屋 は 広くない です。(dari 広い) (Kamar ini tidak luas.)
 - 今日 は 寒くない です。(dari 寒い) (Hari ini tidak dingin.)
 - あの 山 は 高くない です。(dari 高い) (Gunung itu tidak tinggi.)
@@ -77,7 +77,7 @@ A：いいえ、にぎやか じゃない です。(Tidak, tidak ramai.)
 B：人 は やさしい です か。(Orangnya ramah?)
 A：あまり やさしくない です。(Tidak begitu baik.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - この へや は きれい じゃない です。(Kamar ini tidak bersih.)
 - あの みち は 便利 じゃない です。(Jalan itu tidak praktis.)
 
@@ -96,7 +96,7 @@ Tiga pola ini soal cara nanya "gimana" dan cara nempelin kata sifat langsung ke 
 A：日本 は どう です か。(Jepang bagaimana?)
 B：さむい です。(Dingin.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - A：ジャカルタ は どう です か。
 - B：にぎやか です。でも、ちょっと あつい です。(Ramai. Tapi agak panas.)
 - お茶、いかが です か。(Mau teh? — lebih sopan, biasa dipakai buat menawarkan sesuatu.)
@@ -112,7 +112,7 @@ B：さむい です。(Dingin.)
 A：クラテン は どんな まち です か。(Klaten kota yang bagaimana?)
 B：クラテン は しずか な まち です。(Klaten adalah kota yang sunyi.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 私 は おいしい 料理 が 好き です。(Saya suka masakan yang enak.)
 - あそこ は きれい な 公園 です。(Di sana adalah taman yang bersih.)
 - あの 人 は やさしい 先生 です。(Orang itu guru yang baik hati.)
@@ -128,7 +128,7 @@ B：クラテン は しずか な まち です。(Klaten adalah kota yang suny
 かみ が ながい です。(Rambutnya panjang.)
 め が おおきい です。(Matanya besar.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 兄 は 目 が 大きい です。(Kakak laki-laki saya matanya besar.)
 - あの 人 は 足 が 長い です。(Orang itu kakinya panjang.)
 - 私 は 髪 が 短い です。(Saya rambutnya pendek.)
@@ -144,7 +144,7 @@ B：クラテン は しずか な まち です。(Klaten adalah kota yang suny
 A：たなかさん は どんな 人 です か。(Tanaka, orang yang bagaimana?)
 B：かみ が ながい 人 です。(Orang yang berambut panjang.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - A：お母さん は どんな 人 です か。
 - B：とても 優しい 人 です。(Orang yang sangat baik hati.)
 - A：あなた の 先生 は どんな 人 です か。
@@ -165,7 +165,7 @@ Tiga pola tentang "menjadi ~" (naru), "membuat jadi ~" (suru), dan dua cara biki
 この コーヒー は あまく なります。(Kopi ini menjadi manis.)
 まち は きれい に なります。(Kota menjadi bersih.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 部屋 は 暗く なります。(dari 暗い) (Kamar menjadi gelap.)
 - 私 は 元気 に なりました。(dari 元気(な)) (Saya menjadi sehat.)
 
@@ -179,7 +179,7 @@ Tiga pola tentang "menjadi ~" (naru), "membuat jadi ~" (suru), dan dua cara biki
 📝 **Contoh Basic:**
 いもうと は いしゃ に なります。(Adik perempuan saya menjadi dokter.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 弟 は 警察 に なりました。(Adik laki-laki saya menjadi polisi.)
 - 私 は 先生 に なりたい です。(Saya ingin menjadi guru. — lihat pola たい di Bab 9)
 
@@ -194,7 +194,7 @@ Tiga pola tentang "menjadi ~" (naru), "membuat jadi ~" (suru), dan dua cara biki
 A：すみません、かみ は みじかく してください。(Rambut saya, tolong dipendekkan.)
 B：かしこまりました。(Baik, saya mengerti.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 部屋 を きれい に して ください。(dari きれい(な)) (Tolong bersihkan kamar.)
 - 音楽 を 静か に して ください。(dari 静か(な)) (Tolong pelankan musiknya.)
 
@@ -211,7 +211,7 @@ B：かしこまりました。(Baik, saya mengerti.)
 A：うどん は どう？(Gimana udonnya?)
 B：おいしい です が、たかい です。(Enak sih, tapi mahal.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - この かばん は かるい です が、たかい です。(Tas ini ringan, tapi mahal.)
 - 兄 は 優しい です が、少し 厳しい です。(Kakak laki-laki saya baik, tapi agak tegas.)
 
@@ -226,7 +226,7 @@ B：おいしい です が、たかい です。(Enak sih, tapi mahal.)
 A：うどん は どう？
 B：おいしい です。でも、たかい です。(Enak. Tapi mahal.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - この 部屋 は 狭い です。でも、きれい です。(Kamar ini sempit. Tapi bersih.)
 - 兄 は 忙しい です。でも、元気 です。(Kakak laki-laki saya sibuk. Tapi sehat.)
 
@@ -255,7 +255,7 @@ B：９００万円 です。とても 高い です ね。(9 juta yen. Sangat m
 | あまり高くない | tidak begitu mahal |
 | ぜんぜん高くない | sama sekali tidak mahal |
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - この 料理 は とても おいしい です。(Masakan ini sangat enak.)
 - あの 山 は いちばん 高い です。(Gunung itu yang paling tinggi.)
 - 今日 は ぜんぜん 忙しくない です。(Hari ini sama sekali tidak sibuk.)
@@ -271,7 +271,7 @@ B：９００万円 です。とても 高い です ね。(9 juta yen. Sangat m
 ジャカルタ より、チラチャップ のほう が しずか です。(Daripada Jakarta, Cilacap lebih tenang.)
 私 より、あなた のほう が あたま が いい です よ。(Daripada saya, kamu lebih pintar, kok.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - バス より、電車 のほう が はやい です。(Daripada bus, kereta lebih cepat.)
 - 弟 より、兄 のほう が 背 が 高い です。(Daripada adik laki-laki, kakak laki-laki lebih tinggi.)
 
@@ -286,7 +286,7 @@ B：９００万円 です。とても 高い です ね。(9 juta yen. Sangat m
 A：ラーメン と うどん、どちら が おいしい です か。(Ramen dan udon, mana yang lebih enak?)
 B：うどん のほう が おいしい です。／どちら も おいしい です。(Udon yang lebih enak. / Keduanya enak.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - A：バリ と ジャワ、どちら が にぎやか です か。(Bali dan Jawa, mana yang lebih ramai?)
 - B：バリ のほう が にぎやか です。
 - A：犬 と 猫、どちら が 好き です か。

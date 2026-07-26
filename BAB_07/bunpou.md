@@ -51,7 +51,7 @@ Tiga pola dasar buat minta tolong dan menjelaskan cara melakukan sesuatu.
 A：あつい です ね。エアコン を つけて ください。(Panas ya. Tolong nyalakan AC.)
 B：はい。(Ya.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)** (pakai kotoba Bab 1-7):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya) (pakai kotoba Bab 1-7):
 - 窓 を 開けて ください。(Tolong buka jendelanya.)
 - ちょっと 待って ください。(Tolong tunggu sebentar.)
 - この 漢字 を 書いて ください。(Tolong tulis kanji ini.)
@@ -67,7 +67,7 @@ B：はい。(Ya.)
 A：この だいこん、どうやって きります か。(Lobak ini bagaimana cara memotongnya?)
 B：ナイフ で きって ください。(Potonglah dengan pisau.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 箸 で 食べて ください。(Tolong makan pakai sumpit.)
 - 包丁 で 野菜 を 切って ください。(Tolong potong sayur pakai pisau besar.)
 
@@ -82,7 +82,7 @@ B：ナイフ で きって ください。(Potonglah dengan pisau.)
 A：フォーク を とって くれません か。(Bisakah ambilkan saya garpu?)
 B：フォーク です ね。はい、どうぞ。(Garpu ya? Ya, silakan.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 辞書 を 貸して くれません か。(Bisakah pinjamkan saya kamus?)
 - この 紙 を 見せて くれない？(Bisa tunjukkan kertas ini gak?)
 
@@ -101,7 +101,7 @@ Tiga pola ini adalah versi Te-Form dari あげます／くれます／もらい�
 私 は いもうと に 日本語 を おしえて あげました。(Saya mengajari adik perempuan bahasa Jepang.)
 いもうと に 朝ごはん を 作って あげます。(Saya membuatkan adik perempuan sarapan.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 私 は 弟 に 漢字 を 教えて あげました。(Saya mengajari adik laki-laki kanji.)
 - 母 に 手紙 を 書いて あげます。(Saya menuliskan surat untuk ibu.)
 
@@ -116,7 +116,7 @@ Tiga pola ini adalah versi Te-Form dari あげます／くれます／もらい�
 先生 が（私に）日本語 を 教えて くれました。(Sensei mengajarkan saya bahasa Jepang.)
 母 が 毎日、朝ごはん を 作って くれています。(Setiap hari ibu membuatkan saya sarapan.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 兄 が 私 に 漢字 を 教えて くれました。(Kakak laki-laki mengajari saya kanji.)
 - 友達 が 宿題 を 手伝って くれました。(Teman membantu saya PR.)
 
@@ -131,11 +131,11 @@ Tiga pola ini adalah versi Te-Form dari あげます／くれます／もらい�
 母 に 朝ごはん を 作って もらいました。(Saya dibuatkan sarapan oleh ibu.)
 スラメット先生 に 日本語 を 教えて もらって、嬉しい です。(Senang sekali diajar oleh Slamet sensei.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 私 は 先生 に 作文 を 直して もらいました。(Saya dibetulkan karangannya oleh guru.)
 - 兄 に 車 を 貸して もらいました。(Saya dipinjamkan mobil oleh kakak laki-laki.)
 
-> **Bedain 【84】【85】【86】 (mirip Bab 4):** kalau SAYA yang melakukan untuk orang lain → あげます. Kalau ORANG LAIN melakukan UNTUK SAYA → くれます (fokus ke pemberi) atau もらいます (fokus ke penerima=saya). Sudut pandangnya sama persis dengan konsep di Bab 4, cuma sekarang isinya AKSI, bukan cuma benda.
+> **Bedain 【84】【85】【86】 (mirip Bab 4): kalau SAYA yang melakukan untuk orang lain → あげます. Kalau ORANG LAIN melakukan UNTUK SAYA → くれます (fokus ke pemberi) atau もらいます (fokus ke penerima=saya). Sudut pandangnya sama persis dengan konsep di Bab 4, cuma sekarang isinya AKSI, bukan cuma benda.
 
 ---
 
@@ -152,7 +152,7 @@ Empat pola ini soal boleh/tidak boleh melakukan sesuatu, dan konsekuensi meski s
 A：どう しました か。(Kenapa?)
 B：すみません、この ドア は あけて も、あきません。(Maaf, pintu ini meskipun saya buka, tidak mau terbuka.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - この 薬 を 飲んで も、なおりません。(Meskipun minum obat ini, tidak sembuh.)
 - 何度 も 聞いて も、わかりません。(Meskipun ditanya berkali-kali, tetap tidak paham.)
 
@@ -168,7 +168,7 @@ B：すみません、この ドア は あけて も、あきません。(Maaf,
 A：ここ で タバコ を すって も いいです か。(Apakah boleh merokok di sini?)
 B：はい、いい よ。／いいえ、だめ です。(Ya, boleh. / Tidak, tidak boleh.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - この かさ を 使って も いい です か。(Boleh pakai payung ini?)
 - ここ で 写真 を とって も いい です か。(Boleh foto di sini?)
 
@@ -183,7 +183,7 @@ B：はい、いい よ。／いいえ、だめ です。(Ya, boleh. / Tidak, ti
 A：ここ で タバコ を すって も いい です か。
 B：いいえ、タバコ を すって は だめ です よ。(Tidak, di sini tidak boleh merokok.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - ここ で 遊んで は いけません。(Tidak boleh bermain di sini.)
 - 授業中 に 話して は だめ です。(Tidak boleh bicara saat pelajaran.)
 
@@ -198,7 +198,7 @@ B：いいえ、タバコ を すって は だめ です よ。(Tidak, di sini 
 A：すみません、田中さん は います か。(Maaf, apakah Pak Tanaka ada?)
 B：いない です ね。しょくどう に さがして みて ください。(Tidak ada. Coba cari di kantin.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - この 料理 を 作って みます。(Saya akan coba buat masakan ini.)
 - 新しい 辞書 を 使って みました。(Saya sudah coba pakai kamus baru.)
 
@@ -216,7 +216,7 @@ Tiga pola dengan bentuk sama (KK〜ています) tapi makna berbeda tergantung k
 📝 **Contoh Basic:**
 あさごはん を 食べて から、シャワー を あびました。(Setelah sarapan, saya mandi.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 宿題 を して から、寝ます。(Setelah mengerjakan PR, saya tidur.)
 - 顔 を 洗って から、朝ごはん を 食べます。(Setelah cuci muka, saya sarapan.)
 
@@ -227,15 +227,15 @@ Tiga pola dengan bentuk sama (KK〜ています) tapi makna berbeda tergantung k
 
 🛠️ **Rumus Hack:** KK〜て います
 
-**Contoh asli (rutinitas):**
+**Contoh asli (rutinitas):
 A：日本語 を 勉強して から、いつも 何 を していますか。(Setelah belajar bahasa Jepang, biasanya ngapain?)
 B：だいたい、ごろごろ しています。(Biasanya saya bersantai.)
 
-**Contoh asli (sedang berlangsung):**
+**Contoh asli (sedang berlangsung):
 A：ねえちゃん、何 を していますか。(Kak, kamu sedang apa?)
 B：えいご を 勉強しています。(Sedang belajar bahasa Inggris.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 毎朝、六時 に 起きています。(Rutinitas: setiap pagi saya bangun jam 6.)
 - 今、部屋 を 掃除しています。(Sedang berlangsung: sekarang saya sedang bersih-bersih kamar.)
 
@@ -250,7 +250,7 @@ B：えいご を 勉強しています。(Sedang belajar bahasa Inggris.)
 A：もう、ねました か。(Sudah tidur?)
 B：まだ です。まだ 本 を よんでいます。(Belum, masih baca buku.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - まだ 宿題 を しています。(Masih mengerjakan PR.)
 - 兄 は まだ 働いています。(Kakak laki-laki saya masih bekerja.)
 
@@ -265,7 +265,7 @@ B：まだ です。まだ 本 を よんでいます。(Belum, masih baca buku.
 A：もう、おわりました か。(Sudah selesai?)
 B：いいえ、まだ おわっていません。(Belum, belum selesai.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - まだ 準備していません。(Belum mempersiapkan.)
 - 手紙 は まだ 書いていません。(Suratnya belum saya tulis.)
 
@@ -284,7 +284,7 @@ Lima pola tentang menyambung dua sifat sekaligus, dan "meskipun sifatnya begini,
 A：その レストラン の ラーメン は どう です か。(Ramen di restoran itu bagaimana?)
 B：おいしくて、やすい です。(Enak dan murah.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - この 部屋 は 広くて、明るい です。(Kamar ini luas dan terang.)
 - あの 山 は 高くて、寒い です。(Gunung itu tinggi dan dingin.)
 
@@ -299,7 +299,7 @@ B：おいしくて、やすい です。(Enak dan murah.)
 A：トニさん は どんな人 です か。(Toni itu orangnya bagaimana?)
 B：ハンサム で あたま も いい人 です。(Toni orang yang tampan dan pintar.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - この 町 は 静か で、きれい です。(Kota ini tenang dan bersih.)
 - 母 は 親切 で、優しい です。(Ibu saya baik hati dan lembut.)
 
@@ -314,7 +314,7 @@ B：ハンサム で あたま も いい人 です。(Toni orang yang tampan da
 この かばん は やすくて も、じょうぶ です。(Tas ini meskipun murah, kuat.)
 あの人 は ハンサム で も、あたま が わるい です。(Orang itu tampan tapi bodoh.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - この 料理 は からくて も、おいしい です。(Masakan ini meskipun pedas, tetap enak.)
 - あの 人 は 忙しく て も、いつも 元気 です。(Orang itu meskipun sibuk, tetap selalu sehat.)
 
@@ -329,7 +329,7 @@ B：ハンサム で あたま も いい人 です。(Toni orang yang tampan da
 これ は やすくなくて も、かいます。(Ini meskipun tidak murah, saya beli.)
 あの人 は ハンサム じゃなくて も、じょうず です。(Orang itu meskipun tidak ganteng, pintar.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - この 料理 は おいしくなくて も、食べます。(Masakan ini meskipun tidak enak, saya makan.)
 - あの 人 は 元気 じゃなくて も、働きます。(Orang itu meskipun tidak sehat, tetap bekerja.)
 
@@ -344,7 +344,7 @@ B：ハンサム で あたま も いい人 です。(Toni orang yang tampan da
 きょう、あめ でも がっこう に いきます。(Hari ini, meskipun hujan, saya pergi ke sekolah.)
 これ は おさけ じゃなくても、飲みません。(Meskipun bukan alkohol, saya tidak minum ini.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 休み でも、勉強します。(Meskipun libur, saya tetap belajar.)
 - これ は プレゼント じゃなくて も、大事 です。(Meskipun ini bukan hadiah, tetap penting.)
 
@@ -363,7 +363,7 @@ Dua pola penutup: cara menyambung KB dengan cara berbeda (dengan sifat) dan tiga
 A：この やさい は みじかく きって ください！(Sayurnya potong dengan pendek.)
 B：はい、わかりました。(Baik, saya mengerti.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 野菜 を 小さく 切ります。(Memotong sayur dengan kecil-kecil.)
 - 部屋 を きれい に します。(Membuat kamar jadi bersih.)
 
@@ -378,7 +378,7 @@ B：はい、わかりました。(Baik, saya mengerti.)
 A：その つくえ を かたづけて ください。それから／そして、いす も！(Tolong bereskan meja itu. Kemudian kursinya juga ya.)
 B：はい、わかりました。(Baik, saya mengerti.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 朝ごはん を 食べます。それから、学校 に 行きます。(Sarapan dulu. Kemudian pergi ke sekolah.)
 - 宿題 を します。そして、寝ます。(Mengerjakan PR. Setelah itu tidur.)
 
@@ -393,7 +393,7 @@ B：はい、わかりました。(Baik, saya mengerti.)
 A：その みかん は どう？(Jeruknya bagaimana?)
 B：おいしい です。それに、あまい です。(Enak. Selain itu manis.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - この 部屋 は 広い です。それに、明るい です。(Kamar ini luas. Selain itu terang.)
 - あの 店 は 安い です。それに、店員 も 親切 です。(Toko itu murah. Selain itu pegawainya juga ramah.)
 
