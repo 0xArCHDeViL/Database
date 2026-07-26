@@ -46,7 +46,7 @@ Tiga pola dasar memakai bentuk ～ない untuk pernyataan negatif kasual, larang
 A：豚肉、食べる？(Daging babi, apakah makan?)
 B：ううん、食べない。(Enggak, gak makan.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)** (pakai kotoba Bab 1-10):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya) (pakai kotoba Bab 1-10):
 - 今日 は 学校 に 行かない。(Hari ini saya tidak pergi ke sekolah.)
 - お酒 を 飲まない。(Saya tidak minum alkohol.)
 
@@ -61,7 +61,7 @@ B：ううん、食べない。(Enggak, gak makan.)
 本 を 見ないで、もんだい を やって ください。(Tolong kerjakan soal tanpa melihat buku.)
 はらわないで、ジュース を 飲んで は だめ よ。(Tanpa membayar, tidak boleh minum jus.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 傘 を 差さないで、歩きました。(Saya jalan tanpa memakai payung.)
 - 何 も 食べないで、寝ました。(Saya tidur tanpa makan apapun.)
 
@@ -76,7 +76,7 @@ B：ううん、食べない。(Enggak, gak makan.)
 A：ここ で きんえん です から、タバコ を すわないで ください。(Di sini dilarang merokok, jadi jangan merokok di sini.)
 B：はい、わかりました。(Baik, saya mengerti.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - ここ で 遊ばないで ください。(Tolong jangan bermain di sini.)
 - 心配 しないで ください。(Tolong jangan khawatir.)
 
@@ -95,7 +95,7 @@ Lima pola ini SEMUA berarti "harus/tidak perlu", tapi dengan nuansa berbeda-beda
 A：あした 休み です から、がっこう に 来なくても いいです。(Besok karena libur, tidak perlu datang ke sekolah.)
 B：はい。(Baik.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 明日 は 仕事 に 行かなくても いいです。(Besok saya tidak perlu pergi kerja.)
 - 心配 しなくても いいです。(Tidak perlu khawatir.)
 
@@ -110,7 +110,7 @@ B：はい。(Baik.)
 A：ごはん を 食べる まえに、何 を しますか。(Sebelum makan, melakukan apa?)
 B：手 を あらわなくては いけません。(Harus cuci tangan.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 薬 を 飲まなくては いけません。(Harus minum obat.)
 - 宿題 を しなくては だめ です。(Harus mengerjakan PR.)
 
@@ -125,7 +125,7 @@ B：手 を あらわなくては いけません。(Harus cuci tangan.)
 明日、しけん が ある から、勉強 しなければ ならない よ。(Besok karena ada tes, harus belajar loh.)
 もう 日本 で 働いたら、せつやく しなければ なりません。(Kalau sudah bekerja di Jepang, harus berhemat.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 病気 です から、休まなければ なりません。(Karena sakit, harus istirahat.)
 - 毎日、日本語 を 勉強しなければ なりません。(Setiap hari harus belajar bahasa Jepang.)
 
@@ -140,11 +140,11 @@ B：手 を あらわなくては いけません。(Harus cuci tangan.)
 A：もう 時間 が ない から、いそがない と（いけない）。(Karena sudah tidak ada waktu, harus bergegas.)
 B：じゃ、行きましょう。(Kalau begitu, mari pergi.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - もう 帰らない と。(Sudah harus pulang nih.)
 - 早く 起きない と、遅刻する よ。(Kalau tidak segera bangun, bakal telat lho.)
 
-> **Perbandingan 4 pola keharusan (【144】-【147】):** dari yang paling formal/tetap ke yang paling kasual/situasional: なくてはいけません (aturan resmi) → なければなりません (keharusan karena keadaan) → ないと(いけません) (paling santai, sering dipakai teman dekat, bagian akhirnya sering hilang di percakapan cepat). Sedangkan なくてもいいです artinya kebalikannya sama sekali: TIDAK PERLU.
+> **Perbandingan 4 pola keharusan (【144】-【147】): dari yang paling formal/tetap ke yang paling kasual/situasional: なくてはいけません (aturan resmi) → なければなりません (keharusan karena keadaan) → ないと(いけません) (paling santai, sering dipakai teman dekat, bagian akhirnya sering hilang di percakapan cepat). Sedangkan なくてもいいです artinya kebalikannya sama sekali: TIDAK PERLU.
 
 ---
 
@@ -157,7 +157,7 @@ B：じゃ、行きましょう。(Kalau begitu, mari pergi.)
 コーヒー を あまり 飲まない ほうが いいです。(Sebaiknya tidak terlalu sering minum kopi.)
 明日 しけん だから、おそく ねない ほうが いいです。(Karena besok tes, sebaiknya tidak tidur larut.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - タバコ を 吸わない ほうが いいです。(Sebaiknya tidak merokok.)
 - 夜遅く、食べない ほうが いいです。(Sebaiknya tidak makan larut malam.)
 
@@ -176,7 +176,7 @@ Dua pola tentang naik/turun kendaraan dan menyatakan durasi waktu/biaya yang dib
 ここ から、１２ばん の バス に のって ください。(Dari sini, naiklah bus nomor 12.)
 バスセンター で バス を おりて ください。(Turunlah dari bus di terminal.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 電車 に 乗って ください。(Silakan naik kereta.)
 - 駅 で 電車 を 降ります。(Saya turun kereta di stasiun.)
 
@@ -191,7 +191,7 @@ Dua pola tentang naik/turun kendaraan dan menyatakan durasi waktu/biaya yang dib
 A：クラテン から ジャカルタ まで どのぐらい かかります か。(Dari Klaten ke Jakarta butuh berapa lama?)
 B：６時間 ぐらい かかります。(Butuh waktu sekitar 6 jam.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - バンドン まで 三時間 かかります。(Ke Bandung butuh 3 jam.)
 - この かばん は 五千円 かかりました。(Tas ini menghabiskan biaya 5000 yen.)
 
@@ -216,7 +216,7 @@ Ini bagian TERPENTING Bab 10 — tabel yang menyatukan konjugasi dari SEMUA jeni
 | **KK-たい** (positif) | KK〜たいです | KK〜**たい** | KK〜たかったです | KK〜**たかった** |
 | **KK-たい** (negatif) | KK〜たくないです | KK〜**たくない** | KK〜たくなかったです | KK〜**たくなかった** |
 
-> **✅ Validasi konjugasi KS-i (klarifikasi atas catatan sebelumnya):** aturan buang huruf い di akhir kata sifat -i, lalu tambah akhiran baru, adalah SATU aturan tunggal yang konsisten dipakai di seluruh bab:
+> **✅ Validasi konjugasi KS-i (klarifikasi atas catatan sebelumnya): aturan buang huruf い di akhir kata sifat -i, lalu tambah akhiran baru, adalah SATU aturan tunggal yang konsisten dipakai di seluruh bab:
 > - Positif sekarang: [KS-i] です → tetap pakai い-nya, tinggal tambah です
 > - Negatif sekarang: buang い → tambah **くない** (contoh: たかい → たか + くない = たかくない)
 > - Positif lampau: buang い → tambah **かった** (contoh: たかい → たか + かった = たかかった)
@@ -232,7 +232,7 @@ Ini bagian TERPENTING Bab 10 — tabel yang menyatukan konjugasi dari SEMUA jeni
 学生：帰っても いい です か。(Boleh pulang?)
 先生：ううん、だめ だ よ。(Enggak, gak boleh.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)** (pakai kotoba Bab 1-10):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya) (pakai kotoba Bab 1-10):
 - 今日 は 雨 だ。(Hari ini hujan. — KB biasa)
 - この 問題 は 難しくない。(Soal ini tidak susah. — KS-i biasa negatif)
 - 昨日 は 忙しかった。(Kemarin sibuk. — KS-i biasa lampau)
@@ -249,7 +249,7 @@ Ini bagian TERPENTING Bab 10 — tabel yang menyatukan konjugasi dari SEMUA jeni
 母 が 作った ケーキ です。(Kue yang ibu buat.)
 姉 が くれた お金 です。(Uang yang kakak perempuan berikan.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 兄 が 買った 車 です。(Mobil yang kakak laki-laki beli.)
 - 先生 が 教えた 漢字 です。(Kanji yang guru ajarkan.)
 
@@ -268,7 +268,7 @@ Tiga pola menggunakan Bentuk Biasa untuk mengutip apa yang dipikirkan, dikatakan
 田中さん は けっこん している と 思います。(Saya rasa Tanaka sudah menikah.)
 これ は かんたん だ と 思う。(Saya kira ini mudah.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 明日 は 雨 だ と 思います。(Saya pikir besok akan hujan.)
 - この 料理 は おいしい と 思います。(Saya rasa masakan ini enak.)
 
@@ -283,7 +283,7 @@ Tiga pola menggunakan Bentuk Biasa untuk mengutip apa yang dipikirkan, dikatakan
 さっき、先生 は 明日、休み だ と 言いました。(Tadi, sensei bilang bahwa besok libur.)
 イヤンさん は 日本 で 働きたい と 言った。(Iyan bilang ingin bekerja di Jepang.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 兄 は 疲れた と 言いました。(Kakak laki-laki saya bilang lelah.)
 - 母 は 元気 だ と 言いました。(Ibu bilang sehat.)
 
@@ -297,7 +297,7 @@ Tiga pola menggunakan Bentuk Biasa untuk mengutip apa yang dipikirkan, dikatakan
 📝 **Contoh Basic:**
 田中さん は 明日 日本 に 戻る と 聞いた。それ は 本当 です か。(Saya dengar Tanaka besok akan kembali ke Jepang. Apa itu benar?)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 兄 は 来月、結婚する と 聞きました。(Saya dengar kakak laki-laki saya bulan depan akan menikah.)
 - あの店 は 美味しい と 聞きました。(Saya dengar toko itu enak.)
 
@@ -312,7 +312,7 @@ Tiga pola menggunakan Bentuk Biasa untuk mengutip apa yang dipikirkan, dikatakan
 今日 は かぜ です。それで、がっこう を やすむ。(Hari ini saya masuk angin. Karena itu saya libur sekolah.)
 明日、テスト が あります。だから、勉強しないと。(Besok ada tes. Jadi saya harus belajar.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 昨日 は 忙しかった。それで、寝るのが 遅かった。(Kemarin sibuk. Karena itu tidurnya larut.)
 - お金 が ない。だから、買えません。(Tidak ada uang. Jadi tidak bisa beli.)
 
@@ -331,7 +331,7 @@ Enam pola penutup Bab 10 (dan penutup seluruh materi): kata tanya yang jadi univ
 その どうぶつ は 何でも 食べる。(Binatang itu makan apapun.)
 いつでも、また きて ね。(Silakan datang kapanpun.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 誰でも できます。(Siapapun bisa.)
 - どこでも 行きます。(Saya akan pergi ke manapun.)
 
@@ -353,7 +353,7 @@ Enam pola penutup Bab 10 (dan penutup seluruh materi): kata tanya yang jadi univ
 | どこでも | dimanapun | どこか | suatu tempat |
 | だれでも | siapapun | だれか | seseorang |
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 誰か、来ました か。(Ada seseorang yang datang?)
 - どこか、行きたい です。(Saya ingin pergi ke suatu tempat.)
 
@@ -368,7 +368,7 @@ Enam pola penutup Bab 10 (dan penutup seluruh materi): kata tanya yang jadi univ
 A：コンサート は 何時 に 始まる か、しっています か？(Konsernya mulai jam berapa, kamu tahu?)
 B：知らない。(Tidak tahu.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 明日、雨 が 降る か、わかります か。(Apakah kamu tahu besok akan hujan atau tidak?)
 - あの人 は 誰 か、知っています か。(Apakah kamu tahu orang itu siapa?)
 
@@ -383,7 +383,7 @@ B：知らない。(Tidak tahu.)
 明日、お金 が あるか どうか、わからない。(Besok ada uang atau tidak, saya tidak tahu.)
 行く か どうか、まだ 決めません。(Mau pergi atau tidak, saya belum memutuskan.)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 彼 が 来る か どうか、わかりません。(Apakah dia akan datang atau tidak, saya tidak tahu.)
 - これ が 正しい か どうか、確認します。(Saya akan pastikan apakah ini benar atau tidak.)
 
@@ -398,7 +398,7 @@ B：知らない。(Tidak tahu.)
 日本 では 仕事 を さがす のは かんたん です。(Di Jepang, mencari pekerjaan itu mudah.)
 チラチャップ まで は 何 で 来た の？(Sampai Cilacap, datang pakai apa?)
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 東京 には まだ 行った こと が ありません。(Ke Tokyo, saya belum pernah pergi.)
 - この 電車 は ジャカルタ から は 出ません。(Kereta ini tidak berangkat dari Jakarta.)
 

@@ -23,7 +23,7 @@ Bab 1 ini fondasi paling awal: cara bilang "X adalah Y", cara nanya sesuatu, car
 
 > Catatan: penyebutan わたしは atau あなたは sering dihilangkan dalam percakapan langsung karena subjeknya udah jelas dari konteks.
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya)** (pakai kotoba Bab 1):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya) (pakai kotoba Bab 1):
 - 私 は 学生 です。(Saya adalah siswa.)
 - 兄 は 医者 です。(Kakak laki-laki saya adalah dokter.)
 - あの人 は 先生 です。(Orang itu adalah guru.)
@@ -42,7 +42,7 @@ Bab 1 ini fondasi paling awal: cara bilang "X adalah Y", cara nanya sesuatu, car
 
 > じゃありません・じゃないです dipakai di ragam bahasa lisan. ではありません・ではないです dipakai di ragam bahasa tulis.
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 弟 は 警察 じゃない です。(Adik laki-laki saya bukan polisi.)
 - 私 は 韓国人 じゃない です。インドネシア人 です。(Saya bukan orang Korea. Saya orang Indonesia.)
 - あの方 は 農家 ではありません。(Orang itu bukan petani.)
@@ -62,7 +62,7 @@ Tiga pola ini semuanya soal nanya sesuatu ke lawan bicara: tanya ya/tidak, tanya
 A：レイナさん は いしゃ です か。(Apakah Reina seorang dokter?)
 B：…はい、そう です。／…いいえ、ちがいます。学生 です。
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - A：お父さん は 会社員 です か。(Apakah ayah Anda pegawai perusahaan?)
 - B：はい、そう です。／いいえ、ちがいます。公務員 です。
 - A：あなた は 学生 です か。
@@ -81,7 +81,7 @@ B：はい。がくせい です。
 A：レイナさん も 学生 です か。
 B：いいえ。学生 じゃない です。
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - A：兄 は 銀行員 です。姉 も 銀行員 です か。(Kakak laki-laki saya pegawai bank. Kakak perempuan saya juga pegawai bank?)
 - B：いいえ、姉 は 看護師 です。
 
@@ -96,7 +96,7 @@ B：いいえ。学生 じゃない です。
 A：インドネシア です か、インド です か。
 B：インドネシア です。
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - A：お母さん は 看護師 です か、医者 です か。(Ibu Anda perawat atau dokter?)
 - B：看護師 です。
 - A：あなた は 日本人 です か、中国人 です か。
@@ -117,7 +117,7 @@ Tiga pola ini dipakai bareng dalam obrolan "kamu tinggal di mana / sama siapa / 
 A：どこ に すんでいます か。
 B：バリ に すんでいます。
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - A：田舎 に すんでいます か。(Tinggal di desa?)
 - B：いいえ、町 に すんでいます。(Tidak, saya tinggal di kota.)
 - 私 は 寮 に すんでいます。(Saya tinggal di asrama.)
@@ -134,7 +134,7 @@ A：みなさん、だれ と すんでいます か。
 B：ひとりで すんでいます。
 C：私 は りょうしん と すんでいます。
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - 私 は 両親 と すんでいます。(Saya tinggal bersama orang tua.)
 - 兄 は 彼女 と すんでいます。(Kakak laki-laki saya tinggal bersama pacarnya.)
 - 私 は 一人で すんでいます。(Saya tinggal sendirian.)
@@ -150,7 +150,7 @@ C：私 は りょうしん と すんでいます。
 A：どこ から きました か。
 B：ブラジル から きました。
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - A：インドネシア から きました か。
 - B：はい、インドネシア から きました。故郷 は ハウルグヅル です。 *(contoh personal — sesuaikan nama daerah)*
 - 私 の 兄 は 日本 から きました。(Kakak laki-laki saya datang dari Jepang.)
@@ -172,7 +172,7 @@ B：４５ さい です。
 A：あなた は おいくつ です か。
 B：はたち（20 さい）です。
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - A：妹 さん は なんさい です か。(Adik perempuan Anda umur berapa?)
 - B：七歳 です。(7 tahun.)
 - A：お子さん は おいくつ です か。
@@ -193,7 +193,7 @@ B：インドラマユ に すんでいます。
 
 > Cara lebih sopan: 「お名前を おうかがいしても よろしいでしょうか？」
 
-💡 **Contoh Lateral (Vocab Bab ini & sblmnya):**
+💡 **Contoh Lateral (Vocab Bab ini & sblmnya):
 - A：あのう、すみません。おなまえ は？
 - B：私 は ファデル です。学生 です。
 - A：どこ から きました か。
