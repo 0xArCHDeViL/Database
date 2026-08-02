@@ -204,7 +204,7 @@ def build_back(card):
     conj = get_conjugations(card['w'], card['g'])
     
     forms = [
-        ('Kamus / Jisho', 'Jisho'), ('Sopan / Masu', 'Masu'),
+        ('Kamus / Jisho', 'Jisho'),
         ('Sambung / Te', 'Te'), ('Lampau / Ta', 'Ta'),
         ('Negatif / Nai', 'Nai'), ('Keinginan / Tai', 'Tai'),
         ('Pengandaian / Ba', 'Ba'), ('Ajakan / Ikou', 'Ikou'),
@@ -273,7 +273,10 @@ def main():
         # Allow multiple contexts by checking combining Word + Arti or Word + Yomi
         unique_key = f"{card['w']}_{card['y']}_{card['a']}"
         
-        front = build_front(card['w'], card['g'])
+        conj = get_conjugations(card['w'], card['g'])
+        masu_form = conj.get('Masu', card['w'])
+        
+        front = build_front(masu_form, card['g'])
         back = build_back(card)
 
         if not card['w'].strip():
