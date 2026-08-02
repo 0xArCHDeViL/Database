@@ -147,204 +147,28 @@ def get_conjugations(base, group):
     return {}
 
 # ============================================================
-# HIGHLY POLISHED CSS
+# ============================================================
+# CSS CONSTANTS (Sama dengan KS_Anki_Deck dan EXTKS_Anki_Deck)
 # ============================================================
 
-FRONT_STYLE = """
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700;900&display=swap');
-.frontcard {
-    font-family: 'Noto Sans JP', sans-serif;
-    background: linear-gradient(135deg, #fdfbfb 0%, #ebedee 100%) !important;
-    color: #1f2937 !important;
-    padding: 40px 20px;
-    border-radius: 20px;
-    text-align: center;
-    border: 1px solid rgba(255, 255, 255, 0.4);
-    box-shadow: 0 10px 25px rgba(0,0,0,0.05);
-}
-.front-main {
-    font-size: 64px;
-    font-weight: 900;
-    color: #111827 !important;
-    line-height: 1.2;
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.05);
-}
-.front-main.sm { font-size: 50px; }
-.front-main.xs { font-size: 40px; }
-.front-hint {
-    margin-top: 20px;
-    font-size: 13px;
-    text-transform: uppercase;
-    letter-spacing: 3px;
-    color: #6b7280 !important;
-    font-weight: 700;
-}
-.badge-group {
-    display: inline-block;
-    padding: 6px 14px;
-    border-radius: 20px;
-    font-size: 13px;
-    font-weight: bold;
-    color: white !important;
-    margin-bottom: 15px;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-}
-.g1 { background: linear-gradient(135deg, #3b82f6, #2563eb) !important; }
-.g2 { background: linear-gradient(135deg, #ef4444, #dc2626) !important; }
-.g3 { background: linear-gradient(135deg, #8b5cf6, #7c3aed) !important; }
-</style>
-"""
+FRONT_STYLE = '<style>.frontcard{font-family:"Hiragino Sans","Yu Gothic",sans-serif;background:#ffffff !important;color:#1a1a1a !important;padding:30px 20px;border-radius:14px;text-align:center;border:2px solid #e5e7eb}.front-main{font-size:56px;font-weight:bold;color:#1a1a1a !important;line-height:1.3;letter-spacing:1px}.front-main.sm{font-size:48px}.front-main.xs{font-size:40px}.front-hint{margin-top:14px;font-size:12px;text-transform:uppercase;letter-spacing:2px;color:#9ca3af !important;font-weight:600}</style>'
 
-BACK_STYLE = """
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700;900&display=swap');
-.jpcard {
-    font-family: 'Noto Sans JP', sans-serif;
-    background: #ffffff !important;
-    color: #1f2937 !important;
-    padding: 24px;
-    border-radius: 16px;
-    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
-}
-.header-section {
-    text-align: center;
-    border-bottom: 2px dashed #e5e7eb;
-    padding-bottom: 20px;
-    margin-bottom: 20px;
-}
-.yomi {
-    font-size: 26px;
-    color: #2563eb !important;
-    font-weight: 900;
-    margin-bottom: 8px;
-}
-.arti {
-    font-size: 22px;
-    color: #904c10 !important;
-    font-weight: bold;
-    background: #fef3c7 !important;
-    padding: 6px 16px;
-    border-radius: 8px;
-    display: inline-block;
-}
-.label {
-    font-size: 12px;
-    text-transform: uppercase;
-    letter-spacing: 1.5px;
-    color: #6b7280 !important;
-    font-weight: 900;
-    margin-bottom: 8px;
-    display: flex;
-    align-items: center;
-}
-.label::before {
-    content: "✦";
-    margin-right: 6px;
-    color: #3b82f6 !important;
-}
-.kalimat {
-    background: #f0fdf4 !important;
-    border-left: 5px solid #22c55e;
-    padding: 14px 18px;
-    border-radius: 0 8px 8px 0;
-    margin: 20px 0;
-}
-.kalimat .jp { font-size: 18px; font-weight: 700; color: #166534 !important; }
-.kalimat .id { font-size: 15px; color: #15803d !important; margin-top: 6px; font-style: italic; }
-
-/* Conjugation Grid */
-.conj-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
-    gap: 10px;
-    margin-bottom: 24px;
-}
-.conj-item {
-    background: #f8fafc !important;
-    border: 1px solid #e2e8f0;
-    border-radius: 8px;
-    padding: 10px;
-    text-align: center;
-    transition: transform 0.2s;
-}
-.conj-item:hover { transform: translateY(-2px); box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
-.conj-name {
-    font-size: 11px;
-    color: #64748b !important;
-    text-transform: uppercase;
-    font-weight: bold;
-    margin-bottom: 4px;
-}
-.conj-val {
-    font-size: 16px;
-    color: #0f172a !important;
-    font-weight: bold;
-}
-
-/* Analysis */
-.analisis-box {
-    margin: 20px 0;
-    padding: 16px;
-    background: #eff6ff !important;
-    border-radius: 12px;
-    border: 1px solid #bfdbfe;
-}
-.kanji-strip { display: flex; gap: 12px; flex-wrap: wrap; }
-.kanji-mini {
-    flex: 1;
-    min-width: 140px;
-    background: #ffffff !important;
-    border-radius: 10px;
-    padding: 14px;
-    text-align: center;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.02);
-}
-.kanji-mini-char { font-size: 42px; font-weight: 900; color: #1e3a8a !important; line-height: 1.1; }
-.yomi-badges { display: flex; justify-content: center; gap: 8px; margin: 10px 0; }
-.badge-kun { background: #dbeafe !important; color: #1d4ed8 !important; font-size: 12px; font-weight: bold; padding: 4px 8px; border-radius: 6px; }
-.badge-on { background: #fce7f3 !important; color: #be185d !important; font-size: 12px; font-weight: bold; padding: 4px 8px; border-radius: 6px; }
-.kanji-mini-makna {
-    font-size: 13.5px;
-    color: #475569 !important;
-    text-align: left;
-    margin-top: 10px;
-    line-height: 1.6;
-    border-top: 1px dashed #cbd5e1;
-    padding-top: 10px;
-}
-.cocoklogi-box {
-    margin: 20px 0;
-    padding: 16px 20px;
-    background: linear-gradient(to right, #fff1f2, #fdf2f8) !important;
-    border-left: 5px solid #e11d48;
-    border-radius: 0 12px 12px 0;
-    font-size: 15px;
-    color: #881337 !important;
-    line-height: 1.7;
-    box-shadow: 0 2px 10px rgba(225, 29, 72, 0.05);
-}
-.cocoklogi-box b { color: #be123c !important; font-weight: 900; }
-</style>
-"""
+BACK_STYLE = '<style>.jpcard{font-family:"Hiragino Sans","Yu Gothic",sans-serif;line-height:1.7;background:#ffffff !important;color:#1a1a1a !important;padding:16px;border-radius:10px}.yomi{font-size:22px;color:#2b6cb0 !important;font-weight:bold;margin-bottom:4px}.arti{font-size:20px;color:#1a1a1a !important;font-weight:bold;background:#fef3c7 !important;padding:4px 10px;border-radius:6px;display:inline-block;margin:6px 0}.kalimat{margin:10px 0;padding:10px 14px;background:#eafaf1 !important;border-left:4px solid #22c55e;border-radius:4px;color:#14532d !important}.kalimat .jp{font-size:17px;color:#166534 !important}.kalimat .id{font-size:14px;color:#3f6212 !important;font-style:italic;margin-top:2px}.label{font-size:11px;text-transform:uppercase;letter-spacing:1px;color:#78716c !important;font-weight:bold;margin-bottom:6px}.analisis-box{margin:12px 0;padding:12px;background:#eef2ff !important;border-radius:10px;border:1px solid #c7d2fe}.analisis-title{font-size:11px;text-transform:uppercase;letter-spacing:1px;color:#78716c !important;font-weight:bold;margin-bottom:10px}.kanji-strip{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:8px}.kanji-mini{flex:1;min-width:130px;background:#ffffff !important;border-radius:8px;padding:12px 10px;text-align:center;border:1px solid #ddd6fe}.kanji-mini-char{font-size:38px;font-weight:bold;color:#1a1a1a !important;line-height:1.2}.yomi-badges{display:flex;justify-content:center;gap:6px;margin:8px 0}.badge-kun{background:#dbeafe !important;color:#1e40af !important;font-size:12px;font-weight:600;padding:3px 8px;border-radius:6px}.badge-on{background:#fce7f3 !important;color:#9d174d !important;font-size:12px;font-weight:600;padding:3px 8px;border-radius:6px}.kanji-mini-makna{font-size:12.5px;color:#374151 !important;text-align:left;margin-top:8px;line-height:1.5;border-top:1px dashed #ddd6fe;padding-top:8px}.cocoklogi-box{margin:12px 0;padding:12px 14px;background:#fdeef6 !important;border-left:4px solid #ec4899;border-radius:8px;font-size:14px;color:#831843 !important;line-height:1.7}.cocoklogi-box b{color:#be185d !important}.conj-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:10px;margin:12px 0}.conj-item{background:#f8fafc !important;border:1px solid #e2e8f0;border-radius:8px;padding:10px;text-align:center}.conj-name{font-size:11px;color:#64748b !important;text-transform:uppercase;font-weight:bold;margin-bottom:4px}.conj-val{font-size:15px;color:#0f172a !important;font-weight:bold}</style>'
 
 # ============================================================
-# HTML BUILDERS
+# HTML BUILDER FUNCTIONS
 # ============================================================
 
 def build_front(word, group):
     n = len(word)
-    sz = ' class="front-main xs"' if n >= 5 else ' class="front-main sm"' if n >= 4 else ' class="front-main"'
-    g_class = f"g{group}"
-    g_text = f"Golongan {group}"
-    
-    return (
-        f'{FRONT_STYLE}<div class="frontcard">'
-        f'<div class="badge-group {g_class}">{g_text}</div>'
-        f'<div{sz}>{word}</div>'
-        f'<div class="front-hint">Kanji &middot; Konjugasi &middot; Arti</div>'
-        f'</div>'
-    )
+    if n >= 5:
+        sz = ' class="front-main xs"'
+    elif n >= 4:
+        sz = ' class="front-main sm"'
+    else:
+        sz = ' class="front-main"'
+    hint = "Kanji &middot; Konjugasi &middot; Arti"
+    return f'{FRONT_STYLE}<div class="frontcard"><div{sz}>{word}</div><div class="front-hint">{hint}</div></div>'
 
 def build_kanji_mini(char, kun, on, makna):
     return (
@@ -361,13 +185,10 @@ def build_kanji_mini(char, kun, on, makna):
 def build_back(card):
     parts = [BACK_STYLE, '<div class="jpcard">']
 
-    # Header
-    parts.append('<div class="header-section">')
+    parts.append(f'<div class="label">Yomikata</div>')
     parts.append(f'<div class="yomi">{card["y"]}</div>')
     parts.append(f'<div class="arti">{card["a"]}</div>')
-    parts.append('</div>')
-    
-    # Kalimat
+
     parts.append(
         f'<div class="kalimat">'
         f'<div class="label">Contoh Kalimat</div>'
@@ -377,7 +198,7 @@ def build_back(card):
     )
 
     # Conjugation Table
-    parts.append('<div class="label">Tabel Konjugasi (Perubahan Bentuk)</div>')
+    parts.append('<div class="label">Perubahan Bentuk (Konjugasi)</div>')
     parts.append('<div class="conj-grid">')
     
     conj = get_conjugations(card['w'], card['g'])
@@ -401,21 +222,18 @@ def build_back(card):
         )
     parts.append('</div>')
 
-    # Analysis
     if card.get('ch'):
         minis = ''.join(build_kanji_mini(c, ku, on, m) for c, ku, on, m in card['ch'])
         parts.append(
             f'<div class="analisis-box">'
-            f'<div class="label">Analisis Kanji (Bushu)</div>'
+            f'<div class="analisis-title">Analisis Kanji</div>'
             f'<div class="kanji-strip">{minis}</div>'
             f'</div>'
         )
 
-    # Cocoklogi
     parts.append(
         f'<div class="cocoklogi-box">'
-        f'<div class="label" style="color: #be123c !important;">Cocoklogi & Nuansa</div>'
-        f'{card["co"]}'
+        f'<b>Cocoklogi:</b> {card["co"]}'
         f'</div>'
     )
 
