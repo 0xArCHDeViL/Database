@@ -146,6 +146,28 @@ def get_conjugations(base, group):
         return conjugate_irregular(base)
     return {}
 
+GODAN_MASU_MAP = {
+    'う': 'います', 'く': 'きます', 'ぐ': 'ぎます', 'す': 'します',
+    'つ': 'ちます', 'ぬ': 'にます', 'ぶ': 'びます', 'む': 'みます',
+    'る': 'ります'
+}
+
+def hiragana_to_masu(yomi, group):
+    """Mengubah hiragana bentuk kamus ke bentuk masu."""
+    if group == 2:
+        return yomi[:-1] + 'ます'
+    elif group == 1:
+        last_char = yomi[-1]
+        if last_char in GODAN_MASU_MAP:
+            return yomi[:-1] + GODAN_MASU_MAP[last_char]
+        return yomi
+    elif group == 3:
+        if yomi == 'くる': return 'きます'
+        if yomi == 'する': return 'します'
+        if yomi.endswith('する'): return yomi[:-2] + 'します'
+        if yomi.endswith('くる'): return yomi[:-2] + 'きます'
+    return yomi
+
 # ============================================================
 # ============================================================
 # CSS CONSTANTS (Sama dengan KS_Anki_Deck dan EXTKS_Anki_Deck)
@@ -153,7 +175,13 @@ def get_conjugations(base, group):
 
 FRONT_STYLE = '<style>.frontcard{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Kaku Gothic ProN","Meiryo",sans-serif;background:#ffffff !important;color:#1e293b !important;padding:50px 20px;border-radius:16px;text-align:center;border:1px solid #e2e8f0}.front-main{font-size:64px;font-weight:400;color:#0f172a !important;line-height:1.3}.front-main.sm{font-size:50px}.front-main.xs{font-size:40px}.front-hint{margin-top:24px;font-size:12px;text-transform:uppercase;letter-spacing:3px;color:#94a3b8 !important;font-weight:600}.badge-group{display:inline-block;padding:6px 14px;border-radius:20px;font-size:12px;font-weight:600;color:white !important;margin-bottom:24px;letter-spacing:1px}.g1{background:#3b82f6 !important}.g2{background:#ef4444 !important}.g3{background:#8b5cf6 !important}</style>'
 
-BACK_STYLE = '<style>.jpcard{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Kaku Gothic ProN","Meiryo",sans-serif;line-height:1.6;background:#ffffff !important;color:#334155 !important;padding:24px;border-radius:16px;border:1px solid #e2e8f0}.yomi{font-size:30px;color:#2563eb !important;font-weight:600;margin-bottom:6px}.arti{font-size:20px;color:#b45309 !important;font-weight:500;background:#fef3c7 !important;padding:6px 14px;border-radius:8px;display:inline-block;margin:4px 0 16px 0}.kalimat{margin:16px 0;padding:16px;background:#f0fdf4 !important;border-left:4px solid #22c55e;border-radius:4px 8px 8px 4px;color:#166534 !important}.kalimat .jp{font-size:19px;font-weight:500;color:#14532d !important;margin-bottom:4px}.kalimat .id{font-size:15px;color:#166534 !important;opacity:0.9}.label{font-size:11px;text-transform:uppercase;letter-spacing:1.5px;color:#94a3b8 !important;font-weight:700;margin-bottom:10px}.analisis-box{margin:20px 0;padding:16px;background:#f8fafc !important;border-radius:12px;border:1px solid #e2e8f0}.analisis-title{font-size:11px;text-transform:uppercase;letter-spacing:1.5px;color:#64748b !important;font-weight:700;margin-bottom:12px}.kanji-strip{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:4px}.kanji-mini{flex:1;min-width:140px;background:#ffffff !important;border-radius:10px;padding:14px;text-align:center;border:1px solid #e2e8f0}.kanji-mini-char{font-size:46px;font-weight:400;color:#1e3a8a !important;line-height:1.1;margin-bottom:8px}.yomi-badges{display:flex;justify-content:center;gap:6px;margin:10px 0}.badge-kun{background:#eff6ff !important;color:#1d4ed8 !important;font-size:11px;font-weight:600;padding:4px 10px;border-radius:6px}.badge-on{background:#fdf2f8 !important;color:#be185d !important;font-size:11px;font-weight:600;padding:4px 10px;border-radius:6px}.kanji-mini-makna{font-size:13.5px;color:#475569 !important;text-align:left;margin-top:12px;line-height:1.5;border-top:1px solid #e2e8f0;padding-top:12px}.cocoklogi-box{margin:20px 0 10px 0;padding:16px;background:#fff1f2 !important;border-left:4px solid #f43f5e;border-radius:4px 12px 12px 4px;font-size:15px;color:#881337 !important;line-height:1.6}.cocoklogi-box b{color:#e11d48 !important;font-weight:700}.conj-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:8px;margin-bottom:24px}.conj-item{background:#f8fafc !important;border:1px solid #e2e8f0;border-radius:8px;padding:10px 8px;text-align:center}.conj-name{font-size:10px;color:#64748b !important;text-transform:uppercase;font-weight:700;letter-spacing:1px;margin-bottom:6px}.conj-val{font-size:15.5px;color:#0f172a !important;font-weight:500}</style>'
+BACK_STYLE = '<style>.jpcard{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Kaku Gothic ProN","Meiryo",sans-serif;line-height:1.6;background:#ffffff !important;color:#334155 !important;padding:24px;border-radius:16px;border:1px solid #e2e8f0}.yomi{font-size:30px;color:#2563eb !important;font-weight:600;margin-bottom:6px}.arti{font-size:20px;color:#b45309 !important;font-weight:500;background:#fef3c7 !important;padding:6px 14px;border-radius:8px;display:inline-block;margin:4px 0 16px 0}.kalimat{margin:16px 0;padding:16px;background:#f0fdf4 !important;border-left:4px solid #22c55e;border-radius:4px 8px 8px 4px;color:#166534 !important}.kalimat .jp{font-size:19px;font-weight:500;color:#14532d !important;margin-bottom:4px}.kalimat .id{font-size:15px;color:#166534 !important;opacity:0.9}.label{font-size:11px;text-transform:uppercase;letter-spacing:1.5px;color:#94a3b8 !important;font-weight:700;margin-bottom:10px}.analisis-box{margin:20px 0;padding:16px;background:#f8fafc !important;border-radius:12px;border:1px solid #e2e8f0}.analisis-title{font-size:11px;text-transform:uppercase;letter-spacing:1.5px;color:#64748b !important;font-weight:700;margin-bottom:12px}.kanji-strip{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:4px}.kanji-mini{flex:1;min-width:140px;background:#ffffff !important;border-radius:10px;padding:14px;text-align:center;border:1px solid #e2e8f0}.kanji-mini-char{font-size:46px;font-weight:400;color:#1e3a8a !important;line-height:1.1;margin-bottom:8px}.yomi-badges{display:flex;justify-content:center;gap:6px;margin:10px 0}.badge-kun{background:#eff6ff !important;color:#1d4ed8 !important;font-size:11px;font-weight:600;padding:4px 10px;border-radius:6px}.badge-on{background:#fdf2f8 !important;color:#be185d !important;font-size:11px;font-weight:600;padding:4px 10px;border-radius:6px}.kanji-mini-makna{font-size:13.5px;color:#475569 !important;text-align:left;margin-top:12px;line-height:1.5;border-top:1px solid #e2e8f0;padding-top:12px}.cocoklogi-box{margin:20px 0 10px 0;padding:16px;background:#fff1f2 !important;border-left:4px solid #f43f5e;border-radius:4px 12px 12px 4px;font-size:15px;color:#881337 !important;line-height:1.6}.cocoklogi-box b{color:#e11d48 !important;font-weight:700}.conj-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:8px;margin-bottom:24px}.conj-item{background:#f8fafc !important;border:1px solid #e2e8f0;border-radius:8px;padding:10px 8px;text-align:center}.conj-name{font-size:10px;color:#64748b !important;text-transform:uppercase;font-weight:700;letter-spacing:1px;margin-bottom:6px}.conj-val{font-size:15.5px;color:#0f172a !important;font-weight:500}.badge-exception{background:#fee2e2 !important;color:#b91c1c !important;font-size:12px;font-weight:700;padding:6px 14px;border-radius:20px;border:1px solid #fca5a5;display:inline-block;margin-bottom:16px;letter-spacing:1px}</style>'
+
+# ============================================================
+# EXCEPTION VERBS
+# ============================================================
+EXCEPTION_VERBS = {'行く', '帰る', '切る', '入る', '走る', '蹴る', '要る'}
+
 
 # ============================================================
 # HTML BUILDER FUNCTIONS
@@ -184,9 +212,20 @@ def build_kanji_mini(char, kun, on, makna):
 
 def build_back(card):
     parts = [BACK_STYLE, '<div class="jpcard">']
-
-    parts.append(f'<div class="label">Yomikata</div>')
+    
+    # Exception Badge
+    if card['w'] in EXCEPTION_VERBS:
+        if card['w'] == '行く':
+            exception_reason = "Bentuk Te/Ta Tidak Beraturan"
+        else:
+            exception_reason = "Berakhiran -iru/-eru tapi Golongan 1"
+        parts.append(f'<div class="badge-exception">⚠️ Pengecualian ({exception_reason})</div>')
+        
     parts.append(f'<div class="yomi">{card["y"]}</div>')
+    
+    yomi_masu = hiragana_to_masu(card["y"], card["g"])
+    parts.append(f'<div class="yomi">{yomi_masu}</div>')
+    
     parts.append(f'<div class="arti">{card["a"]}</div>')
 
     parts.append(
@@ -286,13 +325,26 @@ def main():
             errors.append(f"Card {i}: duplicate entry '{unique_key}'!")
         fronts_seen.add(unique_key)
 
-        # Remove any physical newlines in the front/back HTML so Anki doesn't split the record
         front = front.replace('\n', ' ').replace('\r', '')
         back = back.replace('\n', ' ').replace('\r', '')
         
-        # Ensure subdeck uses spaces instead of underscores for UI/UX
-        clean_subdeck = card['subdeck'].replace('_', ' ')
-        line = f"Basic\t{clean_subdeck}\t{front}\t{back}\tKata Kerja"
+        # Build strict grammatical subdeck
+        clean_semantic = card['subdeck'].replace('KK::', '').replace('_', ' ')
+        if card['g'] == 1:
+            deck_hierarchy = f"Kata Kerja::Golongan 1 (Godan Doushi)::{clean_semantic}"
+        elif card['g'] == 2:
+            deck_hierarchy = f"Kata Kerja::Golongan 2 (Ichidan Doushi)::{clean_semantic}"
+        elif card['g'] == 3:
+            deck_hierarchy = f"Kata Kerja::Golongan 3 (Fukisoku Doushi)::{clean_semantic}"
+        else:
+            deck_hierarchy = f"Kata Kerja::Lainnya::{clean_semantic}"
+            
+        # Add tags for exceptions
+        tags = "Kata_Kerja"
+        if card['w'] in EXCEPTION_VERBS:
+            tags += " Pengecualian"
+            
+        line = f"Basic\t{deck_hierarchy}\t{front}\t{back}\t{tags}"
         lines.append(line)
 
     if errors:
