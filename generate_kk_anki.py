@@ -221,8 +221,6 @@ def build_back(card):
             exception_reason = "Berakhiran -iru/-eru tapi Golongan 1"
         parts.append(f'<div class="badge-exception">⚠️ Pengecualian ({exception_reason})</div>')
         
-    parts.append(f'<div class="yomi">{card["y"]}</div>')
-    
     yomi_masu = hiragana_to_masu(card["y"], card["g"])
     parts.append(f'<div class="yomi">{yomi_masu}</div>')
     
@@ -328,14 +326,29 @@ def main():
         front = front.replace('\n', ' ').replace('\r', '')
         back = back.replace('\n', ' ').replace('\r', '')
         
-        # Build strict grammatical subdeck
+        # Build ultra-precise grammatical subdeck
         clean_semantic = card['subdeck'].replace('KK::', '').replace('_', ' ')
+        w = card['w']
         if card['g'] == 1:
-            deck_hierarchy = f"Kata Kerja::Golongan 1 (Godan Doushi)::{clean_semantic}"
+            if w == '行く':
+                cluster = 'G1 (Pengecualian 行く)'
+            else:
+                last_char = w[-1]
+                if last_char in ['う', 'つ', 'る']:
+                    cluster = 'G1 (う・つ・る → って)'
+                elif last_char in ['ぬ', 'ぶ', 'む']:
+                    cluster = 'G1 (ぬ・ぶ・む → んで)'
+                elif last_char in ['く', 'ぐ']:
+                    cluster = 'G1 (く・ぐ → いて／いで)'
+                elif last_char == 'す':
+                    cluster = 'G1 (す → して)'
+                else:
+                    cluster = 'G1 (Godan Doushi)'
+            deck_hierarchy = f"Kata Kerja::{cluster}::{clean_semantic}"
         elif card['g'] == 2:
-            deck_hierarchy = f"Kata Kerja::Golongan 2 (Ichidan Doushi)::{clean_semantic}"
+            deck_hierarchy = f"Kata Kerja::G2 (Ichidan Akhiran e／i)::{clean_semantic}"
         elif card['g'] == 3:
-            deck_hierarchy = f"Kata Kerja::Golongan 3 (Fukisoku Doushi)::{clean_semantic}"
+            deck_hierarchy = f"Kata Kerja::G3 (Suru ／ Kuru)::{clean_semantic}"
         else:
             deck_hierarchy = f"Kata Kerja::Lainnya::{clean_semantic}"
             
