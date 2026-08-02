@@ -465,10 +465,11 @@ def main():
             errors.append(f"Card {i}: duplicate entry '{unique_key}'!")
         fronts_seen.add(unique_key)
 
-        line = f"Basic\t{card['subdeck']}\t{front}\t{back}\tKata Kerja"
+        # Remove any physical newlines in the front/back HTML so Anki doesn't split the record
+        front = front.replace('\n', ' ').replace('\r', '')
+        back = back.replace('\n', ' ').replace('\r', '')
         
-        # Anki requires replacing newlines with spaces or <br> to not break tab-separation
-        line = line.replace('\\n', '<br>')
+        line = f"Basic\t{card['subdeck']}\t{front}\t{back}\tKata Kerja"
         lines.append(line)
 
     if errors:
