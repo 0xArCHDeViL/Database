@@ -103,8 +103,7 @@ CARDS = [
         'ei': 'Hari ini sangat panas.',
         'k': False,
         'ch': [
-            ('暑', 'あつ(い)', 'ショ',
-             'Panas (cuaca). Radikal 日 (matahari) di atas + 者 (orang/sesuatu) di bawah. Matahari yang memanggang siapapun yang berdiri di bawahnya — panasnya dari langit, bukan dari benda yang disentuh.')
+            ('暑', 'あつ(い)', 'ショ', '[Radikal: 日 (Matahari)] + [Komponen: 者 (Seseorang)]')
         ],
         'co': '日 (matahari) memancarkan sinar langsung ke atas kepala 者 (orang-orang) — saking teriknya, tidak ada tempat berlindung, keringat mengucur deras. 暑い adalah <b>panas cuaca</b>: yang kamu rasakan di udara, bukan di tangan.'
     },
@@ -116,8 +115,7 @@ CARDS = [
         'ei': 'Hati-hati, sup ini panas.',
         'k': False,
         'ch': [
-            ('熱', 'あつ(い)', 'ネツ',
-             'Panas (benda). Bagian atas menyerupai 執 (memegang/menggenggam), bagian bawah 灬 (api, bentuk lain 火). Tangan menggenggam sesuatu yang dipanaskan di atas api — panas yang terasa langsung di kulit saat disentuh.')
+            ('熱', 'あつ(い)', 'ネツ', '[Radikal: 灬 (Api)] + [Komponen: 埶 (Menanam/Seni)]')
         ],
         'co': '灬 (api) menyala di bawah, dan tangan di atas sedang memegang sesuatu — tentu panasnya langsung terasa di jari! 熱い adalah <b>panas benda/cairan</b>: sup mendidih, cangkir teh baru diseduh, keran air panas. Kalau 暑い dari udara, 熱い dari sentuhan.'
     },
@@ -129,8 +127,7 @@ CARDS = [
         'ei': 'Musim dingin itu dingin.',
         'k': False,
         'ch': [
-            ('寒', 'さむ(い)', 'カン',
-             'Dingin (cuaca). 宀 (atap rumah) di atas, di tengahnya ada 人 (orang) berselimut, dan di bawah paling dasar ada 冫冫 (es, ditulis dua kali). Seseorang berlindung di dalam rumah dari es yang membekukan segalanya di luar.')
+            ('寒', 'さむ(い)', 'カン', '[Radikal: 宀 (Atap)] + [Komponen: 井 (Sumur) + 八 (Delapan) + 冫 (Es)]')
         ],
         'co': '宀 (atap rumah) melindungi seseorang yang menggigil, sementara di luar 冫 (es) sudah membeku di mana-mana — dinginnya bukan dari benda yang disentuh, tapi dari udara itu sendiri yang menusuk tulang. 寒い = <b>dingin cuaca</b>.'
     },
@@ -142,8 +139,7 @@ CARDS = [
         'ei': 'Air ini dingin dan enak.',
         'k': False,
         'ch': [
-            ('冷', 'つめ(たい) / ひ(える)', 'レイ',
-             'Dingin (benda). 冫 (es) + 令 (perintah; terdiri dari 人 di atas + 卩 orang berlutut = memberi perintah). Es yang "memerintahkan" dingin ke apapun yang menyentuhnya — dingin kontak langsung.')
+            ('冷', 'つめ(たい) / ひ(える)', 'レイ', '[Radikal: 冫 (Es)] + [Komponen: 令 (Perintah)]')
         ],
         'co': '冫 (es) + 令 (perintah) — es memberikan "perintah dingin" langsung ke tanganmu saat kamu menyentuhnya. 冷たい adalah <b>dingin benda/cairan</b>: kaleng dari kulkas, air es, tangan orang yang kedinginan. Dinginnya terasa di kulit, bukan di udara.'
     },
@@ -155,8 +151,7 @@ CARDS = [
         'ei': 'Angin musim gugur itu sejuk.',
         'k': False,
         'ch': [
-            ('涼', 'すず(しい)', 'リョウ',
-             'Sejuk. 氵 (air) + 京 (ibu kota/menara tinggi; 亠 atap + 口 ruang + 小 kecil, gambaran bangunan megah menjulang). Air mengalir di kaki bangunan tinggi — hembusan angin lembab yang menyegarkan, bukan dingin menusuk.')
+            ('涼', 'すず(しい)', 'リョウ', '[Radikal: 氵 (Air)] + [Komponen: 京 (Ibukota)]')
         ],
         'co': '氵 (air) mengalir tenang di kaki 京 (menara tinggi kota besar) — angin bertiup lembab dari permukaan air, melewati lorong bangunan, dan sampai ke kulitmu sebagai hembusan <b>sejuk</b> yang menyegarkan. Bukan panas, bukan dingin — pas.'
     },
@@ -168,8 +163,7 @@ CARDS = [
         'ei': 'Cuacanya hangat hari ini ya.',
         'k': False,
         'ch': [
-            ('暖', 'あたた(かい) / あたた(める)', 'ダン',
-             'Hangat. 日 (matahari) di kiri + bagian kanan berhubungan dengan 爰 (membantu/menarik). Matahari yang "membantu" — bukan memanggang terik seperti 暑, melainkan memberikan sinar lembut yang menghangatkan tanpa menyengat.')
+            ('暖', 'あたた(かい) / あたた(める)', 'ダン', '[Radikal: 日 (Matahari)] + [Komponen: 爰 (Menarik)]')
         ],
         'co': '日 (matahari) hadir, tapi bukan yang terik membakar seperti 暑い — ini matahari yang lembut, seperti sinar pagi masuk lewat jendela di musim dingin. Memberikan kehangatan tanpa keringat. 暖かい = <b>hangat</b>, zona nyaman antara dingin dan panas.'
     },
@@ -185,8 +179,7 @@ CARDS = [
         'ei': 'Taman ini besar.',
         'k': False,
         'ch': [
-            ('大', 'おお(きい)', 'ダイ / タイ',
-             'Besar. Piktogram orang (人) merentangkan kedua tangan selebar-lebarnya ke kiri dan kanan — gestur universal untuk menunjukkan "besar." Bentuknya sederhana: satu garis horizontal panjang ditopang dua kaki.')
+            ('大', 'おお(きい)', 'ダイ / タイ', '[Radikal: 大 (Besar/Orang merentangkan tangan)]')
         ],
         'co': 'Bayangkan seseorang berdiri tegak lalu merentangkan tangan selebar mungkin — tubuhnya membentuk huruf 大. "Sebesar ini lho!" Gestur paling dasar untuk menunjukkan sesuatu yang <b>besar</b>.'
     },
@@ -198,8 +191,7 @@ CARDS = [
         'ei': 'Saya punya mimpi besar.',
         'k': False,
         'ch': [
-            ('大', 'おお(きい)', 'ダイ / タイ',
-             'Besar. (Sama dengan 大きい.) Piktogram orang merentangkan tangan. Tapi dalam bentuk 大きな, ini adalah 連体詞 (rentaishi) — bukan い-adjective biasa. Hanya bisa dipakai langsung sebelum kata benda, tidak bisa di akhir kalimat.')
+            ('大', 'おお(きい)', 'ダイ / タイ', '[Radikal: 大 (Besar/Orang merentangkan tangan)]')
         ],
         'co': 'Kanji yang sama — 大 — tapi dipasangkan dengan な, bukan い. 大きな hanya bisa berdiri tepat di depan kata benda: 大きな夢 (mimpi <b>besar</b>). Nuansanya lebih subjektif dan emosional dibanding 大きい yang netral-objektif. Tidak bisa dipakai sebagai predikat (大きなです ❌).'
     },
@@ -211,8 +203,7 @@ CARDS = [
         'ei': 'Kotak ini kecil.',
         'k': False,
         'ch': [
-            ('小', 'ちい(さい) / こ / お', 'ショウ',
-             'Kecil. Piktogram: satu garis vertikal di tengah dengan dua goresan kecil jatuh di kedua sisi — seolah sesuatu yang utuh dipecah menjadi serpihan-serpihan kecil yang berhamburan.')
+            ('小', 'ちい(さい) / こ / お', 'ショウ', '[Radikal: 小 (Kecil/Tiga titik)]')
         ],
         'co': 'Garis vertikal ｜ dengan dua partikel kecil ＼ ╱ jatuh ke samping — sesuatu yang tadinya utuh, hancur jadi serpihan <b>kecil</b>. Kebalikan dari 大 yang merentang lebar, 小 justru menciut dan menyebar jadi remah.'
     },
@@ -224,8 +215,7 @@ CARDS = [
         'ei': 'Tolong bicara dengan suara kecil.',
         'k': False,
         'ch': [
-            ('小', 'ちい(さい) / こ / お', 'ショウ',
-             'Kecil. (Sama dengan 小さい.) Dalam bentuk 小さな, ini 連体詞 — hanya bisa menempel langsung di depan kata benda. Nuansa lebih intim dan subjektif.')
+            ('小', 'ちい(さい) / こ / お', 'ショウ', '[Radikal: 小 (Kecil/Tiga titik)]')
         ],
         'co': 'Versi 連体詞 dari 小さい — 小さな声 (suara <b>kecil</b>) terasa lebih intim dan puitis dibanding 小さい声. Seperti berbisik lembut. Ingat: 小さな hanya bisa di depan kata benda, tidak bisa jadi predikat.'
     },
@@ -237,8 +227,7 @@ CARDS = [
         'ei': 'Sungai ini panjang.',
         'k': False,
         'ch': [
-            ('長', 'なが(い)', 'チョウ',
-             'Panjang. Piktogram orang tua berambut panjang terurai memegang tongkat. Rambut yang panjang = umur yang panjang. Juga bermakna "kepala/pemimpin" (社長, 校長) karena orang berumur panjang dianggap berpengalaman.')
+            ('長', 'なが(い)', 'チョウ', '[Radikal: 長 (Panjang/Rambut panjang)]')
         ],
         'co': 'Gambar orang tua dengan rambut terurai sampai bawah, memegang tongkat — rambutnya <b>panjang</b>, umurnya juga panjang. Makanya 長 selain berarti "panjang" juga jadi "kepala/ketua" — yang paling senior memimpin.'
     },
@@ -250,8 +239,7 @@ CARDS = [
         'ei': 'Liburan musim panas pendek.',
         'k': False,
         'ch': [
-            ('短', 'みじか(い)', 'タン',
-             'Pendek. 矢 (panah) + 豆 (kacang/bejana kecil). Panah yang ukurannya cuma sependek kacang — anak panah mini yang tidak bisa terbang jauh.')
+            ('短', 'みじか(い)', 'タン', '[Radikal: 矢 (Anak panah)] + [Komponen: 豆 (Kacang)]')
         ],
         'co': '矢 (panah) yang panjangnya cuma se-豆 (kacang) — coba tembakkan panah sependek itu, pasti langsung jatuh di depan kaki. Itulah 短い: <b>pendek</b>, tidak cukup panjang untuk mencapai tujuan.'
     },
@@ -263,8 +251,7 @@ CARDS = [
         'ei': 'Gunung itu tinggi.',
         'k': False,
         'ch': [
-            ('高', 'たか(い)', 'コウ',
-             'Tinggi / Mahal. Piktogram bangunan bertingkat: 亠 (atap paling atas) + 口 (ruangan tengah) + 冂 (fondasi bawah). Pavilion atau menara pengawas yang menjulang tinggi. Sesuatu yang tinggi biasanya langka dan bernilai, sehingga bermakna "mahal" juga.')
+            ('高', 'たか(い)', 'コウ', '[Radikal: 高 (Tinggi/Menara)]')
         ],
         'co': '高 menggambarkan menara berlapis: atap 亠, ruangan 口, fondasi 冂 — bertumpuk ke atas, menjulang <b>tinggi</b>. Dan di zaman apapun, sesuatu yang tinggi dan langka selalu <b>mahal</b> harganya. Dua arti dalam satu kanji.'
     },
@@ -276,8 +263,7 @@ CARDS = [
         'ei': 'Meja ini rendah.',
         'k': False,
         'ch': [
-            ('低', 'ひく(い)', 'テイ',
-             'Rendah. 亻 (orang) + 氐 (dasar/fondasi; 氏 keluarga + titik di bawah = titik paling bawah). Orang yang posisinya ada di paling bawah, di titik terendah.')
+            ('低', 'ひく(い)', 'テイ', '[Radikal: 亻 (Orang)] + [Komponen: 氐 (Akar/Dasar)]')
         ],
         'co': '亻 (orang) berdiri di 氐 (titik paling bawah, dasar dari segala dasar) — posisinya tidak bisa lebih rendah lagi. 低い = <b>rendah</b>. Kebalikan dari 高い yang menjulang ke atas.'
     },
@@ -289,8 +275,7 @@ CARDS = [
         'ei': 'Kamar ini luas.',
         'k': False,
         'ch': [
-            ('広', 'ひろ(い)', 'コウ',
-             'Luas. 广 (atap/bangunan besar yang terbuka) + ム (lengan/pribadi). Bangunan beratap lebar yang interiornya terbuka luas tanpa sekat. Bentuk lama 廣 lebih jelas: 广 + 黄 (kuning, warna ladang gandum) — seluas ladang gandum.')
+            ('広', 'ひろ(い)', 'コウ', '[Radikal: 广 (Rumah/Tebing)] + [Komponen: ム (Pribadi)]')
         ],
         'co': '广 (bangunan beratap lebar) yang di dalamnya terbuka tanpa sekat — bisa melihat dari ujung ke ujung tanpa halangan. 広い = <b>luas</b>, ruang yang membentang bebas.'
     },
@@ -302,8 +287,7 @@ CARDS = [
         'ei': 'Jalan ini sempit.',
         'k': False,
         'ch': [
-            ('狭', 'せま(い)', 'キョウ',
-             'Sempit. 犭 (binatang/anjing) + 夹 (terjepit; 大 orang besar diapit dua 人 orang di kiri-kanan). Binatang yang terjepit di ruang sempit, tidak bisa bergerak bebas ke mana-mana.')
+            ('狭', 'せま(い)', 'キョウ', '[Radikal: 犭 (Anjing/Binatang buas)] + [Komponen: 夾 (Menjepit)]')
         ],
         'co': '犭 (binatang) yang 夹 (terjepit) di antara dua orang — terhimpit di lorong yang terlalu sempit untuk bergerak, badan mentok kiri-kanan. 狭い = <b>sempit</b>, kebalikan dari 広い.'
     },
@@ -315,8 +299,7 @@ CARDS = [
         'ei': 'Ada pohon tebal/besar di taman.',
         'k': False,
         'ch': [
-            ('太', 'ふと(い)', 'タイ / タ',
-             'Tebal/Gemuk. 大 (besar) + 丶 (titik/sedikit lebih). Ambil "besar," tambahkan sedikit lagi — sekarang bukan cuma besar, tapi berisi, berdaging, tebal. Titik ekstra itu yang membedakan 大 (besar) dari 太 (gemuk).')
+            ('太', 'ふと(い)', 'タイ / タ', '[Radikal: 大 (Besar)] + [Komponen: 丶 (Titik)]')
         ],
         'co': '大 (besar) + 丶 (titik ekstra, sedikit tambahan) — bukan cuma besar, tapi ada "isi" lebih yang bikin gendut dan tebal. 太い = <b>tebal/gemuk</b>. Satu titik kecil mengubah "besar" jadi "gemuk."'
     },
@@ -328,8 +311,7 @@ CARDS = [
         'ei': 'Saya berjalan di jalan yang sempit/kecil.',
         'k': False,
         'ch': [
-            ('細', 'ほそ(い) / こま(かい)', 'サイ',
-             'Tipis/Ramping. 糸 (benang) + 田 (sawah). Benang setipis garis yang membagi petak sawah — sesuatu yang langsing, kurus, tidak bervolume.')
+            ('細', 'ほそ(い) / こま(かい)', 'サイ', '[Radikal: 糸 (Benang)] + [Komponen: 田 (Sawah)]')
         ],
         'co': '糸 (benang) membentang melintasi 田 (sawah) — coba bayangkan sehelai benang tunggal terbentang di atas sawah luas. Begitu <b>tipis dan ramping</b>, nyaris tak terlihat. 細い = kurus, langsing, berdiameter kecil.'
     },
@@ -345,8 +327,7 @@ CARDS = [
         'ei': 'Kue ini manis.',
         'k': False,
         'ch': [
-            ('甘', 'あま(い)', 'カン',
-             'Manis. Piktogram mulut (mirip 口) dengan garis horizontal di dalamnya — menggambarkan sesuatu yang ditaruh di dalam mulut dan dikecap manisnya. Bentuk asli menyerupai orang memasukkan makanan manis ke mulut.')
+            ('甘', 'あま(い)', 'カン', '[Radikal: 甘 (Manis)]')
         ],
         'co': '甘 menggambarkan 口 (mulut) dengan sesuatu di dalamnya — lidah sedang mengecap gula atau madu yang meleleh. Sensasi <b>manis</b> yang memenuhi rongga mulut.'
     },
@@ -358,8 +339,7 @@ CARDS = [
         'ei': 'Masakan ini pedas.',
         'k': False,
         'ch': [
-            ('辛', 'から(い) / つら(い)', 'シン',
-             'Pedas / Menderita. Piktogram alat tato berujung tajam yang dipakai untuk menghukum di zaman kuno Tiongkok. Rasa yang "menghukum" — kalau di lidah: pedas (からい), kalau di hati: menderita (つらい). Dua jenis rasa sakit, satu kanji.')
+            ('辛', 'から(い) / つら(い)', 'シン', '[Radikal: 辛 (Pedas/Pahit)]')
         ],
         'co': '辛 asalnya gambar jarum tato untuk penghukuman — rasanya menusuk dan menyiksa. Di lidah, tusukan itu jadi rasa <b>pedas</b> (からい) yang membakar. Di kehidupan, tusukan itu jadi rasa <b>menderita</b> (つらい) yang menyayat hati. Satu kanji, dua bacaan, dua jenis penderitaan.'
     },
@@ -371,8 +351,7 @@ CARDS = [
         'ei': 'Obat ini pahit.',
         'k': False,
         'ch': [
-            ('苦', 'にが(い) / くる(しい)', 'ク',
-             'Pahit. 艹 (rumput/tanaman) + 古 (tua/kuno; 十 sepuluh + 口 mulut). Tanaman tua yang sudah layu — kalau dikunyah, rasanya pahit dan getir. Juga bermakna "menderita" (苦しい, くるしい) karena pahitnya kehidupan.')
+            ('苦', 'にが(い) / くる(しい)', 'ク', '[Radikal: 艹 (Rumput)] + [Komponen: 古 (Tua)]')
         ],
         'co': '艹 (tanaman) yang sudah 古 (tua dan kering) — bayangkan mengunyah daun layu yang sudah kehilangan segala rasa selain getir. <b>Pahit</b> di lidah, pahit di hati. Obat memang 苦い, tapi kadang hidup juga.'
     },
@@ -384,10 +363,8 @@ CARDS = [
         'ei': 'Sushi ini enak.',
         'k': False,
         'ch': [
-            ('美', 'うつく(しい)', 'ビ',
-             'Indah. 羊 (domba) + 大 (besar). Domba gemuk nan besar — di budaya Tiongkok kuno, domba gemuk sempurna dianggap puncak keindahan dan kelezatan. Dari sini lahir konsep "indah" dan "lezat."'),
-            ('味', 'あじ', 'ミ',
-             'Rasa. 口 (mulut) + 未 (belum; pohon dengan cabang atas yang belum berkembang penuh). Mulut yang belum selesai mengecap — masih menikmati, masih merasakan, belum puas.')
+            ('美', 'うつく(しい)', 'ビ', '[Radikal: 美]'),
+            ('味', 'あじ', 'ミ', '[Radikal: 口 (Mulut)] + [Komponen: 未 (Belum)]')
         ],
         'co': '美 (domba gemuk sempurna = puncak keindahan dan kelezatan) + 味 (rasa yang masih dikecap di mulut, belum ingin ditelan) &rarr; rasa yang begitu indah sempurna sampai mulut tidak mau berhenti menikmatinya. <b>Enak</b>.'
     },
@@ -399,10 +376,8 @@ CARDS = [
         'ei': 'Masakan ini tidak enak.',
         'k': False,
         'ch': [
-            ('不', '–', 'フ / ブ',
-             'Tidak/Bukan. Piktogram tunas bunga yang terhalang dan tidak bisa mekar — sesuatu yang seharusnya terjadi tapi gagal. Negasi murni.'),
-            ('味', 'あじ', 'ミ',
-             'Rasa. 口 (mulut) + 未 (belum). (Sama dengan penjelasan di 美味しい.)')
+            ('不', '–', 'フ / ブ', '[Radikal: 不]'),
+            ('味', 'あじ', 'ミ', '[Radikal: 口 (Mulut)] + [Komponen: 未 (Belum)]')
         ],
         'co': '不 (tidak, gagal) + 味 (rasa) &rarr; rasa yang "gagal," yang salah, yang bikin mulut menolak. Kalau 美味しい adalah rasa yang indah sempurna, 不味い adalah kebalikannya: <b>tidak enak</b>, rasanya salah total.'
     },
@@ -414,8 +389,7 @@ CARDS = [
         'ei': 'Kopi ini kental.',
         'k': False,
         'ch': [
-            ('濃', 'こ(い)', 'ノウ',
-             'Kental/Pekat. 氵 (air/cairan) + 農 (pertanian; 曲 bengkok + 辰 cangkul/waktu). Cairan dari ladang pertanian — air sawah yang keruh penuh lumpur dan nutrisi, tidak encer tapi kental dan penuh isi.')
+            ('濃', 'こ(い)', 'ノウ', '[Radikal: 氵 (Air)] + [Komponen: 農 (Pertanian)]')
         ],
         'co': '氵 (cairan) dari dunia 農 (pertanian) — bayangkan air sawah yang penuh lumpur, nutrisi, dan endapan. Bukan air jernih encer, tapi cairan <b>kental dan pekat</b> yang terasa berat. 濃い juga dipakai untuk warna yang tua/gelap dan rasa yang kuat.'
     },
@@ -431,8 +405,7 @@ CARDS = [
         'ei': 'Roti ini keras.',
         'k': False,
         'ch': [
-            ('固', 'かた(い) / かた(める)', 'コ',
-             'Keras. 囗 (kotak/pagar, kurungan tertutup) + 古 (tua/kuno). Sesuatu yang tua dikurung rapat dalam kotak — terkunci, tidak bisa bergerak, mengeras seiring waktu.')
+            ('固', 'かた(い) / かた(める)', 'コ', '[Radikal: 囗 (Batas/Kotak)] + [Komponen: 古 (Tua)]')
         ],
         'co': '古 (sesuatu yang sudah tua) dikurung rapat dalam 囗 (kotak tertutup) — dipenjara bertahun-tahun tanpa disentuh, akhirnya membatu dan mengeras. Tidak bisa dibengkokkan, tidak bisa dipecahkan. 固い = <b>keras</b>.'
     },
@@ -444,8 +417,7 @@ CARDS = [
         'ei': 'Bantal ini lembut.',
         'k': False,
         'ch': [
-            ('柔', 'やわ(らかい)', 'ジュウ / ニュウ',
-             'Lembut/Lunak. 矛 (tombak) + 木 (pohon/kayu). Tombak yang terbuat dari kayu lentur — bukan logam kaku, tapi kayu yang bisa dilengkungkan tanpa patah. Fleksibel, elastis.')
+            ('柔', 'やわ(らかい)', 'ジュウ / ニュウ', '[Radikal: 木 (Pohon)] + [Komponen: 矛 (Tombak)]')
         ],
         'co': '矛 (tombak) dari 木 (kayu) — bukan besi yang kaku membunuh, tapi kayu yang bisa dilengkungkan, ditekuk, dan kembali ke bentuk semula. Fleksibel tanpa patah. 柔らかい = <b>lembut dan lentur</b>. Kebalikan dari 固い.'
     },
@@ -457,8 +429,7 @@ CARDS = [
         'ei': 'Kertas ini tipis.',
         'k': False,
         'ch': [
-            ('薄', 'うす(い)', 'ハク',
-             'Tipis/Pudar. 艹 (rumput/tanaman) + 氵 (air) + 甫 (merebak/tersebar). Rumput tipis yang menyebar di atas permukaan air — lapisan yang begitu tipisnya, hampir transparan. Juga bermakna warna atau rasa yang pudar/encer.')
+            ('薄', 'うす(い)', 'ハク', '[Radikal: 艹 (Rumput)] + [Komponen: 溥 (Luas)]')
         ],
         'co': '艹 (rumput) tumbuh setipis selaput di atas 氵 (air) — nyaris transparan, bisa ditembus cahaya. 薄い punya dua wajah: <b>tipis</b> untuk benda (kertas tipis, dinding tipis), dan <b>pudar</b> untuk warna/rasa (warna pucat, teh encer). Satu kata, dua konteks.'
     },
@@ -470,8 +441,7 @@ CARDS = [
         'ei': 'Saya sedang membaca buku tebal.',
         'k': False,
         'ch': [
-            ('厚', 'あつ(い)', 'コウ',
-             'Tebal. 厂 (tebing/lereng batu) + bagian dalam (日 matahari + 子 anak). Tebing batu berlapis-lapis yang melindungi sinar dan anak di bawahnya — setebal dan sekokoh dinding batu alam.')
+            ('厚', 'あつ(い)', 'コウ', '[Radikal: 厂 (Tebing)] + [Komponen: 日 (Matahari) + 子 (Anak)]')
         ],
         'co': '厂 (tebing batu) berlapis-lapis yang melindungi 子 (anak) dari 日 (sinar terik) — dinding alam setebal itu tidak bisa ditembus. 厚い = <b>tebal</b>. Kebalikan dari 薄い. Juga bisa berarti "murah hati" (情が厚い = perasaannya tebal/hangat).'
     },
@@ -483,8 +453,7 @@ CARDS = [
         'ei': 'Saya pandai pekerjaan yang detail.',
         'k': False,
         'ch': [
-            ('細', 'こま(かい) / ほそ(い)', 'サイ',
-             'Halus/Detail. 糸 (benang) + 田 (sawah). Benang yang membagi sawah jadi petak-petak kecil — fokusnya di sini bukan "tipis" (itu 細い/ほそい), tapi "rinci dan presisi" dalam membagi dan mengelola detail.')
+            ('細', 'こま(かい) / ほそ(い)', 'サイ', '[Radikal: 糸 (Benang)] + [Komponen: 田 (Sawah)]')
         ],
         'co': '糸 (benang) membagi 田 (sawah) jadi petak-petak kecil nan rapi — setiap petak terukur presisi, tidak ada yang meleset. Kalau 細い (ほそい) soal bentuk fisik yang tipis, 細かい (こまかい) soal <b>detail dan kehalusan</b> dalam mengerjakan sesuatu.'
     },
@@ -496,8 +465,7 @@ CARDS = [
         'ei': 'Bulan itu bulat.',
         'k': False,
         'ch': [
-            ('丸', 'まる(い)', 'ガン',
-             'Bulat. 九 (sembilan — tapi asalnya garis melengkung) + 丶 (titik). Garis lengkung yang membungkus titik di dalamnya — membentuk lingkaran. Gambar bola atau benda bundar.')
+            ('丸', 'まる(い)', 'ガン', '[Radikal: 丶 (Titik)] + [Komponen: 九 (Sembilan)]')
         ],
         'co': '九 (garis melengkung) melingkari 丶 (titik) — bayangkan goresan yang melengkung sampai hampir menyatu, membentuk lingkaran dengan inti di tengahnya. 丸い = <b>bulat</b>. Bulan purnama, bola, koin — semua 丸い.'
     },
@@ -513,8 +481,7 @@ CARDS = [
         'ei': 'Bunga merah sedang mekar.',
         'k': False,
         'ch': [
-            ('赤', 'あか(い)', 'セキ / シャク',
-             'Merah. Asal piktografis: 大 (orang berdiri) + 火 (api) di bawah. Orang yang berdiri di atas api — wajahnya memerah terbakar panas. Warna bara api yang membara.')
+            ('赤', 'あか(い)', 'セキ / シャク', '[Radikal: 赤 (Merah)]')
         ],
         'co': '大 (orang) berdiri di atas 火 (api) — wajahnya langsung memerah terpanggang. Atau bayangkan bara api yang membara di perapian: warna pertama yang kamu lihat adalah <b>merah</b>. 赤い.'
     },
@@ -526,8 +493,7 @@ CARDS = [
         'ei': 'Ada kucing hitam.',
         'k': False,
         'ch': [
-            ('黒', 'くろ(い)', 'コク',
-             'Hitam. Bagian atas: 里 (desa/tanah; 田 sawah + 土 tanah), bagian bawah: 灬 (api). Tanah pertanian dibakar api sampai hangus — yang tersisa hanyalah arang hitam pekat.')
+            ('黒', 'くろ(い)', 'コク', '[Radikal: 黒 (Hitam)]')
         ],
         'co': '田+土 (tanah pertanian desa) dibakar habis oleh 灬 (api) — ladang yang tadinya hijau berubah jadi arang. Yang tersisa: warna <b>hitam</b> pekat tanpa sisa kehidupan. 黒い.'
     },
@@ -539,8 +505,7 @@ CARDS = [
         'ei': 'Awan putih mengambang.',
         'k': False,
         'ch': [
-            ('白', 'しろ(い)', 'ハク / ビャク',
-             'Putih. Piktogram sinar matahari yang menyilaukan — cahaya paling terang yang menghapus semua warna lain. Ada juga teori ini gambar biji ek/acorn yang putih bersih di dalamnya. Intinya: terang, murni, kosong dari warna.')
+            ('白', 'しろ(い)', 'ハク / ビャク', '[Radikal: 白 (Putih)]')
         ],
         'co': '白 menggambarkan berkas cahaya yang begitu terang sampai menghapus semua warna — yang tersisa hanya kekosongan <b>putih</b>. Kalau 黒 adalah kegelapan total, 白 adalah keterangan total. Dua kutub warna.'
     },
@@ -556,8 +521,7 @@ CARDS = [
         'ei': 'Saya suka musik.',
         'k': False,
         'ch': [
-            ('好', 'す(き) / この(む)', 'コウ',
-             'Suka. 女 (perempuan/ibu) + 子 (anak). Ibu memeluk anaknya — kasih sayang paling murni di dunia. Hubungan ibu-anak adalah akar dari semua rasa "suka" dan "sayang."')
+            ('好', 'す(き) / この(む)', 'コウ', '[Radikal: 女 (Perempuan)] + [Komponen: 子 (Anak)]')
         ],
         'co': '女 (ibu) memeluk 子 (anak) — cinta paling murni yang ada: tanpa syarat, tanpa pamrih. Dari ikatan itu lahirlah makna <b>suka</b>. 好きな adalah na-adjective, jadi pakainya: 音楽が好きです, bukan 好きいです.'
     },
@@ -569,8 +533,7 @@ CARDS = [
         'ei': 'Saya tidak suka sayuran.',
         'k': False,
         'ch': [
-            ('嫌', 'きら(い) / いや', 'ケン / ゲン',
-             'Benci/Tidak suka. 女 (perempuan/seseorang) + 兼 (merangkap; ⺕ tangan + 禾禾 dua tangkai padi = tangan memegang dua beban sekaligus). Seseorang yang dipaksa merangkap terlalu banyak — rasa jengkel dan muak yang menumpuk.')
+            ('嫌', 'きら(い) / いや', 'ケン / ゲン', '[Radikal: 女 (Perempuan)] + [Komponen: 兼 (Merangkap)]')
         ],
         'co': '女 (seseorang) dipaksa 兼 (merangkap banyak hal sekaligus) — overloaded, muak, ingin melepas semuanya. Rasa jengkel itu terakumulasi jadi <b>benci/tidak suka</b>. 嫌い. Kebalikan dari 好き.'
     },
@@ -582,8 +545,7 @@ CARDS = [
         'ei': 'Saya ingin komputer baru.',
         'k': False,
         'ch': [
-            ('欲', 'ほ(しい)', 'ヨク',
-             'Ingin. 谷 (lembah; 八 celah + 口 mulut = celah di gunung yang menganga) + 欠 (kurang/menguap; gambar orang membuka mulut lebar). Lembah kosong menganga + mulut terbuka karena lapar — keinginan yang timbul dari kekosongan.')
+            ('欲', 'ほ(しい)', 'ヨク', '[Radikal: 欠 (Menguap)] + [Komponen: 谷 (Lembah)]')
         ],
         'co': '谷 (lembah kosong menganga) + 欠 (mulut terbuka lebar, kelaparan) — ada lubang besar di dalam diri yang meminta untuk diisi. Kekosongan itu yang mendorong: "aku <b>ingin</b> itu." 欲しい = keinginan memiliki.'
     },
@@ -595,8 +557,7 @@ CARDS = [
         'ei': 'Saya takut hantu.',
         'k': False,
         'ch': [
-            ('怖', 'こわ(い)', 'フ',
-             'Takut. 忄 (hati, bentuk samping 心) + 布 (kain; 巾 lap + ナ tangan yang menarik). Hati yang ditutupi kain gelap — tidak bisa melihat apa yang ada di depan, jantung berdebar dalam kegelapan.')
+            ('怖', 'こわ(い)', 'フ', '[Radikal: 忄 (Hati)] + [Komponen: 布 (Kain)]')
         ],
         'co': '忄 (hati) dibungkus 布 (kain gelap) — bayangkan mata ditutup kain di ruangan asing, tidak bisa melihat apa-apa, hanya mendengar suara-suara aneh. Jantung berdebar, badan merinding. Itulah <b>takut</b>. 怖い.'
     },
@@ -608,8 +569,7 @@ CARDS = [
         'ei': 'Kepala saya sakit.',
         'k': False,
         'ch': [
-            ('痛', 'いた(い)', 'ツウ',
-             'Sakit. 疒 (penyakit; gambar orang berbaring di tempat tidur karena sakit) + 甬 (terowongan/menerobos; 用 memakai + マ). Rasa sakit yang menerobos tubuh seperti arus listrik melewati terowongan — tajam, langsung, tidak bisa diabaikan.')
+            ('痛', 'いた(い)', 'ツウ', '[Radikal: 疒 (Sakit)] + [Komponen: 甬 (Terowongan)]')
         ],
         'co': '疒 (orang berbaring sakit) dengan rasa nyeri yang 甬 (menerobos) tubuh — bukan sakit yang tumpul, tapi yang tajam dan langsung, seperti jarum menembus daging. <b>Sakit</b>. 痛い. Kata pertama yang kamu teriak waktu kejedot meja.'
     },
@@ -621,8 +581,7 @@ CARDS = [
         'ei': 'Sendirian, rasanya kesepian.',
         'k': False,
         'ch': [
-            ('寂', 'さび(しい) / さみ(しい)', 'セキ / ジャク',
-             'Kesepian/Sunyi. 宀 (atap rumah besar) + 叔 (paman muda/adik bungsu; 上 atas + 小 kecil + 又 tangan). Rumah besar yang cuma dihuni satu orang kecil — ruangan luas tapi kosong, langkah kaki bergema tanpa balasan.')
+            ('寂', 'さび(しい) / さみ(しい)', 'セキ / ジャク', '[Radikal: 宀 (Atap)] + [Komponen: 叔 (Paman/Muda)]')
         ],
         'co': '宀 (rumah besar) yang di dalamnya cuma ada 叔 (satu orang sendirian) — langkah kakinya bergema di koridor kosong, tidak ada suara lain yang menyahut. Semakin luas rumahnya, semakin terasa <b>kesepiannya</b>. 寂しい.'
     },
@@ -634,8 +593,7 @@ CARDS = [
         'ei': 'Badan terasa lesu.',
         'k': False,
         'ch': [
-            ('怠', 'おこた(る) / だる(い)', 'タイ',
-             'Lesu/Malas. 台 (alas/panggung; ム pribadi + 口 mulut) + 心 (hati) di bawah. Hati yang seharusnya naik ke panggung dan beraksi, tapi memilih diam di bawah — tidak ada motivasi, tubuh berat, jiwa kosong.')
+            ('怠', 'おこた(る) / だる(い)', 'タイ', '[Radikal: 心 (Hati)] + [Komponen: 台 (Mimbar)]')
         ],
         'co': '心 (hati) diminta naik ke 台 (panggung) dan beraksi — tapi hatinya menolak. Badan terasa berat kayak ditimpa bantal, otak berkabut, motivasi nol. <b>Lesu dan malas</b>. 怠い. Perasaan klasik hari Senin pagi.'
     },
@@ -647,8 +605,7 @@ CARDS = [
         'ei': 'Saya senang mendapat hadiah.',
         'k': False,
         'ch': [
-            ('嬉', 'うれ(しい)', 'キ',
-             'Senang/Gembira. 女 (perempuan/seseorang) + 喜 (senang; 壴 gendang/alat musik + 口 mulut). Seseorang yang bersuka cita — mulutnya bernyanyi diiringi dentuman gendang kebahagiaan.')
+            ('嬉', 'うれ(しい)', 'キ', '[Radikal: 女 (Perempuan)] + [Komponen: 喜 (Gembira)]')
         ],
         'co': '女 (seseorang) yang 喜 (bersuka cita — mulut bernyanyi diiringi gendang) — seluruh tubuhnya memancarkan kebahagiaan. Senyum lebar, mata berbinar, ingin loncat-loncat. <b>Senang</b>. 嬉しい.'
     },
@@ -660,8 +617,7 @@ CARDS = [
         'ei': 'Saya jadi sedih setelah menonton film.',
         'k': False,
         'ch': [
-            ('悲', 'かな(しい)', 'ヒ',
-             'Sedih. 非 (bukan/bertentangan; dua sayap yang saling berlawanan arah, bercerai) + 心 (hati). Hati yang terbelah ke dua arah — keinginan berbenturan dengan kenyataan, harapan hancur.')
+            ('悲', 'かな(しい)', 'ヒ', '[Radikal: 心 (Hati)] + [Komponen: 非 (Salah/Tidak)]')
         ],
         'co': '非 (dua sayap bercerai, berpisah ke arah berlawanan) + 心 (hati) — hati yang terbelah dua karena kenyataan tidak sesuai harapan. Ingin terbang tapi sayapnya bercerai. <b>Sedih</b>. 悲しい.'
     },
@@ -677,10 +633,8 @@ CARDS = [
         'ei': 'Jangan melakukan hal bodoh seperti itu.',
         'k': False,
         'ch': [
-            ('馬', 'うま', 'バ',
-             'Kuda. Piktogram kuda dilihat dari samping — kepala dengan surai, badan, empat kaki, dan ekor. Salah satu kanji tertua yang masih menyerupai bentuk aslinya.'),
-            ('鹿', 'しか', 'ロク',
-             'Rusa. Piktogram rusa dengan tanduk bercabang di atas kepala. Bagian atas menggambarkan tanduk, bagian bawah badan dan kaki rusa.')
+            ('馬', 'うま', 'バ', '[Radikal: 馬 (Kuda)]'),
+            ('鹿', 'しか', 'ロク', '[Radikal: 鹿 (Rusa)]')
         ],
         'co': '馬 (kuda) + 鹿 (rusa) — dari kisah sejarah Tiongkok: perdana menteri Zhao Gao membawa seekor rusa ke istana lalu mengatakan pada kaisar "ini kuda." Siapapun yang tidak bisa membedakan kuda dari rusa (atau pura-pura tidak bisa) = <b>bodoh</b>. Makanya 馬鹿 = bodoh.'
     },
@@ -692,10 +646,8 @@ CARDS = [
         'ei': 'Apa kabar? (Apakah Anda sehat?)',
         'k': False,
         'ch': [
-            ('元', 'もと', 'ゲン / ガン',
-             'Asal/Sumber/Dasar. 二 (dua garis horizontal, langit dan bumi) + 儿 (kaki manusia). Manusia berdiri di antara langit dan bumi — titik awal, sumber dari segala sesuatu.'),
-            ('気', '–', 'キ / ケ',
-             'Energi/Semangat/Udara. 气 (uap yang naik ke atas) + 米 (beras). Uap panas mengepul dari nasi yang baru matang — energi hidup, nafas kehidupan, semangat.')
+            ('元', 'もと', 'ゲン / ガン', '[Radikal: 儿 (Kaki manusia)] + [Komponen: 二 (Dua)]'),
+            ('気', '–', 'キ / ケ', '[Radikal: 气 (Udara)] + [Komponen: 乂 (Menyilang)]')
         ],
         'co': '元 (sumber, titik awal) + 気 (energi dari uap nasi panas yang mengepul) &rarr; kalau sumber energimu terisi penuh, seperti nasi panas yang baru matang dan uapnya mengepul kuat, kamu pasti <b>sehat dan bersemangat</b>. お元気ですか = "apakah sumber energimu masih penuh?"'
     },
@@ -707,8 +659,7 @@ CARDS = [
         'ei': 'Tanaka-san orang yang baik hati.',
         'k': False,
         'ch': [
-            ('優', 'やさ(しい) / すぐ(れる)', 'ユウ',
-             'Baik hati/Unggul. 亻 (orang) + 憂 (khawatir/prihatin; karakter kompleks yang menggambarkan perasaan cemas mendalam). Orang yang mengkhawatirkan orang lain — bukan khawatir egois, tapi empati tulus yang mendorong kebaikan.')
+            ('優', 'やさ(しい) / すぐ(れる)', 'ユウ', '[Radikal: 亻 (Orang)] + [Komponen: 憂 (Khawatir)]')
         ],
         'co': '亻 (seseorang) yang dipenuhi 憂 (kekhawatiran mendalam) — tapi bukan untuk diri sendiri, melainkan untuk orang lain. Empati yang begitu besar sampai rela menanggung beban orang lain. Orang seperti itu = <b>baik hati dan lembut</b>. 優しい.'
     },
@@ -720,10 +671,8 @@ CARDS = [
         'ei': 'Tetangga sangat ramah.',
         'k': False,
         'ch': [
-            ('親', 'おや / した(しい)', 'シン',
-             'Orang tua/Dekat/Akrab. 立 (berdiri) + 木 (pohon) + 見 (melihat; 目 mata + 儿 kaki). Berdiri di atas pohon untuk melihat/mengawasi — seperti orang tua yang memanjat pohon demi mengawasi anaknya dari kejauhan.'),
-            ('切', 'き(る)', 'セツ / サイ',
-             'Memotong/Menyentuh langsung. 七 (garis miring, asal: garis potongan) + 刀 (pisau). Pisau yang memotong tepat sasaran — langsung, tanpa basa-basi, mengenai inti.')
+            ('親', 'おや / した(しい)', 'シン', '[Radikal: 見 (Melihat)] + [Komponen: 亲 (Berdiri di pohon)]'),
+            ('切', 'き(る)', 'セツ / サイ', '[Radikal: 刀 (Pisau)] + [Komponen: 七 (Tujuh)]')
         ],
         'co': '親 (orang tua yang mengawasi dari atas pohon, dekat dan peduli) + 切 (memotong jarak, menyentuh langsung) &rarr; kebaikan yang bukan dari jauh atau basa-basi, tapi yang "memotong jarak" dan menyentuh langsung ke hati. <b>Ramah</b> dalam tindakan nyata. 親切.'
     },
@@ -735,10 +684,8 @@ CARDS = [
         'ei': 'Tolong jangan bicara egois/manja.',
         'k': False,
         'ch': [
-            ('我', 'われ / わ', 'ガ',
-             'Aku/Diri sendiri. 手 (tangan) + 戈 (tombak/senjata). Tangan menggenggam senjata untuk membela diri — "AKU" yang menjaga wilayahku sendiri, ego, kepentingan pribadi.'),
-            ('儘', 'まま', 'ジン',
-             'Sesuka hati/Semaunya. 亻 (orang) + 盡 (menghabiskan/mentok; komponen yang menggambarkan wadah tumpah habis). Orang yang menghabiskan semuanya sesuka hati — tanpa rem, tanpa batas, semau gue.')
+            ('我', 'われ / わ', 'ガ', '[Radikal: 戈 (Tombak)] + [Komponen: 手 (Tangan)]'),
+            ('儘', 'まま', 'ジン', '[Radikal: 亻 (Orang)] + [Komponen: 盡 (Habis)]')
         ],
         'co': '我 (AKU, ego yang menggenggam senjata) + 儘 (sesuka hati, menghabiskan semaunya tanpa batas) &rarr; "semuanya harus sesuai keinginanKU, dunia berputar di sumbuku." Sikap <b>egois dan manja</b> murni. 我儘.'
     },
@@ -760,10 +707,8 @@ CARDS = [
         'ei': 'Anjing ini imut.',
         'k': False,
         'ch': [
-            ('可', '–', 'カ',
-             'Boleh/Bisa/Patut. 口 (mulut) + 丁 (paku/titik). Mulut yang menyetujui — "boleh," "bisa," "pantas." Memberikan izin atau penilaian bahwa sesuatu itu layak.'),
-            ('愛', 'いと(しい)', 'アイ',
-             'Cinta/Sayang. 爫 (tangan dari atas meraih) + 冖 (penutup) + 心 (hati) + 夂 (kaki berjalan lambat). Tangan meraih ke bawah, hati tertutup, kaki terhenti — terjebak dalam perasaan sayang yang tidak bisa pergi.')
+            ('可', '–', 'カ', '[Radikal: 可]'),
+            ('愛', 'いと(しい)', 'アイ', '[Radikal: 心 (Hati)] + [Komponen: 夊 (Berjalan lambat)]')
         ],
         'co': '可 (layak/patut) + 愛 (dicintai/disayangi) &rarr; sesuatu yang "layak untuk dicintai" — begitu melihatnya, hati langsung luluh dan ingin memeluknya. Dari kucing, bayi, sampai gantungan kunci — kalau bikin gemas, itu <b>imut</b>. 可愛い.'
     },
@@ -775,8 +720,7 @@ CARDS = [
         'ei': 'Festival itu meriah.',
         'k': False,
         'ch': [
-            ('賑', 'にぎ(わう)', 'シン',
-             'Ramai/Meriah. 貝 (kerang, simbol uang kuno) + 辰 (waktu pagi/bergetar). Uang yang beredar dan bergetar — bayangkan pasar tradisional di pagi hari: koin berpindah tangan, suara tawar-menawar bergema, aktivitas bergelora.')
+            ('賑', 'にぎ(わう)', 'シン', '[Radikal: 貝 (Harta)] + [Komponen: 辰 (Naga)]')
         ],
         'co': '貝 (uang/kerang) yang 辰 (bergetar, bergerak ke sana-sini) — pasar tradisional di jam sibuk: pedagang berteriak, pembeli menawar, uang berpindah tangan tanpa henti. Hidup, berenergi, penuh aktivitas. <b>Ramai dan meriah</b>. 賑やか.'
     },
@@ -788,8 +732,7 @@ CARDS = [
         'ei': 'Perpustakaan itu tenang.',
         'k': False,
         'ch': [
-            ('静', 'しず(か)', 'セイ / ジョウ',
-             'Tenang/Sepi. 青 (biru/hijau; warna langit cerah) + 争 (bertengkar/berlomba). Langit biru yang menenangkan pertengkaran — setelah semua keributan mereda, yang tersisa adalah keheningan biru.')
+            ('静', 'しず(か)', 'セイ / ジョウ', '[Radikal: 青 (Biru)] + [Komponen: 争 (Konflik)]')
         ],
         'co': '青 (langit biru yang tenang) meredakan 争 (pertengkaran dan keributan) — bayangkan setelah badai berlalu, langit kembali biru tanpa suara. Semua kebisingan terhenti, yang ada hanya keheningan. <b>Tenang</b>. 静か. Kebalikan dari 賑やか.'
     },
@@ -815,8 +758,7 @@ CARDS = [
         'ei': 'Kamar ini gelap.',
         'k': False,
         'ch': [
-            ('暗', 'くら(い)', 'アン',
-             'Gelap. 日 (matahari) + 音 (suara; 立 berdiri + 日 matahari). Matahari telah hilang, hanya suara yang tersisa — di kegelapan total, mata tidak berfungsi, yang bisa diandalkan hanya telinga.')
+            ('暗', 'くら(い)', 'アン', '[Radikal: 日 (Matahari)] + [Komponen: 音 (Suara)]')
         ],
         'co': '日 (matahari) sudah terbenam, tersembunyi di balik 音 (suara) — di kegelapan, kamu tidak bisa melihat apa-apa, hanya mendengar suara-suara misterius di sekelilingmu. <b>Gelap</b>. 暗い.'
     },
@@ -828,8 +770,7 @@ CARDS = [
         'ei': 'Kamar ini terang.',
         'k': False,
         'ch': [
-            ('明', 'あか(るい) / あき(らか)', 'メイ / ミョウ',
-             'Terang/Jelas. 日 (matahari) + 月 (bulan). Dua sumber cahaya terkuat di alam — matahari di siang hari dan bulan di malam hari — bersinar bersama. Tidak mungkin gelap.')
+            ('明', 'あか(るい) / あき(らか)', 'メイ / ミョウ', '[Radikal: 日 (Matahari)] + [Komponen: 月 (Bulan)]')
         ],
         'co': '日 (matahari) + 月 (bulan) bersinar bersamaan — dua sumber cahaya terbesar di langit bergabung. Kapan terakhir kali kamu melihat matahari DAN bulan terang di saat yang sama? Itulah tingkat <b>terangnya</b>. 明るい.'
     },
@@ -841,8 +782,7 @@ CARDS = [
         'ei': 'Baju ini kotor.',
         'k': False,
         'ch': [
-            ('汚', 'きたな(い) / よご(れる)', 'オ',
-             'Kotor. 氵 (air) + 亏 (menyimpang/berkurang; varian dari 于). Air yang sudah menyimpang dari kemurniannya — tercemar, keruh, menjijikkan. Air yang seharusnya jernih tapi sudah rusak.')
+            ('汚', 'きたな(い) / よご(れる)', 'オ', '[Radikal: 汚]')
         ],
         'co': '氵 (air) yang 亏 (menyimpang dari aslinya) — air yang seharusnya jernih sudah tercemar, keruh, dan menjijikkan. Sesuatu yang sudah kehilangan kemurniannya. <b>Kotor</b>. 汚い.'
     },
@@ -854,10 +794,8 @@ CARDS = [
         'ei': 'Pemandangan ini cantik.',
         'k': False,
         'ch': [
-            ('綺', '–', 'キ',
-             'Kain bermotif indah. 糸 (benang/tekstil) + 奇 (luar biasa; 大 besar + 可 bisa). Benang yang ditenun menjadi kain bermotif luar biasa indah — keindahan buatan tangan manusia yang presisi.'),
-            ('麗', 'うるわ(しい)', 'レイ',
-             'Elegan/Indah. Bagian atas menggambarkan tanduk rusa yang bercabang simetris dan indah, bagian bawah 鹿 (rusa). Rusa dengan tanduk sempurna — keindahan alam yang simetris dan anggun.')
+            ('綺', '–', 'キ', '[Radikal: 糸 (Benang)] + [Komponen: 奇 (Aneh/Unik)]'),
+            ('麗', 'うるわ(しい)', 'レイ', '[Radikal: 鹿 (Rusa)] + [Komponen: 丽 (Indah)]')
         ],
         'co': '綺 (kain tenun bermotif luar biasa, keindahan buatan manusia) + 麗 (rusa bertanduk elegan, keindahan alam) &rarr; perpaduan keindahan buatan dan alami. 綺麗 bisa berarti <b>cantik</b> (wajah, pemandangan) atau <b>bersih</b> (ruangan rapi) — karena kebersihan itu sendiri adalah keindahan.'
     },
@@ -869,8 +807,7 @@ CARDS = [
         'ei': 'Akhir-akhir ini sibuk.',
         'k': False,
         'ch': [
-            ('忙', 'いそが(しい)', 'ボウ',
-             'Sibuk. 忄 (hati, bentuk samping 心) + 亡 (mati/hilang). Hati yang sudah hilang/mati — terlalu sibuk sampai tidak punya waktu untuk merasakan apa-apa. Jiwa terkikis oleh kesibukan.')
+            ('忙', 'いそが(しい)', 'ボウ', '[Radikal: 忄 (Hati)] + [Komponen: 亡 (Meninggal/Hilang)]')
         ],
         'co': '忄 (hati) yang sudah 亡 (hilang, mati) — sibuk sampai hatimu sendiri terabaikan, tidak sempat merasakan apa-apa selain tekanan deadline. <b>Sibuk</b>. 忙しい. Pesan tersembunyi dalam kanji ini: jangan sampai hatimu "mati" karena kesibukan.'
     },
@@ -882,8 +819,7 @@ CARDS = [
         'ei': 'Kuil ini tua/kuno.',
         'k': False,
         'ch': [
-            ('古', 'ふる(い)', 'コ',
-             'Tua/Kuno. 十 (sepuluh, banyak) + 口 (mulut/generasi). Cerita yang sudah diturunkan lewat sepuluh generasi mulut ke mulut — kalau sudah melewati sebanyak itu, pasti sudah sangat tua.')
+            ('古', 'ふる(い)', 'コ', '[Radikal: 口 (Mulut)] + [Komponen: 十 (Sepuluh)]')
         ],
         'co': '十 (sepuluh, banyak sekali) + 口 (mulut) — cerita yang sudah diceritakan dari mulut ke mulut selama puluhan generasi. Kalau sudah melewati sebanyak itu, tentu sudah sangat <b>tua dan kuno</b>. 古い. Khusus untuk benda, bukan orang.'
     },
@@ -895,8 +831,7 @@ CARDS = [
         'ei': 'Saya membeli sepatu baru.',
         'k': False,
         'ch': [
-            ('新', 'あたら(しい) / あら(た)', 'シン',
-             'Baru. 立 (berdiri) + 木 (pohon) + 斤 (kapak). Kapak menebang pohon yang berdiri — pohon tua ditumbangkan, kayu segar muncul. Setiap penebangan adalah awal dari sesuatu yang baru.')
+            ('新', 'あたら(しい) / あら(た)', 'シン', '[Radikal: 斤 (Kapak)] + [Komponen: 亲 (Berdiri di atas pohon)]')
         ],
         'co': '斤 (kapak) menebang 木 (pohon) yang 立 (berdiri) — pohon tua roboh, dan dari potongannya muncul kayu segar yang belum pernah terpakai. Penebangan = reset, awal yang <b>baru</b>. 新しい. Kebalikan dari 古い.'
     },
@@ -908,10 +843,8 @@ CARDS = [
         'ei': 'Stasiun ini praktis.',
         'k': False,
         'ch': [
-            ('便', 'たよ(り)', 'ベン / ビン',
-             'Mudah/Praktis/Surat. 亻 (orang) + 更 (berubah/berganti; 一+日+乂 = satu hari berganti). Orang yang bisa berubah dan beradaptasi — fleksibel, tidak ribet, serba mudah.'),
-            ('利', 'き(く)', 'リ',
-             'Keuntungan/Tajam. 禾 (padi) + 刂 (pisau). Pisau yang memotong padi dengan efisien — menghasilkan keuntungan maksimal dengan usaha minimal. Tajam dan efisien.')
+            ('便', 'たよ(り)', 'ベン / ビン', '[Radikal: 亻 (Orang)] + [Komponen: 更 (Berubah)]'),
+            ('利', 'き(く)', 'リ', '[Radikal: 刂 (Pisau)] + [Komponen: 禾 (Gandum)]')
         ],
         'co': '便 (fleksibel, bisa beradaptasi) + 利 (tajam dan efisien seperti pisau memotong padi) &rarr; sesuatu yang membuat hidup lebih mudah dan efisien tanpa usaha berlebihan. <b>Praktis</b>. 便利.'
     },
@@ -923,10 +856,8 @@ CARDS = [
         'ei': 'Tidak ada bus, jadi tidak praktis.',
         'k': False,
         'ch': [
-            ('不', '–', 'フ / ブ',
-             'Tidak/Bukan. Piktogram tunas bunga yang terhalang langit-langit dan tidak bisa mekar — sesuatu yang seharusnya terjadi tapi gagal. Negasi murni.'),
-            ('便', 'たよ(り)', 'ベン / ビン',
-             'Mudah/Praktis. (Sama dengan penjelasan di 便利.)')
+            ('不', '–', 'フ / ブ', '[Radikal: 不]'),
+            ('便', 'たよ(り)', 'ベン / ビン', '[Radikal: 亻 (Orang)] + [Komponen: 更 (Berubah)]')
         ],
         'co': '不 (tidak, gagal, terhalang) + 便 (praktis) &rarr; kebalikan langsung dari 便利. Situasi yang bikin repot, ribet, dan membuang waktu. <b>Tidak praktis</b>. 不便.'
     },
@@ -938,10 +869,8 @@ CARDS = [
         'ei': 'Tas ini kuat/tahan lama.',
         'k': False,
         'ch': [
-            ('丈', 'たけ', 'ジョウ',
-             'Satuan ukuran (~3 meter) / Tinggi. Gambar orang dengan garis panjang — pengukuran tinggi ideal seorang pria dewasa.'),
-            ('夫', 'おっと', 'フ / フウ',
-             'Suami/Pria dewasa. 大 (orang besar) + 一 (ikat kepala/topi, tanda kedewasaan). Pria yang sudah cukup umur dan memakai ikat kepala tanda dia sudah dewasa dan bertanggung jawab.')
+            ('丈', 'たけ', 'ジョウ', '[Radikal: 一 (Satu)] + [Komponen: 大 (Besar/Pria)]'),
+            ('夫', 'おっと', 'フ / フウ', '[Radikal: 大 (Besar)] + [Komponen: 一 (Satu)]')
         ],
         'co': '丈 (setinggi ukuran ideal) + 夫 (pria dewasa gagah) &rarr; pria yang tingginya mencapai ukuran sempurna — tubuhnya <b>kuat dan kokoh</b>, tidak mudah roboh. 丈夫 = tahan lama, tidak gampang rusak. Untuk benda, bukan orang.'
     },
@@ -953,12 +882,9 @@ CARDS = [
         'ei': 'Apakah Anda baik-baik saja?',
         'k': False,
         'ch': [
-            ('大', 'おお(きい)', 'ダイ / タイ',
-             'Besar. Orang merentangkan tangan → besar. (Di sini berfungsi sebagai penguat: "sangat/amat.")'),
-            ('丈', 'たけ', 'ジョウ',
-             'Tinggi/Ukuran ideal. (Sama dengan penjelasan di 丈夫.)'),
-            ('夫', 'おっと', 'フ / フウ',
-             'Pria dewasa. (Sama dengan penjelasan di 丈夫.)')
+            ('大', 'おお(きい)', 'ダイ / タイ', '[Radikal: 大 (Besar/Orang merentangkan tangan)]'),
+            ('丈', 'たけ', 'ジョウ', '[Radikal: 一 (Satu)] + [Komponen: 大 (Besar/Pria)]'),
+            ('夫', 'おっと', 'フ / フウ', '[Radikal: 大 (Besar)] + [Komponen: 一 (Satu)]')
         ],
         'co': '大 (sangat) + 丈夫 (kuat dan kokoh) &rarr; kalau sesuatu "sangat kuat dan kokoh," berarti tidak perlu khawatir — semuanya aman, semuanya terkendali. <b>Tidak apa-apa</b>, baik-baik saja. 大丈夫 = kata penenang universal bahasa Jepang.'
     },
@@ -970,8 +896,7 @@ CARDS = [
         'ei': 'Terdengar suara aneh.',
         'k': False,
         'ch': [
-            ('変', 'か(わる) / か(える)', 'ヘン',
-             'Aneh/Berubah. Bagian atas: 亦 varian (yang berarti "juga/lain/berbeda") + 夂 (kaki terbalik, melangkah berat ke belakang). Melangkah ke arah yang berbeda dari biasa — menyimpang dari normal, berubah jadi tidak lazim.')
+            ('変', 'か(わる) / か(える)', 'ヘン', '[Radikal: 攵 (Memukul)] + [Komponen: 亦 (Berubah)]')
         ],
         'co': 'Bagian atas menunjukkan "sesuatu yang berbeda" dan 夂 (langkah kaki berat dan terbalik) — berjalan ke arah yang salah, menyimpang dari jalur normal. Kalau sesuatu berubah dari yang biasa, itu <b>aneh</b>. 変.'
     },
@@ -983,10 +908,8 @@ CARDS = [
         'ei': 'Jalan ini aman.',
         'k': False,
         'ch': [
-            ('安', 'やす(い)', 'アン',
-             'Aman/Tenang/Murah. 宀 (atap rumah) + 女 (perempuan/keluarga). Perempuan/keluarga yang dilindungi di bawah atap rumah — aman, tenteram, tidak ada ancaman. Dari rasa aman lahir rasa tenang, dan dari tenang lahir "murah" (tidak perlu khawatir soal harga).'),
-            ('全', 'まった(く) / すべ(て)', 'ゼン',
-             'Seluruh/Utuh/Sempurna. 入 (masuk/atap pelindung) + 王 (batu giok/raja; benda paling berharga). Batu giok sempurna yang dilindungi sepenuhnya — utuh tanpa cacat, lengkap tanpa kekurangan.')
+            ('安', 'やす(い)', 'アン', '[Radikal: 宀 (Atap)] + [Komponen: 女 (Perempuan)]'),
+            ('全', 'まった(く) / すべ(て)', 'ゼン', '[Radikal: 入 (Masuk)] + [Komponen: 王 (Permata)]')
         ],
         'co': '安 (aman di bawah atap, terlindungi) + 全 (utuh sepenuhnya, tanpa cacat) &rarr; terlindungi sepenuhnya tanpa ancaman apapun, tidak ada celah bahaya. <b>Aman</b> total. 安全.'
     },
@@ -998,10 +921,8 @@ CARDS = [
         'ei': 'Di sini berbahaya.',
         'k': False,
         'ch': [
-            ('危', 'あぶ(ない) / あや(うい)', 'キ',
-             'Bahaya. Gambar seseorang membungkuk (㔾) di tepi tebing curam (厂) — posisi yang sangat tidak stabil, satu langkah lagi bisa jatuh ke jurang. Bahaya yang nyata dan dekat.'),
-            ('険', 'けわ(しい)', 'ケン',
-             'Terjal/Curam. 阝 (bukit/gundukan tanah) + 僉 (semua setuju; 亼 berkumpul + 吅 mulut-mulut + 从 orang-orang). Bukit yang semua orang sepakat berbahaya — kalau semua orang bilang "jangan ke sana," pasti memang terjal.')
+            ('危', 'あぶ(ない) / あや(うい)', 'キ', '[Radikal: 卩 (Sendi)] + [Komponen: 厄 (Tebing membahayakan)]'),
+            ('険', 'けわ(しい)', 'ケン', '[Radikal: 阝 (Bukit)] + [Komponen: 僉 (Semua)]')
         ],
         'co': '危 (orang di tepi jurang, satu langkah dari jatuh) + 険 (bukit terjal yang semua orang bilang berbahaya) &rarr; posisi di tepi jurang curam yang semua orang memperingatkan. <b>Berbahaya</b>. 危険. Kebalikan dari 安全.'
     },
@@ -1017,8 +938,7 @@ CARDS = [
         'ei': 'Ini buku yang sangat bagus.',
         'k': False,
         'ch': [
-            ('良', 'よ(い)', 'リョウ',
-             'Baik/Bagus. Piktogram alat penyaring beras — butiran beras yang melewati saringan adalah yang paling murni, berkualitas tinggi, layak dimakan. Sudah teruji dan lolos seleksi.')
+            ('良', 'よ(い)', 'リョウ', '[Radikal: 艮 (Berhenti/Bagus)] (Bentuk asal: Makanan murni)')
         ],
         'co': '良 menggambarkan beras yang lolos penyaringan — hanya butiran terbaik yang tersisa: murni, bersih, berkualitas. Sudah melewati seleksi alam. <b>Baik/Bagus</b>. 良い. Dalam percakapan sehari-hari lebih sering diucapkan いい.'
     },
@@ -1030,8 +950,7 @@ CARDS = [
         'ei': 'Cuacanya buruk.',
         'k': False,
         'ch': [
-            ('悪', 'わる(い)', 'アク / オ',
-             'Buruk/Jahat. 亜 (inferior/nomor dua; bentuk yang terdistorsi, bukan asli) + 心 (hati). Hati yang terdistorsi dari kebaikan aslinya — hati yang sudah berubah jadi inferior, tidak lagi murni.')
+            ('悪', 'わる(い)', 'アク / オ', '[Radikal: 心 (Hati)] + [Komponen: 亜 (Menekan)]')
         ],
         'co': '亜 (inferior, terdistorsi dari bentuk asli) + 心 (hati) — hati yang sudah menyimpang dari kemurniannya. Kalau 良い adalah beras tersaring yang murni, 悪い adalah sisa kotoran yang gagal lolos seleksi. <b>Buruk/jahat</b>.'
     },
@@ -1043,8 +962,7 @@ CARDS = [
         'ei': 'Pemandangan ini luar biasa!',
         'k': False,
         'ch': [
-            ('凄', 'すご(い) / すさ(まじい)', 'セイ',
-             'Hebat/Dahsyat. 冫 (es) + 妻 (istri; 十+ヨ+女). Es yang membekukan segalanya — intensitas yang luar biasa. Awalnya bermakna "mengerikan/menakutkan" (dinginnya mencekam), lalu bergeser jadi "hebat/luar biasa" dalam bahasa modern.')
+            ('凄', 'すご(い) / すさ(まじい)', 'セイ', '[Radikal: 冫 (Es)] + [Komponen: 妻 (Istri)]')
         ],
         'co': '冫 (es membeku) + 妻 (istri) — bayangkan aura dingin yang begitu intens sampai membekukan seluruh ruangan. Intensitas yang mencekam, yang bikin merinding. Dulu artinya "mengerikan," sekarang bergeser jadi <b>hebat/luar biasa</b>. 凄い!'
     },
@@ -1056,10 +974,8 @@ CARDS = [
         'ei': 'Penampilannya luar biasa.',
         'k': False,
         'ch': [
-            ('素', 'もと', 'ソ / ス',
-             'Dasar/Murni/Polos. Bagian atas terkait 垂 (menjuntai) + 糸 (benang) di bawah. Benang mentah yang belum diwarnai — polos, asli, tanpa rekayasa. Elemen paling dasar dan murni.'),
-            ('晴', 'は(れる)', 'セイ',
-             'Cerah. 日 (matahari) + 青 (biru; 主+月 = warna langit). Matahari bersinar di langit biru — cuaca cerah sempurna tanpa awan.')
+            ('素', 'もと', 'ソ / ス', '[Radikal: 糸 (Benang)] + [Komponen: 垂 (Tergantung)]'),
+            ('晴', 'は(れる)', 'セイ', '[Radikal: 日 (Matahari)] + [Komponen: 青 (Biru)]')
         ],
         'co': '素 (murni, polos, tanpa rekayasa) + 晴 (langit cerah biru tanpa awan) &rarr; keindahan yang murni dan cerah apa adanya, tanpa perlu dihias atau dilebih-lebihkan. Seperti langit biru sempurna yang bikin terdiam kagum. <b>Luar biasa, mengagumkan</b>. 素晴らしい.'
     },
@@ -1071,10 +987,8 @@ CARDS = [
         'ei': 'Film ini menarik/lucu.',
         'k': False,
         'ch': [
-            ('面', 'おも / おもて', 'メン',
-             'Wajah/Permukaan. Gambar wajah manusia dilihat dari depan — garis luar wajah dengan mata di dalamnya. Permukaan luar yang terlihat.'),
-            ('白', 'しろ(い)', 'ハク / ビャク',
-             'Putih/Terang. (Sama dengan penjelasan di KS::Warna.) Cahaya menyilaukan, terang benderang.')
+            ('面', 'おも / おもて', 'メン', '[Radikal: 面 (Wajah)]'),
+            ('白', 'しろ(い)', 'ハク / ビャク', '[Radikal: 白 (Putih)]')
         ],
         'co': '面 (wajah) + 白 (bersinar putih/terang) &rarr; wajah yang berseri-seri cerah karena sedang menonton sesuatu yang seru — mata berbinar, ekspresi hidup. Kalau wajahmu "bersinar" saat menontonnya, berarti itu <b>menarik/lucu</b>. 面白い.'
     },
@@ -1096,8 +1010,7 @@ CARDS = [
         'ei': 'Saya melihat bunga yang langka.',
         'k': False,
         'ch': [
-            ('珍', 'めずら(しい)', 'チン',
-             'Langka/Jarang. 王 (batu giok/permata) + 㐱 (rambut halus; 人 orang + 彡 pola goresan unik). Permata dengan pola unik yang jarang ditemukan — semakin unik polanya, semakin langka dan berharga.')
+            ('珍', 'めずら(しい)', 'チン', '[Radikal: 王 (Permata)] + [Komponen: 㐱 (Rambut)]')
         ],
         'co': '王 (permata) dengan 彡 (pola unik yang rumit) — bayangkan batu giok dengan corak yang tidak pernah kamu lihat sebelumnya. Begitu uniknya, mungkin cuma ada satu di dunia. <b>Langka dan jarang</b>. 珍しい.'
     },
@@ -1109,10 +1022,8 @@ CARDS = [
         'ei': 'Sayang sekali kalah pertandingan.',
         'k': False,
         'ch': [
-            ('残', 'のこ(る)', 'ザン',
-             'Sisa/Tersisa. 歹 (tulang mayat, kematian; simbol kerusakan) + 戋 (sedikit; dua 戈 tombak yang saling mengikis). Tulang sisa setelah daging habis — yang tertinggal setelah sesuatu hancur. Sisa-sisa, runtuhan.'),
-            ('念', '–', 'ネン',
-             'Pikiran/Perasaan. 今 (sekarang; 人 atap + ラ yang di bawah) + 心 (hati). Apa yang ada di hati SEKARANG — perasaan saat ini, pikiran yang menempel di benak dan tidak mau pergi.')
+            ('残', 'のこ(る)', 'ザン', '[Radikal: 歹 (Tulang mati)] + [Komponen: 戋 (Tombak)]'),
+            ('念', '–', 'ネン', '[Radikal: 心 (Hati)] + [Komponen: 今 (Sekarang)]')
         ],
         'co': '残 (sisa, yang tertinggal setelah sesuatu hancur) + 念 (perasaan yang menempel di hati sekarang) &rarr; perasaan "sisa" yang mengganjal di hati setelah sesuatu gagal atau hilang. Kekecewaan yang terus terngiang: "ah, andai saja..." <b>Sayang sekali</b>. 残念.'
     },
@@ -1124,10 +1035,8 @@ CARDS = [
         'ei': 'Lumayan enak.',
         'k': False,
         'ch': [
-            ('結', 'むす(ぶ)', 'ケツ',
-             'Mengikat/Menyimpulkan. 糸 (benang) + 吉 (keberuntungan; 士 samurai + 口 mulut = kata-kata prajurit yang membawa keberuntungan). Benang yang diikat dengan simpul baik — menyatukan, menyimpulkan.'),
-            ('構', 'かま(える)', 'コウ',
-             'Membangun/Struktur. 木 (kayu) + 冓 (menyusun; dua komponen saling bersilangan). Kayu yang disusun dan disilangkan menjadi struktur bangunan — kerangka yang kokoh dan terencana.')
+            ('結', 'むす(ぶ)', 'ケツ', '[Radikal: 結]'),
+            ('構', 'かま(える)', 'コウ', '[Radikal: 木 (Pohon)] + [Komponen: 冓 (Struktur kayu)]')
         ],
         'co': '結 (mengikat rapi) + 構 (membangun struktur kokoh) &rarr; sesuatu yang sudah diikat rapi dan tersusun baik — sudah <b>cukup</b> memadai, tidak perlu ditambah lagi. 結構 juga bisa berarti "lumayan" (lebih bagus dari ekspektasi) atau "sudah cukup, terima kasih" (結構です = menolak halus).'
     },
@@ -1149,8 +1058,7 @@ CARDS = [
         'ei': 'Guru ini tegas/keras.',
         'k': False,
         'ch': [
-            ('厳', 'きび(しい) / おごそ(か)', 'ゲン / ゴン',
-             'Ketat/Tegas. 厂 (tebing curam) + komponen dalam yang terkait 敢 (berani) dan 吅 (dua mulut berteriak). Teriakan berani bergema dari tebing curam — perintah yang keras, tanpa kompromi, tidak ada ruang untuk membantah.')
+            ('厳', 'きび(しい) / おごそ(か)', 'ゲン / ゴン', '[Radikal: 口 (Mulut)] + [Komponen: 敢 (Berani)] + 厂 (Tebing)')
         ],
         'co': '厂 (tebing curam) dengan teriakan 吅 (banyak mulut) yang bergema tanpa ampun — bayangkan komandan militer berdiri di tebing, memberikan perintah dengan suara menggelegar. Tidak ada negosiasi, tidak ada kelonggaran. <b>Ketat dan tegas</b>. 厳しい.'
     },
@@ -1162,10 +1070,8 @@ CARDS = [
         'ei': 'Kesehatan itu penting.',
         'k': False,
         'ch': [
-            ('大', 'おお(きい)', 'ダイ / タイ',
-             'Besar. Orang merentangkan tangan. (Di sini berfungsi sebagai "besar/berat.")'),
-            ('事', 'こと', 'ジ / ズ',
-             'Urusan/Perkara/Hal. Gambar tangan (又) memegang alat pencatat dengan bendera kecil — menangani urusan resmi, perkara yang harus diurus.')
+            ('大', 'おお(きい)', 'ダイ / タイ', '[Radikal: 大 (Besar/Orang merentangkan tangan)]'),
+            ('事', 'こと', 'ジ / ズ', '[Radikal: 事]')
         ],
         'co': '大 (besar/berat) + 事 (urusan/perkara) &rarr; urusan yang besar dan berat — kalau diabaikan, ada konsekuensi nyata. 大事 fokus pada <b>penting</b> secara praktis: "ini harus diurus, jangan disepelekan." Bandingkan dengan 大切 yang lebih emosional.'
     },
@@ -1177,10 +1083,8 @@ CARDS = [
         'ei': 'Keluarga itu berharga.',
         'k': False,
         'ch': [
-            ('大', 'おお(きい)', 'ダイ / タイ',
-             'Besar. (Di sini berfungsi sebagai penguat intensitas.)'),
-            ('切', 'き(る)', 'セツ / サイ',
-             'Memotong/Menyentuh inti. 七 (garis potong) + 刀 (pisau). Pisau yang mengenai inti — langsung ke titik terdalam, tanpa perantara.')
+            ('大', 'おお(きい)', 'ダイ / タイ', '[Radikal: 大 (Besar/Orang merentangkan tangan)]'),
+            ('切', 'き(る)', 'セツ / サイ', '[Radikal: 刀 (Pisau)] + [Komponen: 七 (Tujuh)]')
         ],
         'co': '大 (sangat) + 切 (memotong langsung ke inti) &rarr; sesuatu yang menyentuh langsung ke inti hatimu. Beda dengan 大事 yang soal kepentingan praktis, 大切 lebih soal <b>berharga secara emosional</b> — orang yang kamu sayangi, kenangan yang kamu jaga. Kehilangan 大切な人 bukan soal rugi materi, tapi luka di hati.'
     },
@@ -1192,8 +1096,7 @@ CARDS = [
         'ei': 'Toko ini murah.',
         'k': False,
         'ch': [
-            ('安', 'やす(い)', 'アン',
-             'Murah/Aman/Tenang. 宀 (atap rumah) + 女 (perempuan/keluarga). Keluarga terlindungi di bawah atap — aman dan tenang. Dari rasa tenang/aman, lahir makna "murah" — harga yang tidak bikin khawatir, yang terjangkau tanpa stres.')
+            ('安', 'やす(い)', 'アン', '[Radikal: 宀 (Atap)] + [Komponen: 女 (Perempuan)]')
         ],
         'co': '宀 (atap rumah) melindungi 女 (keluarga) — semuanya aman, tenang, tidak ada yang mengancam. Harga yang 安い adalah harga yang tidak bikin kantong cemas — terjangkau, <b>murah</b>. Dari kanji yang sama lahir 安全 (aman) dan 安心 (tenang hati).'
     },
@@ -1209,8 +1112,7 @@ CARDS = [
         'ei': 'Bahasa Jepang sulit.',
         'k': False,
         'ch': [
-            ('難', 'むずか(しい) / かた(い)', 'ナン',
-             'Sulit/Susah. Bagian kiri (komponen kompleks dengan elemen 𦰩) + 隹 (burung berekor pendek). Burung yang sangat sulit ditangkap — terbang lincah, bergerak tak terduga. Semakin dikejar semakin susah didapat.')
+            ('難', 'むずか(しい) / かた(い)', 'ナン', '[Radikal: 隹 (Burung)] + [Komponen: 𦰩 (Kuning/Tanah kering)]')
         ],
         'co': '隹 (burung) yang terbang lincah dan nyaris mustahil ditangkap — kamu sudah pasang jaring, sudah berlari, tapi burungnya selalu lolos. Itulah 難しい: sesuatu yang <b>sulit</b> — semakin dicoba, semakin terasa tantangannya.'
     },
@@ -1222,10 +1124,8 @@ CARDS = [
         'ei': 'Soal ini mudah.',
         'k': False,
         'ch': [
-            ('簡', '–', 'カン',
-             'Sederhana/Ringkas. 竹 (bambu) + 間 (antara/ruang; 門 pintu + 日 matahari). Bilah bambu tunggal yang cukup untuk menulis — tidak perlu gulungan sutra mahal, cukup sebilah bambu sederhana. Ringkas, tanpa kerumitan.'),
-            ('単', '–', 'タン',
-             'Tunggal/Sederhana. Bentuk asli menggambarkan alat berburu sederhana (perisai kecil atau kipas tangkap). Satu lapisan saja, tidak bertumpuk — simpel, sendiri, tidak rumit.')
+            ('簡', '–', 'カン', '[Radikal: 竹 (Bambu)] + [Komponen: 間 (Ruang/Jeda)]'),
+            ('単', '–', 'タン', '[Radikal: 十 (Sepuluh)] + [Komponen: 吅 (Mulut) + 甲 (Perisai)]')
         ],
         'co': '簡 (sebilah bambu ringkas, tanpa hiasan) + 単 (satu lapisan, tunggal) &rarr; tidak perlu banyak lapisan atau kerumitan, cukup satu alat sederhana. <b>Mudah</b>. 簡単. Kebalikan dari 難しい.'
     },
@@ -1237,8 +1137,7 @@ CARDS = [
         'ei': 'Pekerjaan yang enak/nyaman itu bagus.',
         'k': False,
         'ch': [
-            ('楽', 'たの(しい)', 'ガク / ラク',
-             'Nyaman/Musik/Menyenangkan. Asalnya piktogram alat musik dari kayu (木 di bawah) dengan senar (幺幺 di samping) dan hiasan (白 di tengah). Mendengarkan musik bikin rileks, santai, tanpa beban — dari "musik" lahir makna "menyenangkan" lalu "mudah/nyaman."')
+            ('楽', 'たの(しい)', 'ガク / ラク', '[Radikal: 木 (Pohon)] + [Komponen: 白 (Putih) + 幺 (Benang kecil)]')
         ],
         'co': '楽 asalnya gambar alat musik kayu bersenar — mendengarkan musik bikin pikiran rileks dan tubuh santai. Dari 音楽 (musik) &rarr; 楽しい (menyenangkan) &rarr; 楽 (nyaman, tanpa beban). Hidup yang 楽 = hidup tanpa tekanan, <b>enak dan mudah</b>.'
     },
@@ -1250,10 +1149,8 @@ CARDS = [
         'ei': 'Pindahan itu berat/sulit.',
         'k': False,
         'ch': [
-            ('大', 'おお(きい)', 'ダイ / タイ',
-             'Besar. (Di sini berfungsi sebagai "sangat, amat, luar biasa.")'),
-            ('変', 'か(わる)', 'ヘン',
-             'Berubah/Aneh. (Sama dengan penjelasan di KS::Kondisi — langkah kaki yang menyimpang dari normal.)')
+            ('大', 'おお(きい)', 'ダイ / タイ', '[Radikal: 大 (Besar/Orang merentangkan tangan)]'),
+            ('変', 'か(わる)', 'ヘン', '[Radikal: 攵 (Memukul)] + [Komponen: 亦 (Berubah)]')
         ],
         'co': '大 (besar, drastis) + 変 (berubah, menyimpang) &rarr; perubahan besar dan tiba-tiba yang memaksa kamu merespons — situasi yang berubah drastis dan kamu harus menghadapinya. <b>Berat dan sulit</b>. 大変 juga bisa berarti "sangat" (大変おいしい = sangat enak).'
     },
@@ -1269,8 +1166,7 @@ CARDS = [
         'ei': 'Saya naik kereta pagi-pagi.',
         'k': False,
         'ch': [
-            ('早', 'はや(い)', 'ソウ / サッ',
-             'Cepat/Pagi. 日 (matahari) + 十 (sepuluh, tapi awalnya garis horizon). Matahari yang baru muncul di atas garis cakrawala — pagi-pagi sekali, sebelum siapapun bangun. Datang lebih awal = cepat dari segi waktu.')
+            ('早', 'はや(い)', 'ソウ / サッ', '[Radikal: 日 (Matahari)] + [Komponen: 十 (Jarum/Pohon)]')
         ],
         'co': '日 (matahari) baru naik di titik pertama cakrawala — fajar, sebelum yang lain bangun. 早い adalah "cepat" dalam artian <b>waktu</b>: datang lebih awal, bangun pagi, memulai duluan. Bukan soal kecepatan gerak (itu 速い).'
     },
@@ -1282,8 +1178,7 @@ CARDS = [
         'ei': 'Keretanya lambat/terlambat.',
         'k': False,
         'ch': [
-            ('遅', 'おそ(い) / おく(れる)', 'チ',
-             'Lambat/Terlambat. 辶 (berjalan/bergerak) + bagian dalam (尸 badan + 牛 variant, komponen berat). Berjalan sambil membawa beban berat — langkah terseret, tidak bisa cepat. Tertinggal dari jadwal.')
+            ('遅', 'おそ(い) / おく(れる)', 'チ', '[Radikal: 辶 (Jalan)] + [Komponen: 犀 (Badak)]')
         ],
         'co': '辶 (berjalan) tapi bebannya terlalu berat — langkah terseret, nafas terengah. Semua orang sudah sampai, kamu masih di perjalanan. 遅い = <b>lambat/terlambat</b>. Kebalikan dari 早い.'
     },
@@ -1295,8 +1190,7 @@ CARDS = [
         'ei': 'Sekolahnya jauh.',
         'k': False,
         'ch': [
-            ('遠', 'とお(い)', 'エン / オン',
-             'Jauh. 辶 (berjalan) + 袁 (jubah panjang; komponen 土+口+衣 menggambarkan pakaian yang menutupi seluruh tubuh). Perjalanan yang begitu jauh sampai butuh jubah pelindung penuh — menerobos berbagai cuaca dan medan.')
+            ('遠', 'とお(い)', 'エン / オン', '[Radikal: 辶 (Jalan)] + [Komponen: 袁 (Jubah panjang)]')
         ],
         'co': '辶 (berjalan) dengan 袁 (jubah panjang menutupi seluruh tubuh) — perjalanan yang begitu <b>jauh</b>, kamu harus membungkus diri dari ujung kepala sampai kaki karena akan melewati hujan, panas, dan badai. 遠い.'
     },
@@ -1308,8 +1202,7 @@ CARDS = [
         'ei': 'Minimarket itu dekat.',
         'k': False,
         'ch': [
-            ('近', 'ちか(い)', 'キン',
-             'Dekat. 辶 (berjalan) + 斤 (kapak). Jaraknya cuma sejauh kamu bisa melempar kapak — beberapa langkah saja, tidak perlu persiapan khusus untuk sampai ke sana.')
+            ('近', 'ちか(い)', 'キン', '[Radikal: 辶 (Jalan)] + [Komponen: 斤 (Kapak)]')
         ],
         'co': '辶 (berjalan) sejauh 斤 (lemparan kapak) — jaraknya cuma segitu, tidak perlu jubah pelindung seperti 遠い. Beberapa langkah, sudah sampai. <b>Dekat</b>. 近い.'
     },
@@ -1321,8 +1214,7 @@ CARDS = [
         'ei': 'Tas ini berat.',
         'k': False,
         'ch': [
-            ('重', 'おも(い) / かさ(ねる)', 'ジュウ / チョウ',
-             'Berat/Bertumpuk. Piktogram kantung tanah yang ditimbang — garis-garis horizontal menunjukkan tumpukan lapisan. Semakin banyak tumpukan, semakin berat. Juga berarti "menumpuk" (重ねる).')
+            ('重', 'おも(い) / かさ(ねる)', 'ジュウ / チョウ', '[Radikal: 里 (Desa/Satuan)] + [Komponen: 千 (Seribu)]')
         ],
         'co': 'Bayangkan kantung tanah yang ditumpuk berlapis-lapis — setiap lapisan menambah beban, semakin banyak tumpukan semakin <b>berat</b>. 重い. Makanya 重 juga berarti "menumpuk" — berat karena bertumpuk.'
     },
@@ -1334,8 +1226,7 @@ CARDS = [
         'ei': 'Kotak ini ringan.',
         'k': False,
         'ch': [
-            ('軽', 'かる(い)', 'ケイ',
-             'Ringan. 車 (kendaraan/kereta) + 巠 (sungai/aliran lurus). Kereta yang bergerak semulus aliran air — tanpa beban, tanpa hambatan, meluncur ringan.')
+            ('軽', 'かる(い)', 'ケイ', '[Radikal: 車 (Mobil)] + [Komponen: 巠 (Sungai bawah tanah)]')
         ],
         'co': '車 (kereta) yang bergerak se-lancar 巠 (aliran sungai yang lurus) — tidak ada beban yang menghambat, tidak ada gesekan. Meluncur tanpa effort. <b>Ringan</b>. 軽い. Kebalikan dari 重い.'
     },
@@ -1347,8 +1238,7 @@ CARDS = [
         'ei': 'Dia orang yang kuat.',
         'k': False,
         'ch': [
-            ('強', 'つよ(い)', 'キョウ / ゴウ',
-             'Kuat. 弓 (busur panah) + ム (komponen tengah) + 虫 (serangga bercangkang keras). Serangga bercangkang yang tahan terhadap busur panah — dipanah pun tidak tembus. Kekuatan pertahanan yang absolut.')
+            ('強', 'つよ(い)', 'キョウ / ゴウ', '[Radikal: 弓 (Busur)] + [Komponen: 虫 (Serangga)]')
         ],
         'co': '弓 (busur panah) ditembakkan ke 虫 (serangga bercangkang) — tapi serangganya tidak terluka! Cangkang kerasnya menahan segalanya. <b>Kuat</b> — kekuatan yang tidak bisa ditembus. 強い.'
     },
@@ -1360,8 +1250,7 @@ CARDS = [
         'ei': 'Dia orang yang lemah fisiknya.',
         'k': False,
         'ch': [
-            ('弱', 'よわ(い)', 'ジャク',
-             'Lemah. Dua 弓 (busur panah) yang masing-masing dihiasi 彡 (pola dekoratif). Busur-busur yang dijadikan hiasan — cantik tapi tidak fungsional untuk bertempur. Senjata yang kehilangan fungsinya.')
+            ('弱', 'よわ(い)', 'ジャク', '[Radikal: 弓 (Busur)] + [Komponen: 彡 (Bulu/Corak)] x2')
         ],
         'co': '弓弓 (dua busur panah) yang cuma dihiasi 彡 (dekorasi) — busur yang dijadikan pajangan dinding, cantik tapi tidak bisa dipakai perang. Senjata tanpa kekuatan = <b>lemah</b>. 弱い. Kebalikan dari 強い.'
     },
@@ -1377,8 +1266,7 @@ CARDS = [
         'ei': 'Orangnya banyak.',
         'k': False,
         'ch': [
-            ('多', 'おお(い)', 'タ',
-             'Banyak. 夕 (malam/bulan sabit) ditumpuk dua kali (夕+夕). Dua bulan sabit muncul sekaligus — berlipat ganda, bertambah terus. Kalau satu saja sudah cukup, dua itu berlebihan = banyak.')
+            ('多', 'おお(い)', 'タ', '[Radikal: 夕 (Malam) x2]')
         ],
         'co': '夕 (bulan sabit) ditumpuk dua kali — satu bulan di langit sudah cukup, bayangkan dua muncul bersamaan. Berlipat ganda, terus bertambah. <b>Banyak</b>. 多い.'
     },
@@ -1390,8 +1278,7 @@ CARDS = [
         'ei': 'Waktunya sedikit.',
         'k': False,
         'ch': [
-            ('少', 'すく(ない) / すこ(し)', 'ショウ',
-             'Sedikit. 小 (kecil) + 丿 (goresan/potongan). Sesuatu yang sudah kecil dipotong lagi — dari yang sudah mini, dikurangi lebih jauh. Hampir tidak tersisa.')
+            ('少', 'すく(ない) / すこ(し)', 'ショウ', '[Radikal: 小 (Kecil)] + [Komponen: 丿 (Coretan)]')
         ],
         'co': '小 (sudah kecil) + 丿 (dipotong lagi) — dari yang sudah kecil, masih dikurangi. Hasilnya tinggal remah-remah, nyaris habis. <b>Sedikit</b>. 少ない. Kebalikan dari 多い.'
     },
@@ -1444,7 +1331,22 @@ def main():
             if opens != closes:
                 errors.append(f"Card {i} ({card['w']}) {label}: {opens} <div> vs {closes} </div>")
 
-        line = f"Basic\t{card['g']}\t{front}\t{back}\t{card['t']}"
+        w = card['w']
+        g_val = card['g'].replace('KS::', '').replace('EXTKS::', '')
+        
+        na_exceptions = ['綺麗', 'きれい', '嫌い', 'きらい', '有名', 'ゆうめい', '丁寧', 'ていねい', '丈夫', 'じょうぶ']
+        
+        if w.endswith('い') and w not in na_exceptions:
+            grammatical_group = 'I-Keiyoushi (Akhiran -i)'
+        else:
+            if w in na_exceptions:
+                grammatical_group = 'Na-Keiyoushi (Pengecualian -i)'
+            else:
+                grammatical_group = 'Na-Keiyoushi (Akhiran -na)'
+                
+        deck_hierarchy = f"Kata Sifat::{grammatical_group}::{g_val}"
+        
+        line = f"Basic	{deck_hierarchy}	{front}	{back}	{card['t']}"
         lines.append(line)
 
     if errors:
