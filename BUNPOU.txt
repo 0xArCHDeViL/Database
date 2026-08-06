@@ -1,0 +1,901 @@
+POLA KALIMAT (BUNPOU)
+
+BAB-1
+
+【０１】〜は〜です ：(kata benda 1 dijelaskan dengan kata benda 2)
+KB1 は KB2 です
+私 は タマ です。Saya adalah Tama. （私 は） 学生 です。（Saya adalah seorang) siswa. *)Dalam bahasa jepang penyebutan わたしは ataupun あなたは sering dihilangkan karena sudah jelas subyek atau
+siapa yang dimaksudkan dalam percakapan langsung. 
+
+【０２】〜は〜じゃありません／〜じゃない です ：(bentuk penyangkalan: bukan ~)
+KB1 は KB2 じゃありません／じゃないです／ではありません
+私 は いしゃ じゃない です。Saya bukan (seorang) dokter. ナラさん は えきいん ではありません／ではないです。Nara bukan pegawai stasiun. *)じゃありません・じゃないです Digunakan dalam ragam bahasa lisan. *)ではありません・ではないです Digunakan dalam ragam bahasa tulis.
+
+【０３】〜か ：(partikel untuk kalimat tanya)
+KB1 は KB2 です か
+A：レイナさん は いしゃ です か。Apakah Reina (seorang) dokter ?
+B：…はい、そう です。/…はい、いしゃ です。…Ya, (Reina seorang) dokter. …いいえ、ちがいます。学生 です。…Bukan. (Reina seorang) siswa. 
+
+【０４】〜も ：(partikel : juga~)
+KB1 も KB2 です
+A：タマさん は 学生 です か。Apakah Tama adalah (seorang) siswa？
+B：はい。がくせい です。Iya, (seorang) Siswa. A：レイナさん も 学生 です か。Apakah Reina juga (seorang) siswa？
+B：いいえ。学生 じゃない です。Bukan, bukan (seorang) siswa.
+
+【０５】〜に すんでいます ：tinggal di~ KB1 に すんでいます
+A：どこ に すんでいます か。Tinggal dimana?
+B：バリ に すんでいます。Tinggal di Bali.
+
+【０６】〜と すんでいます ：tinggal bersama~ KB1 と すんでいます
+A：みなさん、だれ と すんでいます か。Tinggal bersama siapa?
+B：ひとりで すんでいます。Tinggal sendirian. C：私 は りょうしん と すんでいます。Saya tinggal bersama orang tua.
+
+【０７】〜ですか 〜ですか ：~ atau ~ KB1 です か、KB2 です か
+A：インドネシア です か、インド です か。Indonesia atau India?
+B：インドネシア です。Indonesia. 
+
+【０８】〜から きました ：berasal dari~ KB1 から きました
+A：どこ から きました か。Berasal dari mana?
+B：ブラジル から きました。Dari Brazil.
+
+【０９】〜さい ：~tahun (usia)
+KB1 は なんさい／おいくつ です か
+A：たなか さん は なんさい です か。Berapa usia Tanaka?. B：４５ さい です。45 tahun. A：あなた は おいくつ です か。Usia (Anda) berapa (tahun)?
+B：はたち（20 さい） です。20 tahun.
+
+【１０】おなまえ は？ ：Nama anda? (Digunakan untuk menanyakan nama seseorang)
+おなまえ は （なん ですか）？
+A：あのう、すみません。おなまえ は？ Maaf, nama Anda (siapa)?
+B：トニ です。Toni. A：どこ に すんでいます か？ Tinggal dimana?
+B：インドラマユ に すんでいます。Tinggal di Indramayu. ＊）Cara menanyakan nama yang lebih sopan bisa dengan 「お名前を おうかがいしても よろしいでしょうか？」
+
+BAB-2
+
+【１１】〜の〜 ：(menggabungkan dua kata benda)
+KB1 の KB2 です
+A. Kepemilikan. Jika KB1 adalah kata ganti orang, maka konsepnya adalah kepemilikan. 母 の 車 です。Mobil (milik) ibu. A：だれ の かばん です か。Tas (milik) siapa ?
+B：父 の です。(milik) Ayah.
+
+【１２】これ／それ／あれ ：ini/itu (kata tunjuk)
+これ／それ／あれ は KB1 です
+A：これ は 何 です か。Ini apa?
+B：それ は 母 の 本 です。Itu adalah buku (milik) ibu. 
+
+【１３】この／その／あの ＋KB ：KB ~ini/KB ~itu (harus ada KB yang melekat)
+この／その／あの ＋KB1 は 〜
+A：このネクタイ は だれ の です か。Dasi ini (milik) siapa?
+B：私 の です。（Milik) saya.
+
+【１４】どれ ：(kata tanya) yang mana? (Pilihan lebih dari dua) 〜 は どれ です か？
+A：おとうさん の 本 は どれ です か。Buku (milik) ayah, yang mana ?
+B：あれ です。Itu.
+
+【１５】どの KB ：(kata tanya) KB yang mana? 〜 は どの KB か？
+A：たなかさん は どの人 です か。Tuan Tanaka, orangnya yang mana?
+B：あの人 です。Orang itu.
+
+【１６】これ／それ／あれ は 〜ご で なん と いいます か ：
+“Ini/itu dalam bahasa ~, disebut apa?” 〜 は 〜ご で なん と いいます か
+A：これ は 日本語 で、何 と いいます か？ Ini dalam bahasa jepang, disebut apa?
+B：それ は 日本語 で、「かさ」 です。Itu dalam bahasa jepang adalah [KASA]. 
+
+【１７】〜人（にん） ：(menyatakan jumlah orang) 〜 の かぞく は 〜人 です
+私 の かぞく は ３人 です。Keluarga saya (ada) 3 orang. A：あなた の かぞく は なんにん です か。Keluarga Anda (ada) berapa orang?
+B：３人 です。3 orang. 
+
+【１８】〜人（じん） ：(untuk menyebutkan orang tersebut berasal dari negara mana)
+（くに）〜人 です
+A：たなかさん は 日本人 です か。Apakah Tanaka adalah orang jepang？
+B：いいえ、 日本人 じゃない です。Bukan, bukan orang jepang. A：あの方は どちら の かた です か。Orang itu berasal dari negara mana?
+B：中国 の かた です。Orang dari China. ＊）「どちら の かた です か」 adalah pertanyaan untuk menanyakan negara seseorang.
+
+BAB-3
+
+【１９】〜が すき です ：suka~ KB1 が すき です
+A：何 が 好き です か。(Kamu) suka apa?
+B：魚 が 好き です。(Saya) suka ikan. 
+
+【２０】〜は すき じゃない です／ ではない です ：tidak suka~ KB1 は すき じゃない です／ではない です
+A：わさび、好き です か？Apakah (kamu) suka wasabi?
+B：いいえ、わさび は 好き ではない です。Tidak, (Saya) tidak suka wasabi. 
+
+【２１】〜は ちょっと ：(untuk menolak atau menyatakan tidak suka akan sesuatu)
+KB1 は ちょっと…
+A：ネギ が 好き です か。Apakah suka daun bawang?. B：すみません、ネギ は ちょっと…(Kalau) daun bawang ,... (maaf saya tidak suka). 
+
+【２２】〜は にがて です ：(untuk menyatakan tidak suka akan sesuatu)
+KB1 は にがて です
+A：ぶたにく、好き です か？ Kamu suka daging babi?
+B：すみません、ぶたにく は にがて です。 Maaf, daging babi (saya) tidak suka.
+
+【２３】と：(untuk mengungkapkan “dan” pada KB)
+KB1 と KB 2
+A：何 が 好き です か。(Kamu) suka apa?
+B：魚 と 肉 が 好き です。(Saya) suka ikan dan daging. 
+
+【２４】〜を 〜ます ：(bentuk kalimat verba yang memiliki obyek yang ditandai dengan を)
+KB1 を KK〜ます
+A：何 を 食べます か？（Kamu) makan apa?
+B：ぎゅうにく を 食べます。Makan daging sapi. A：とりにく も 食べます か？Daging ayam juga makan?
+B：はい、食べます。Iya, makan. 
+
+【２５】〜は 〜ません ：tidak me~(bentuk negatif kalimat verba)
+KB は KK〜ません
+A：おさけ を 飲みます か。Apakah kamu minum alkohol?
+B：いいえ、おさけ は 飲みません。Tidak, (Saya) tidak minum alkohol.
+
+【２６】〜は 〜ない です ：tidak me~ (bentuk biasa dari bunpo no 21. *Lihat Bab 10 )
+KB は KK〜ない です
+A：おさけ を 飲みます か。Apakah kamu minum alkohol?
+B：いいえ、おさけ は 飲まない です。Tidak, (Saya) tidak minum alkohol.
+
+【２７】〜は あまり 〜ません／〜ないです／〜じゃないです： jarang me~/ tidak begitu~ KB は あまり 〜ない
+A：魚 が 好き です か。Apakah suka ikan?
+B：いいえ、魚 は あまり 好き じゃない です。Tidak, tidak terlalu suka ikan. 
+
+【２８】よく 〜ます ：sering me~ 〜は よく 〜ます
+A：お酒 は よく 飲みます か？Sering minum sake?
+B：いいえ、あまり 飲みません。Tidak, jarang minum. 
+
+【２９】(kata tanya) も 〜ません／〜ない です ：tidak me~ (kata tanya) pun
+K. Tanya も 〜ない
+A：何 を 飲みます か？(Kamu) minum apa？
+B：何 も 飲まない です。(Saya) tidak minum apapun. 
+
+【３０】そう ですか ：(ekspresi yang digunakan pada saat kita mendapatkan informasi
+baru dari lawan bicara dan kita menyatakan memahami informasi tersebut.) 〜そうです か
+A：すません、おなまえ は？ Maaf, nama (Anda siapa)?
+
+【３１】〜ね ：(mengkonfirmasi sesuatu sesuai dengan pandangannya sendiri. Selain itu
+juga untuk mencari perhatian dari lawan bicara.) 〜ね
+A：あの人 は 日本人 です ね。Orang itu orang jepang, ya?
+B：そう です ね。Iya, ya. 
+
+【３２】〜よ ：(menegaskan kalimat atau memberitahu hal baru kepada lawan bicara. ) 〜よ
+A：アニメ、好き です か。Apakah kamu suka anime?
+B：はい、好き です よ。Iya, dong.
+
+【３３】お〜／ご〜 ：(untuk memperhalus sebuah kata.)
+お〜
+A：お しごと 何 です か。Pekerjaan (Anda) apa?
+B：学生 です。Saya siswa. A：ご かぞく は 何人 ですか。Keluarga (Anda) berapa orang?
+B：3 人 です。３ Orang.
+
+BAB-4
+
+【３４】〜が あります／います ：ada~ (bisa juga bermakna “memiliki”)
+KB1 が あります／います
+車 が あります。Ada mobil. 先生 が います。Ada sensei. 
+
+【３５】〜は ありません／いません ：tidak ada ~ KB1 は ありません／いません
+お金 は ありません。Uang, tidak ada. 先生 は いません。Sensei, tidak ada. 
+
+【３６】〜は ない です／いない です ：tidak ada ~/ tidak punya~ KB1 は ない です／いない です
+A：お金 が あります か。Apakah ada uang?
+B：いいえ、お金 は ない です。Tidak, tidak ada uang.
+
+【３７】〜に 〜が あります／います ：di ~ ada ~ KB tempat に KB1 が あります／います
+A：じむしょ に だれ が います か。Di kantor, ada siapa?
+B：しゃちょう が います。Ada Sachou. A：だいどころ に なに が あります か。Di dapur ada apa?
+B：すいはんき が あります。Ada penanak nasi. 
+
+【３８】〜は 〜に あります／います ：~ ada di~ KB1 は KB tempat に あります／います
+A：かばん は どこ に あります か。Tasnya ada dimana?
+B：クラス に あります。Ada di kelas. A：せんせい は どこ に います か。Sensei ada dimana?
+B：じむしょ に います。Ada di kantor.
+
+【３９】〜は 〜に 〜を あげます ：memberi ~ kepada ~ 〜は 〜に 〜を あげます
+私 は いもうと に あめ を あげます。Saya memberi adik permen. 母 は おとうと に お金 を あげます。Ibu memberi adik uang. 
+
+【４０】〜は 私 に 〜を くれます ：(orang lain) memberi ~ kepada saya 〜は 私 に 〜を くれますす
+母 は 私に あめ を くれます。Ibu memberi permen kepada saya. 父 は お金 を くれます。Ayah memberi (saya) uang. 
+
+【４１】〜は 〜に 〜を もらいます ：menerima ~ dari ~ 〜は 〜に 〜を もらいます
+いもうと は 母 に お金 を もらいます。Adik menerima uang dari ibu. 私 は 母 から お金 を もらいます。Saya mendapat uang dari ibu.
+
+【４２】ここ／そこ／あそこ は 〜です ：disini/disitu/disana adalah ~ ここ／そこ／あそこ は KB です
+A：ここ は じむしょ です か。Apakah disini kantor?
+B：いいえ、じむしょ じゃない です。そうこ です。Disini bukan kantor. Disini Gudang.
+
+【４３】〜、ください／おねがいします ：Tolong, (saya pesan)~ KB1、ください／おねがいします
+A：アイスコーヒー、おねがいします。Tolong (saya pesan) es kopi. B：はい、かしこまりました。Baik saya mengerti. C：これ、ください。Tolong, (yang) ini. B：かしこまりました。しょうしょう おまちください！Baik, harap ditunggu sebentar. 
+
+【４４】〜、〜つ ください／おねがいします ：Tolong (saya pesan) ~, ~ buah. KB1、〜つ ください／おねがいします
+A：からげ ２つ、みず １つ と、ください。Tolong (pesan) ayam goreng 2 dan air 1 . B：かしこまりました。しょうしょう おまちください！Baik, harap ditunggu sebentar. 
+
+【４５】〜に します ：saya pesan ~ (〜に なさいます）
+KB1、〜に します／なさいます
+A：たなかさん、なに に します か。Tanaka, (mau) pesan apa?
+B：カレーライス ２つ に します。(Saya) pesan nasi kare 2.
+
+【４６】よく：sering; いつも：selalu; ときどき：kadang-kadang
+よく・いつも・ときどき〜
+A：たまご は よく 食べます か。Apakah sering makan telur?
+B：いいえ、たまご は ときどき 食べます。Tidak, (Saya) kadang-kadang makan telur. A：お酒 は よく 飲みます か。（Kalau） sake, sering minum?
+B：お酒 は あまり 飲まない です。（Kalau） sake (Saya) jarang minum. 水 は いつも 飲みます。Kalau air, selalu minum. 
+
+【４７】〜だけ・〜しか ：Hanya~KB
+KB〜だけ 〜ます・ KB〜しか 〜ません。
+パン だけ 食べます。 Saya hanya makan roti. みず しか 飲みません。Saya hanya minum air putih. 
+
+【４８】〜や〜 など、〜 ：KB1 dan KB2 dan lainnya
+KB1 や KB2 など、〜
+A：かばん に 何 が あります か？ Di dalam tas, ada apa?
+B：ノート や えんぴつ など が あります。Ada buku catatan, pensil dan lainnya.
+
+BAB-5
+
+【４９】〜は KS い／KS な です ：(menjelaskan sifat dari KB dalam bentuk positif)
+KB１ は KS い です／KS な です
+A：この まち は どう です か。Bagaimana kota ini?
+B：しずか です。 (Kota ini,) sepi. A：この まち の 人 は やさしい です か。Apakah orang (di) kota ini baik?
+B：はい、やさしい です。Ya, baik. 
+
+【５０】〜は KS い くないです ：(bentuk negatif KS い)
+KB１ は KS い くない です
+
+【５１】〜は KS な じゃないです：(bentuk negatif KS な)
+KB１ は KS な じゃない です
+B：あなた の まち は にぎやか です か。Kota kamu, apakah ramai?
+A：いいえ、にぎやか じゃない です。Tidak, tidak ramai. B：そう です か。人 は やさしい です か。Orangnya apakah ramah?
+A：あまり やさしくない です。Tidak begitu baik.
+
+【５２】どう・いかが ：Kata tanya yang artinya "bagaimana" KB1 は どう です か？
+A：日本 は どう です か。Jepang bagaimana ?
+B：さむい です。Dingin. 
+
+【５３】KS い／な＋KB です ：KB yang ~ KS
+KB1 は KS い／KS な KB2 です
+A：クラテン は どんな まち です か。Klaten kota yang bagaimana?
+B：クラテン は しずか な まち です。Klaten adalah kota yang sunyi. A：さむい まち です か。Apakah kota yang dingin?
+B：いいえ、さむい まち じゃない です。Bukan, bukan kota yang dingin.
+
+【５４】KB が KS い／な です : KB~nya, ~KS
+KB1 が KS い／KS な です
+かみ が ながい です。Rambutnya panjang. め が おおきい です。Matanya besar. 
+
+【５５】どんな 人 です か？ ：Orang yang bagaimana? 〜さんは どんな 人 ですか
+A：たなかさん は どんな 人 です か。Tanaka, orang yang bagaimana?
+B：かみ が ながい 人 です。Orang yang berrambut panjang.
+
+【５６】KS い く／KS な に ＋なります ：menjadi ~ KS
+KB は KS い く／KS な に なります
+この コーヒー は あまく なります。Kopi ini menjadi manis. まち は きれい に なります。Kota menjadi bersih. 
+
+【５７】KB に ＋なります ：menjadi KB
+KB ＋ に なります
+いもうと は いしゃ に なります。Adik saya menjadi dokter. 
+
+【５８】KS い く／KS な に ＋します ：me~ KS ~kan
+KB は KS い く／KS な に します
+A：すみません、かみ は みじかく してください。Rambut (saya) tolong dipendekin. B：かしこまりました。Baik saya mengerti. 
+
+【５９】〜が、〜 ：~ tapi, ~ (dua hal dijadikan dalam satu kalimat) 〜が、〜
+A：うどん は どう？ Gimana udonnya (apakah enak?)
+B：おいしい です が、たかい です。Enak sih, tapi mahal. 
+
+【６０】でも、〜 ：Tapi, ~ (dua hal dalam dua kalimat) 〜です。でも〜
+A：うどん は どう？ Gimana udonnya (apakah enak?)
+B：おいしい です。でも、たかい です。Enak. Tapi mahal.
+
+【６１】いちばん・とても・すごく・もっと・ちょっと・ぜんぜん・かなり〜KS
+（Level dari KS）
+いちばん・とても・すごく・もっと・ちょっと・ぜんぜん〜KS
+A：その 車 は いくら です ね。Mobil itu berapa?
+B：９００万円 です。9 juta yen. A：とても 高い です ね。Sangat mahal ya. 〜KS arti
+いちばん 高い paling mahal
+とても 高い sangat mahal
+すごく 高い sangat mahal
+もっと 高い lebih mahal
+ちょっと 高い agak mahal
+かなり 高い lumayan mahal
+あまり 高くない tidak begitu mahal
+ぜんぜん 高くない sama sekali tidak mahal
+
+【６２】KB1 より、KB 2 のほう が 〜KS：KB2 lebih 〜KS dari KS1
+KB1 より、KB 2 のほうが〜KS
+ジャカルタ より、チラチャップ のほう が しずか です。
+Daripada Jakarta, Cilacap lebih tenang. 私 より、あなた のほう が あたま が いい です よ。
+Daripada saya, kamu lebih pintar, kok. ＊）あたま が いい ：pintar 
+
+【６３】A と B（と）、どちら が KS です か？：A dan B mana yang lebih 〜KS
+A と B、どちら が KS です か？
+A：ラーメン と うどん、どちら が おいしい です か？
+Ramen dan udon, mana yang lebih enak?
+B：うどん のほう が おいしい です。／どちら も おいしい です。
+Udon yang lebih enak./Yang mana pun enak.
+
+BAB-6
+
+【６４】〜で ：di~ (menunjukkan lokasi aktifitas kata kerja)
+KB tempat 〜で KK〜ます
+A：トニさん、どこで はたらきますか。Toni, bekerja dimana?
+B：日本で はたらきます。Bekerja di Jepang.
+
+【６５】〜に／〜ごろ ：pada~ (keterangan waktu)
+KB waktu 〜に／〜ごろ KK〜ます
+A：何時に あさごはんを 食べますか。Jam berapa (kamu) sarapan?
+B：7 時に あさごはんを 食べます。Sarapan pada pukul 7.
+
+【６６】〜は なんじ ですか ：~nya jam berapa?
+KB は なんじ です か
+A：ゆうしょくは 何時 ですか。Makan malam, pukul berapa?
+B：２１時 です。Pukul 21.
+
+【６７】〜が いいです か ：~ baiknya?/ ~bisanya?
+Kata Tanya が いい ですか
+A：いつが いいですか。Kapan bisanya?
+B：どようびが いいです。(Saya) bisanya sabtu. 
+
+【６８】〜から 〜まで ：dari~ sampai~ (bisa untuk waktu dan tempat)
+KB Waktu 1 から KB Waktu 2 まで です／KK〜ます
+A：日本語のクラスは 何時から 何時まで ですか？
+Kelas bahasa jepangnya dari jam berapa sampai jam berapa?
+B：日本語のクラスは ９時から １５時まで です。
+Kelas bahasa jepang, dari pukul 9 sampai pukul 15.
+
+【６９】〜から、〜：karena ~ 〜から
+A：どうして、食べませんか？Kenapa tidak makan?
+B：おいしくないです から、食べません。Karena tidak enak, saya tidak makan.
+
+【７０】KB tempat 〜に／へ 行きます／来ます／帰ります ：pergi/datang/pulang ke~ KB Tempat に／へ いく／くる／かえる
+A：明日、どこに 行きます か？ Besok pergi kemana?
+B：デパートに 行きます。Pergi ke pasar raya. A：いい ですね。だれと 行きますか？ Enak ya. Sama siapa?
+B：彼女と 行きます。Sama pacar. A：そう ですか。Oh begitu. 
+
+【７１】KB kendaraan〜で 〜に／へ 行きます／来ます／帰ります ：pergi ke~ naik~ KB Kendaraan で、KB Tempat に／へ いく／くる／かえる
+A：どうやって、会社に 行きますか。Dengan apa pergi ke kantor?
+B：バスで 会社に 行きます。Pergi ke kantor dengan bus. A：何で 学校に 行きますか？Pergi ke sekolah dengan apa?
+A：あるいて 学校に 行きます。Pergi ke sekolah dengan jalan kaki . *untuk jalan kaki menggunakan KK bentuk て yang memiliki makna “dengan cara~” (bab 7)
+
+【７２】KB aktifitas/acara 〜に 行きます／来ます／帰ります：pergi untuk~ /ke~ KB Aktifitas/Acara に いく／くる／かえる
+A：今年のぼうねんかい に 行きます？Pergi ke acara akhir tahun ini?. B：はい、行きます。Ya, pergi. 
+
+【７３】すぐに：dengan segera／はやく：dengan cepat／もうすぐ：sebentar lagi
+すぐに 〜・はやく〜・もうすぐ〜
+もう くらくなるから、すぐに 帰ってください。Karena sudah gelap, segera pulang. もうすぐ おわるから、はやく やって！Karena sudah mau selesai, lakukan dengan cepat.
+
+--BENTUK Lampau
+
+【７４】KB〜でした／〜じゃなかった です：(bentuk lampau KB)
+KB Waktu Lampau に KB でした／〜じゃなかった です
+A：きのう、あめ でした か。Apakah kemarin hujan. B：いいえ、あめ じゃなかった です。Tidak, tidak hujan. 
+
+【７５】KK〜ました／〜ません でした：(bentuk lampau KK)
+KB Waktu Lampau に KK〜ました／〜ません でした
+A：きのうの ばんは べんきょうしましたか。Kemarin malam apakah belajar?
+B：いいえ、べんきょうしません でした。Tidak, saya tidak belajar.
+
+【７６】もう KK〜ました ：Sudah me~ もう KK〜ました
+A：あさごはん、もう 食べましたか？ Sudah sarapan?
+B：いいえ、まだ です。Belum.
+
+【７７】KS〜いかった です／KS〜いくなかった です：(bentuk lampau KS い)
+KB Waktu Lampau に KS〜いかったです／KS〜いくなかったです
+A：きょねんの ふゆは さむかった ですか。Musim dingin tahun lalu dingin?
+B：あまり さむくなかった です。Tidak begitu dingin. 
+
+【７８】KS〜なでした／KS〜なじゃなかった です：(bentuk lampau KS な)
+KB Waktu Lampau に KS〜なでした／KS〜なじゃなかったです
+A：ジャカルタは むかし から にぎやか でしたか。Apakah dari dulu Jakarta ramai?
+B：いいえ、にぎやか じゃなかった です。Tidak, tidak ramai.
+
+【７９】KB の KB posisi
+KB1 は KB2 の KBPosisi に あります／います
+A：はさみは どこに あります か。Gunting ada dimana?
+B：はさみは つくえの うえに あります。Guntingnya, ada di atas meja.
+
+【８０】でも・しかし
+Kalimat １。でも・しかし、〜
+このりんごは あまい です。でも、食べません。
+Apel ini manis. Tapi (saya) tidak memakannya. 日本の食べものが 好きです。しかし、さしみは にがてです。
+Saya suka makanan jepang. Tapi (kalau) sashimi saya tidak suka.
+
+BAB-7
+
+Selamat datang di BAB 7 – エアコンを つけてください！ 
+Ini adalah bab yang paling spektakuler dan paling penting dalam perjalanan belajar bahasa Jepang lo. Kenapa? Karena di sinilah lo bertemu dengan BENTUK ～て (TE-FORM).
+
+Bentuk ～て adalah "lem super" bahasa Jepang. Fungsinya buat nyambungin kata kerja, ngasih perintah halus, minta tolong, nyatain sebab-akibat, sampe ngomongin kegiatan yang sedang berlangsung. Kalau lo nguasain Te-Form, lo bakal bisa ngomong bahasa Jepang kayak air mengalir.
+
+---
+
+🔑 MASTER KUNCI: RUMUS PERUBAHAN KATA KERJA BENTUK ～て (DARI BENTUK ～ます)
+
+Saya tahu lo udah minta pakai bentuk ～ます, bukan bentuk kamus. Ini adalah cara paling genius buat belajar, karena kita langsung main di ranah praktis tanpa mikir perubahan kanji rumit. Ini dia tabel superkomprehensifnya. HAPALKAN! INI JANTUNGNYA!
+
+⚡ Grup I (ゴダイ 動詞) - Ciri khas: Huruf vokal I sebelum ます.
+
+Akhiran ます Perubahan CONTOH (～ます → ～て) Arti
+い ます / ち ます / り ます Ubah jadi って かいます / まちます / きります かって / まって / きって
+み ます / に ます / び ます Ubah jadi んで のみます / しにます / よびます のんで / しんで / よんで
+き ます Ubah jadi いて かきます / はきます かいて / はいて
+ぎ ます Ubah jadi いで いそぎます / ぬぎます いそいで / ぬいで
+し ます Ubah jadi して はなします / だします はなして / だして
+
+🚨 PENGECUALIAN SUPER PENTING GRUP I (WAJIB NONGKOL DI KEPALA!)
+
+Kata Kerja Bentuk ます Bentuk て Kenapa?
+行きます (Ikimasu) いきます (harusnya いて) いって Ini pengecualian! Karena terlalu susah diucap "いいて", lidah orang Jepang berubah jadi "いって".
+持って行きます (Motte ikimasu) もっていきます もっていって Ikuti aturan di atas. "Bawa pergi" berubah jadi "bawa... pergi (te-form)".
+
+⚡ Grup II (イチダン 動詞) - Ciri khas: Akhiran biasanya えます atau います (yang gak termasuk Grup I).
+
+RUMUSNYA GAMPANG BANGET: LEPAS ます, langsung tempel て!
+
+Kata Kerja Bentuk ます Bentuk て Arti
+たべます たべます たべて Makan
+おきます おきます おきて Bangun / Letakkan
+あびます あびます あびて Mandi (siram)
+みます みます みて Lihat
+ねます ねます ねて Tidur
+かります かります かりて Pinjam
+
+⚡ Grup III (サ変 & カ変) - Cuma 2!
+
+Kata Kerja Bentuk ます Bentuk て Arti
+します します して Lakukan (dan semua turunannya: 勉強して, 仕事して)
+きます きます きて Datang
+
+---
+
+【８１】KK〜て ください ：tolong me~/ silakan me~ KB1 を KK〜て ください
+A：あつい ですね。エアコンを つけてください。Panasnya. Tolong nyalakan AC. B：はい。Ya. 
+
+【８２】KB〜で KK〜てください ：tolong me~ dengan~ KB1 Alat で KK〜て ください
+A：このだいこん、どうやって きりますか。Lobak ini bagaimana cara memotongnya？
+B：ナイフで きってください。Potonglah dengan pisau. 
+
+【８３】KK〜て くれませんか ：bisakah (Anda) me~ (untuk saya)
+KK〜て くれませんか／くれない？／くれる？／くれ！
+A：フォークを とってくれませんか。Bisakah ambilkan (saya) garpu?
+B：フォークですね。はい、どうぞ。Garpu ya? Ya, (ini) silakan. 
+
+【８４】〜に 〜を KK〜て あげます ：me~kan/me~i kepada~ KK〜て あげます
+私は いもうとに 日本語を おしえて あげました。Saya mengajari adik, bahasa jepang. いもうとに 朝ごはんを 作ってあげます。
+Saya membuat sarapan buat semua orang. 
+
+【８５】S が（私に）〜を KK〜て くれます ：me~kan/me~i (untuk saya)
+KK〜て くれます
+先生が（私に） 日本語を 教えて くれました。Sensei mengajarkan saya bahasa jepang. 母が 毎日、朝ごはんを 作ってくれています。Setiap hari ibu membuatkan saya sarapan. 
+
+【８６】〜に 〜を KK〜て もらいます ：di~kan/di~i kepada~ KK〜て もらいます
+母に 朝ごはんを 作ってもらいました。Saya dibuatkan sarapan oleh ibu. スラメット先生に 日本語を 教えてもらって、嬉しいです。
+Senang sekali diajar oleh Slamet sensei. 
+
+【８７】KK〜て も、〜 ：meskipun me~ KK〜て も、〜
+A：どうしましたか？ Kenapa?
+B：すみません、このドアは あけても、あきません。
+Pintu ini meskipun saya buka, tidak （mau) terbuka.
+
+【８８】KK〜て も いいです ：boleh me~ (minta ijin)
+KK〜て も いい です
+テストは じしょを みても いいです。Tesnya boleh melihat kamus. A：ここで タバコを すっても いいですか。Apakah boleh merokok disini？
+B：はい、いい よ。／いいえ、だめ です。Ya, boleh/ Tidak, tidak boleh.
+
+【８９】KK〜て から、〜 ：setelah me~ KK〜て から、〜
+それを やってから、これ、 やってね！ Setelah mengerjakan itu, kerjakan yang ini. A：あさごはんを 食べてから、何を しましたか？ Setelah makan, melakukan apa?
+B：あさごはんを 食べてから、シャワーを あびました。Setelah sarapan, saya mandi.
+
+【９０】KK〜て います ：(untuk mengungkapkan rutinitas)
+KK〜て います
+A：日本語を 勉強してから、いつも 何を していますか。
+Setelah belajar bahasa jepang, biasanya melakukan apa?
+B：だいたい、ごろごろ しています。
+Biasanya saya bersantai. 
+
+【９１】KK〜て います ：sedang me~ KK〜て います
+A：ねえちゃん、何を していますか。Kak, kamu sedang apa?
+B：えいごを 勉強しています。Sedang belajar bahasa inggris. A：母は？Lha ibu sedang apa?
+B：だいどころで、ケーキを 作っています。Di dapur sedang membuat kue. 
+
+【９２】KK〜て は いけません ：tidak boleh me~ KK〜て は いけません／だめ です
+A：ここで タバコを すっても いいですか。Disini apakah boleh merokok?
+B：いいえ、タバコを すっては だめ ですよ。Tidak, disini tidak boleh merokok. 
+
+【９３】KK〜て みます ：mencoba me~ KK〜て みます
+A：すみません、田中さんは いますか。Maaf, apakah Pak Tanaka ada?
+B：いない ですね。しょくどうに さがしてみてください。Tidak ada. Coba cari di kantin. 
+
+【９４】まだ＋ KK〜ています ：masih me~ まだ＋KK〜ています
+A：もう、ねましたか。Sudah tidur?
+B：まだ です。まだ 本を よんでいます。Belum, masih baca buku. 
+
+【９５】まだ＋ KK〜ていません ：belum me~ まだ＋KK〜ています
+A：もう、おわりましたか。Sudah selesai?
+B：いいえ、まだ おわっていません。Belum, belum selesai.
+
+【９６】KS い くて、〜 ：dan (bentuk sambung KS い）
+KS い くて、〜 です
+A：そのレストランのラーメンは どう ですか？Ramen di restoran itu, bagaimana?
+B：こおいしくて、やすい です。Enak dan murah. 
+
+【９７】KS な で、〜 ：dan (bentuk sambung KS な）
+KS な で、〜
+A：トニさんは どんな人 ですか。Toni itu orangnya bagaimana?
+B：ハンサムで あたまも いい人 です。Toni orang yang tampan dan pintar. 
+
+【９８】KS いくて も、〜／KS なで も、〜 ：meskipun KS,~ KS いくても、〜／KS なでも、〜
+このかばんは やすくても、じょうぶです。Tas ini meskipun murah, kuat. あの人は ハンサムでも、あたまが わるいです。Orang itu tampan tapi bodoh. 
+
+【９９】KS いくなくて も、〜／KS なじゃなくて も、〜 ：meskipun tidak KS,~ KS いくなくても、〜／KS なじゃなくても、〜
+これは やすくなくても、かいます。Ini meskipun tidak murah, saya beli. あの人は ハンサムじゃなくても、じょうずです。Orang itu meskipun tidak ganteng, pintar. 
+
+【１００】KB でも、〜／KB じゃなくて も、〜 ：meskipun KB,~/meskipun bukan KB,~ KB でも、〜／KB じゃなくても、〜
+きょう、あめでも がっこうに いきます。Hari ini, meskipun hujan, saya pergi ke sekolah. これは おさけじゃなくても、飲みません。Meskipun bukan alkohol, saya tidak minum ini.
+
+【１０１】KS いく 〜ます／KS なに 〜ます：me~ dengan KS
+KS いく 〜ます／KS なに 〜ます
+A：このやさいは みじかく きってください！Sayurnya potong dengan pendek. B：はい、わかりました。Baik,saya mengerti. 
+
+【１０２】それから・そして：kemudian/setelah itu、〜
+Kalimat １。それから、〜Kalimat 2
+A：そのつくえを かたづけてください。それから／そして、いすも！
+Tolong bereskan meja itu. Kemudian kursinya juga ya. B：はい、わかりました。Baik, saya mengerti. 
+
+【１０３】それに・そして：selain itu
+Kalimat １。それに、〜Kalimat 2
+A：そのみかんは どう？ Jeruknya bagaimana?
+B：おいしいです。それに、あまいです。Enak. Selain itu manis.
+
+BAB-8
+
+---
+
+🔑 MASTER KUNCI BAB 8: PERUBAHAN KE BENTUK ～た DAN ～る
+
+1. POLA PERUBAHAN KE BENTUK ～た (TA-FORM)
+
+Ini gampang banget! Karena lo sudah hafal Te-Form di Bab 7, saya kasih tahu rahasia besar: Bentuk ～た adalah KEMBARAN dari bentuk ～て.
+
+· Ganti て menjadi た.
+· Ganti で menjadi だ.
+
+Contoh: かいて (Te) → かいた (Ta) / よんで (Te) → よんだ (Ta).
+
+Grup Akhiran ます Perubahan ke て (Ulangi Bab 7) Perubahan ke た (HANYA ganti akhir) Contoh (ます → た) Arti (Bentuk Lampau Kasual)
+Grup I い/ち/り ます って った かいます → かった / まちます → まった Beli / Tunggu
+ み/に/び ます んで んだ のみます → のんだ / しにます → しんだ Minum / Meninggal
+ き ます いて いた かきます → かいた Tulis
+ ぎ ます いで いだ いそぎます → いそいだ Buru-buru
+ し ます して した はなします → はなした Bicara
+Grup I (Istimewa) いきます いって いった いきます → いった Pergi
+Grup II ～ます (vokal e/i) ～て ～た たべます → たべた / みます → みた Makan / Lihat
+Grup III します して した します → した Lakukan
+ きます きて きた きます → きた Datang
+
+---
+
+2. POLA PERUBAHAN KE BENTUK ～る (RU-FORM / BENTUK KAMUS)
+
+Ini adalah bentuk paling dasar, paling mentah, dan bentuk yang lo cari di kamus. Bentuk ini adalah bentuk non-lampau (sekarang/masa depan) dalam bahasa kasual, kebalikan dari 【104】.
+
+Grup Bentuk ます Bagaimana mengubahnya ke ～る Contoh (ます → る) Logika / Trik
+Grup I います (vokal I) Ganti い jadi う (sesuai barisnya) かきます → かく   よみます → よむ   とります → とる   はなします → はなす Vokal I di kolom い, turun ke kolom う. (i→u). Lidah orang Jepang auto melakukan ini.
+Grup II えます / います (kecuali Grup I) Lepas ます, tambah る たべます → たべる   おきます → おきる   みます → みる   ねます → ねる Hapus "masu", sisanya tinggal kasih "ru". Ini yang paling gampang!
+Grup III します する します → する Hafal!
+ きます くる きます → くる Hafal!
+
+---
+
+【１０４】KK〜た ：(kata kerja lampau bentuk biasa)
+KB1 を KK〜た
+A：けさ、何を 食べた？Tadi pagi, makan apa?
+B：けさ、パンと ヨーグルトを 食べた。Tadi pagi saya sarapan. 
+
+【１０５】KK〜た こと が あります ：pernah me~ KK〜た ことが あります
+A：わさびを 食べた ことが ありますか。Pernah makan wasabi?
+B：いいえ、食べた ことが ない です。Belum, belum pernah makan.
+
+【１０６】KK〜た あと、〜 ：setelah me~ KK〜た あと、〜
+A：べんきょうした あと、何を していますか。Setelah belajar, biasanya ngapain?
+B：クラスを かたづけます。Membereskan kelas. 
+
+【１０７】KK〜た ばかり です ：baru saja me~ KK〜た ばかり です
+A：えいがは おわった？。Filmnya udah selesai ya?
+B：いいえ、はじまった ばかり。Enggak kok. Baru aja mulai. 
+
+【１０８】KK〜た ほう が いい です ：sebaiknya me~ KK〜た ほう が いい です
+A：あたま、いたい なあ〜。Duh kepala saya sakit. B：くすりを 飲んだ ほうが いい ですよ。Sebaiknya segera minum obat.
+
+【１０９】KK〜たら ：Kalau me~ KK〜たら、〜
+A：漢字を 書いたら、えんぴつを 使ってください。
+Kalau menulis kanji, gunakan pensil. B：はい。わかりました。Baik. 
+
+【１１０】KK〜たり、〜たり します ：Menyebutkan beberapa kegiatan. KK〜たり、〜たり します
+A：休みの日、何を しましたか。Saat libur, ngapain aja?
+B：家で せんたく したり、そうじ したり しました。
+
+【１１１】KK〜る
+KK〜る
+A：ぶた肉、食べる？Kamu makan daging babi?
+B：いいえ、食べません。Tidak, saya tidak makan. 
+
+【１１２】KK〜る こと です ：(untuk menyatakan hobi jika ada kata kerja)
+KK〜る こと です
+A：しゅみは 何 です か。Hobi (kamu) apa?
+B：ハイキングする ことです。Hiking.
+
+【１１３】KK〜る こと が あります ：kadang-kadang me~ KK〜る こと が あります
+A：食べたあと、何を しますか。Setelah makan, ngapain?
+B：ビールを 飲む ことが あります。Kadang-kadang (saya) minum bir.
+
+【１１４】KK〜る こと が できます ：bisa me~ KK〜る こと が できます
+A：ギターを ひく こと が できます か。Apakah bisa bermain gitar?
+B：はい、できますよ。Ya, bisa. ／いいえ、できません。Tidak bisa. 
+
+【１１５】KK〜る まえに、〜 ：sebelum me~, ~ KK〜る まえに、〜
+A：べんきょうするまえに、何を したほうが いいですか。
+Sebelum belajar, sebaiknya melakukan apa?
+B：いっしょに おいのりを したほうが いいです。
+Sebaiknya kita berdoa bersama. 
+
+【１１６】KK〜る ときに、〜 ：pada saat me~, ~ KK〜る ときに、〜
+A：あめが ふるときに、何を したほうが いいですか。
+Pasa saat hujan, sebaiknya melakukan apa?
+B：ねたほうが いいです。
+Sebaiknya tidur. 
+
+【１１７】KK〜る のは 〜 ：（Untuk membendakan KK）
+KK〜る のは／のが 〜
+A：何が 好き ですか？Kamu suka apa?
+B：山に のぼるのが 好きです。Saya suka naik gunung. 
+
+【１１８】KK〜る KB ：（Untuk menjelaskan KB）
+KK〜る KB
+それは 食べるパン です。Itu adalah roti yang akan saya makan.
+
+【１１９】KK〜る と、〜 ：Kalau me~
+KK〜る と、〜
+この ドアを あけると、山が みえます。Kalau pintu ini dibuka, terlihat gunung. はやく 行くと、間に合う よ。Kalau bergegas, masih bisa loh. 
+
+【１２０】どう しますか ： Selanjutnya bagaimana ?
+どう しますか
+A：テストが 終わってから、どう しますか？ Setelah tes selesai, mau bagaimana?
+B：えいがは どうですか。Bagaimana kalau （menonton ）film?
+
+【１２１】どんな〜KB ：KB~ apa? (bisa digunakan untuk menanyakan jenis dari KB-nya )
+どんな KB
+A：どんなスポーツが 好きですか。Suka olah raga apa?
+B：バレボールです。voli. 
+
+【１２２】ぜんぜん・ほとんど・いちども〜ません：Sama sekali tidak me ~/hampir tidak me~ ぜんぜん・ほとんど KK〜ません
+ぜんぜん、おすしを 食べたことが ありません。Sama sekali belum pernah makan sushi. わさびは ほとんど 食べません。(Saya) hampir tidak makan wasabi. 
+
+【１２３】KB Orang Jamak 〜と KB Jumlah Orang〜で ：bersama~ ber~ KB Orang Jamak と KB Jumlah Orang で
+きのう、ともだちと 2 人で デパートで かいものした。
+Kemarin, belanja di department store bersama teman berdua. ときどき、かぞくと ４人で りょこうした。
+Kadang-kadang traveling bersama keluarga berempat.
+
+BAB-9
+
+---
+
+🔑 MASTER KUNCI BAB 9: STEM (BATANG KATA KERJA)
+
+Grup Bentuk ます STEM (Buang ます) Logika / Trik
+Grup I かきます / よみます / はなします かき (Kaki) / よみ (Yomi) / はなし (Hanashi) Huruf terakhir selalu vokal I (i-dan).
+Grup II たべます / みます / ねます たべ (Tabe) / み (Mi) / ね (Ne) Huruf terakhir selalu vokal E (atau kadang I, tapi tetap lepas ます).
+Grup III します / きます し (Shi) / き (Ki) Cuma 2. Hafal aja.
+
+Ingat! STEM ini adalah "lem" yang bakal lo tempelin ke pola-pola di bawah ini.
+
+---
+
+【１２４】KK〜ます に いく／くる／かえる ：pergi untuk me~ KK 〜ます に いく／くる／かえる
+A：こんどの土曜日、どこに 行く？Sabtu besok pergi kemana?
+B：ともだちと えいがを みに 行く。Pergi menonton film bersama teman. A：何を しに きた の？Kamu datang mau ngapain?
+B：ちょっと、おねがいが あるんです。Mau minta tolong sedikit. 
+
+【１２５】KK〜ます ません か／KK〜ない？：maukah me ~ (bersama)
+KK 〜ます ません か／KK〜ない？
+A：こんどの日曜日、いっしょに かいものに 行きませんか。
+Maukah pergi untuk belanja bareng hari minggu nanti?
+B：いいですね。行きましょう。Baiklah. Mari pergi. 
+
+【１２６】KK〜ます 〜ましょう ：ayo/mari me ~ (ajakan)
+KK 〜ます ましょう
+A：そろそろ 帰りましょう。Sudah saatnya, mari kita pulang. B：そう、しましょう。Mari . ＊そろそろ：sudah saatnya 
+
+【１２７】KK〜ます 〜ましょう か：maukah saya ~ (menawarkan aksi kepada orang lain)
+KK 〜ます ましょう か
+A：そのかばんを もちましょうか。Bagaimana kalau (saya) bawakan tas itu?
+B：すみません、おねがいします。(terima kasih) Maaf merepotkan. 
+
+【１２８】KK〜ます ながら、〜 ：sambil me~, ~ KK 〜ます ながら、〜
+A：テレビを 見ながら、何を しますか。Sambil nonton tv, melakukan apa?
+B：テレビを 見ながら、ラーメンを 食べる。Sambil nonton tv, makan ramen. 
+
+【１２９】KK〜ます かた ：Cara me~ KK 〜ます かた
+A：すみません、このかんじの おぼえかたを おしえてください。
+Maaf, tolong ajari (saya) cara menghafal kanji ini. B：ええ、いい ですよ。Boleh dong.
+
+【１３０】KK〜ます なさい ：tolong me~ (bentuk perintah)
+KK 〜ます かた
+A：あした しけんですから、ちゃんと べんきょうしなさい！
+Karena besok tes, belajarlah dengan baik. B：はい、先生！Baik sensei. 
+
+【１３１】KK〜ます やすい、〜 ：mudah di~, ~ KK 〜ます やすい です
+このそうじきは 使いやすくて、べんり です。Vakum cleaner ini mudah dipakai. このくすりは 飲みやすい です。Obat ini mudah diminum. 
+
+【１３２】KK〜ます にくい、〜 ：susah di~, ~ KK 〜ます にくい です
+この漢字は 読みにくい ですね。Kanji ini sulit dibaca. このそうじきは ふべんで、使いにくい です。Vakum cleaner ini ribet, dan sudah dipakai.
+
+【１３３】KB が ほしい です ：ingin ~ KB
+KB が ほしい です
+A：おみやげ、何が ほしい？Oleh-olehnya, ingin apa?
+B：おもちゃが ほしいよ。Mau mainan. 
+
+【１３４】KB〜は ほしくない です ：tidak ingin ~ KB
+KB は ほしくない です
+A：車が ほしいですか。Apakah mau ingin mobil?
+B：いいえ、車は ほしくない です。Maaf saya tidak ingin wasabinya. 
+
+【１３５】KK〜ます たい です ：ingin me~ KB が／を KK〜ます たい です
+A：何が 食べたい ですか。Ingin makan apa?
+B：え〜と、ラーメンが 食べたい です。(Saya) Ingin makan ramen. 
+
+【１３６】KK〜ます たくない です ：tidak ingin me~ KB が／を KK〜ます たくない です
+A：このなっとうは 食べたくない ですか。Apakah tidak ingin makan natto ini?
+B：ええ、すみません。にがて ですから。Iya, maaf. Karena (saya) tidak suka..
+
+【１３７】KB tempat〜で KB acara〜が あります
+KB で KB Acara が あります
+ひろばで まつりが あります。Di lapangan ada perayaan. としょかんで べんきょうかいが あります。Di perpustakaan ada belajar kelompok. 
+
+【１３８】Kalimat 〜の？ ：(digunakan untuk kalimat tanya dalam bentuk biasa)
+Kalimat Biasa 〜の？
+A：今日、休むの？Hari ini libur?
+B：…うん。...Ya. A：これ、あらった の？Ini sudah dicuci?
+B：まだ です よ。Belum. 
+
+【１３９】〜けど・けれど・けれども：Tetapi,~ Kalimat Biasa 〜けど・けれど・けれども、〜
+おなかが すいたけど、何も ない。Lapar tapi tidak ada apapun. 本日は 忙しいです けれど、昨日より あまり 忙しくない です。
+Hari ini sibuk, tapi daripada kemarin, tidak begitu sibuk.
+
+【１４０】じゃ・それじゃ・それでは・では：Kalau begitu,~ Kalimat １ 。じゃ・それじゃ・それでは・では、〜
+今日は ここまで です。それでは、また 来週。
+Hari ini sampai disini ya. Sampai ketemu lagi minggu depan. A：時間が ないよ！Sudah tidak ada waktu. B：じゃ、タクシーで 行きましょう！Kalau begitu, mari pergi dengan taksi.
+
+BAB-10
+
+---
+
+🔑 MASTER KUNCI BAB 10: BENTUK ～ない (NAI-FORM)
+
+Apa itu Bentuk ～ない?
+Ini adalah bentuk negatif kasual (biasa) dari kata kerja. Kalau di bentuk sopan lo pakai ～ません, di bentuk kasual lo pakai ～ない. Ini adalah fondasi untuk semua pola di bab ini (Larangan, Keharusan, dll.).
+
+RUMUS PERUBAHAN DARI BENTUK ～ます KE BENTUK ～ない
+
+Grup Akhiran ます Perubahan ke ～ない Contoh (ます → ない) Arti (Negatif Kasual)
+Grup I います (vokal I) Ganti い jadi あ + ない かきます → かかない   よみます → よまない   とります → とらない   はなします → はなさない Tidak menulis   Tidak membaca   Tidak mengambil   Tidak bicara
+Grup I (例外) いきます いかない いきます → いかない Tidak pergi
+Grup II ～ます Lepas ます, tambah ない たべます → たべない   おきます → おきない   みます → みない   ねます → ねない Tidak makan   Tidak bangun   Tidak lihat   Tidak tidur
+Grup III します し + ない します → しない Tidak melakukan
+ きます こ + ない きます → こない Tidak datang
+
+⚠️ PERHATIAN! Kata kerja きます (datang) berubah jadi こない, BUKAN きない! Ini pengecualian super penting yang wajib lo hafal!
+
+---
+
+📚 BONUS: Perubahan Bentuk ～たい ke Negatif (Karena ada di tabel Bunpou)
+
+Bentuk Perubahan Contoh
+～たい (Ingin) Buang い, tambah くない たべたい → たべたくない   いきたい → いきたくない
+～たかった (Dulu ingin) Buang い, tambah くなかった たべたかった → たべたくなかった
+
+---
+
+【１４１】KK〜ない ：tidak me~, ~ KK〜ない
+A：豚肉、食べる？Daging babi, apakah makan?
+B：ううん、食べない。Tidak, tidak makan. 
+
+【１４２】KK〜ないで、〜 ：tanpa me~, ~ KK〜ない で、〜
+本を 見ないで、もんだいを やってください。Tolong kerjakan soal tanpa melihat buku. はらわないで、ジュースを 飲んでは だめよ。Tanpa membayar, tidak boleh minum jus.
+
+【１４３】KK〜ないで ください ：tolong jangan me~ KK〜ない で ください
+A：ここで きんえん ですから、タバコを すわないで ください。
+Disini tidak boleh merokok, jadi jangan merokok disini. B：はい、わかりました。Baik saya mengerti. *きんえん：”larangan tidak boleh merokok” 
+
+【１４４】KK〜ない くて も いいです ：tidak perlu me~ / tidak harus me~ KK〜ない くて も いい です
+A：あした 休み ですから、がっこうに 来なくても いいです。
+Besok, karena libur, tidak perlu datang ke sekolah. B：はい。Ya. 
+
+【１４５】KK〜ない くて は いけません／だめ です ：harus me~ KK〜ない くて は いけません／だめ です
+A：ごはんを 食べるまえに、何を しますか。Sebelum makan melakukan apa?
+B：て を あらわなくては いけません。Harus cuci tangan. 
+
+【１４６】KK〜ない ければ なりません ：harus me~ KK〜ない ければ なりません
+あした、しけんが あるから、勉強 しなければ ならないよ。
+Besok karena ada tes, harus belajar loh. もう 日本で 働いたら、せつやく しなければ なりません。
+Kalau sudah bekerja di Jepang harus berhemat. 
+
+【１４７】KK〜ない と （いけません） ：harus me~ KK〜ない と いけません
+A：もう 時間が ないから、いそがない と（いけない）。
+Karena sudah tidak ada waktu lagi, harus bergegas. B：じゃ、行きましょう。Kalau begitu mari pergi. 
+
+【１４８】KK〜ない ほうが いいです ：sebaiknya tidak me~ KK〜ない ほうが いいっです
+コーヒーを あまり飲まないほうが いいです。Sebaiknya tidak terlalu sering minum kopi, 明日 しけん だから、おそく ねないほうが いいです。
+Karena besok tes, sebaiknya tidak tidur sampai larut.
+
+【１４９】KB kendaraan〜に のる／〜を おりる ： naik~ / turun dari~ KB Kendaraan に のる
+を おりる
+ここから、１２ばんのバスに のってください。Dari sini, naiklah bus nomer 12. バスセンターで バスを おりてください。Turunlah dari bus di terminal. 
+
+【１５０】〜かかります ：membutuhkan ~ (waktu/uang)
+KB Durasi Waktu 〜かかる
+A：クラテンから ジャカルタまで どのぐらい かかりますか。
+Dari Klaten sampai Jakarta butuh berapa lama?
+B：６時間 ぐらい かかります。Butuh waktu 6 jam.
+
+【１５１】Bentuk Biasa （普通形）
+Bentuk biasa dan sopan digunakan tergantung pada siapa kita berbicara. Bahasa bentuk sopan
+digunakan pada saat berbicara kepada lawan bicara yang belum dikenal dengan akrab atau
+kepada lawan bicara dengan posisi lebih dihormati misalnya guru, atasan di tempat kerja dan
+lain-lain. Berikut ini tabel seluruh bentuk biasa (futsuukei: akan kita singkat dalam rumus menjadi “f”)
+pada jenis kosakata bahasa jepang. sopan (non lampau) biasa (non lampau) sopan ( lampau) bentuk biasa( lampau)
+KB〜です KB〜だ KB〜でした KB〜だった
+KB〜じゃないです KB〜じゃない KB〜じゃなかったです KB〜じゃなかった
+KS い です KS い KS い かったです KS い かった
+KS い くないです KS い くない KS い くなかったです KS い くなかった
+KS な です KS な だ KS な でした KS な だった
+KS な じゃないです KS な じゃない KS な じゃなかったです KS な じゃなかった
+KK〜ます KK〜る KK〜ました KK〜た
+KK〜ません KK〜ない KK〜ませんでした KK〜なかった
+KK〜たいです KK〜たい KK〜たかったです KK〜たかった
+KK〜たくないです KK〜たくない KK〜たくなかったです KK〜たくなかった
+学生：すみません、明日 は 休み ですか。Sensei, apakah besok libur?
+先生：うん、休み だ よ。Ya libur. 学生：帰っても いい ですか。Apakah boleh pulang?
+先生：ううん、だめ だ よ。Enggak boleh. 
+
+【１５２】Bentuk Biasa （f）＋KB：KB yang~ (anak alimat yang menjelaskan KB)
+（f）+KB
+母が 作った ケーキです。Kue yang ibu buat. Anak kalimat KB
+姉が くれた お金 です。Uang yang kakak berikan. Anak kalimat KB
+
+【１５３】Bentuk Biasa （普通形）と 思う：Saya pikir ~／Saya rasa~／Saya kira~ （f）〜と 思う
+田中さんは けっこん している と 思います。Saya rasa Tanaka san sudah menikah. これは かんたん だ と 思う。Saya kira ini mudah.
+
+【１５４】Bentuk Biasa （普通形）と 言う：Berkata bahwa~ （f）〜と 言う
+さっき、先生は 明日、休み だ と 言いました。
+Tadi sensei bilang bahwa besok libur. イヤンさんは 日本で 働きたいと 言った。
+Iyan bilang bahwa ingin bekerja di jepang.
+
+【１５５】Bentuk Biasa （普通形）と 聞く：Saya dengar~ （f）〜と 聞く
+田中さんは 明日 日本に 戻ると 聞いた。それ は 本当ですか。
+Saya dengar Tanaka san minggu depan akan kembali ke Jepang. Apa itu benar?
+
+【１５６】それで・だから ： karena itu~, jadi~, oleh sebab itu~ それで・だから
+今日は かぜです。それで、がっこうを やすむ。
+Hari ini saya masuk angin. Karena itu saya libur sekolah. 明日、テストが あります。だから、勉強しないと。
+Besok ada tes. Jadi saya harus belajar.
+
+【１５７】Kata Tanya でも：kata tanya pun
+Kata Tanya でも
+そのどうぶつは 何でも 食べる。Binatang itu makan apapun. いつでも、また きてね。Silakan datang kapanpun. 
+
+【１５８】Kata Tanya か：suatu~ Kata Tanya か、
+いつか、日本に 行きたい なあ。Suatu saat saya ingin ke jepang. 何か、食べたい。Ingin makan sesuatu. KT＋でも arti KT＋か arti
+なんでも apapun なにか sesuatu
+いつでも kapanpun いつか suatu saat
+どこでも dimanapun どこか suatu tempat
+だれでも siapapun だれか seseorang
+
+【１５９】Kalimat Tanya（F) か、〜 わかります／しっています か？
+Kalimat Tanya か、〜
+A：コンサートは 何時に 始まるか、しっていますか？
+Konsernya mulai jam berapa, kamu tahu?
+B：知らない。Tidak tahu. 
+
+【１６０】Kalimat か どうか、〜
+Kalimat か どうか、〜
+明日、お金が あるかどうか、わからない。Besok ada uang atau tidak, saya tidak tahu. 行く かどうか、まだ 決めません。Mau pergi atau tidak , saya belum memutuskan. 
+
+【１６１】には、では、へは、までは、からは：(Penambahan partikel sebagai subyek)
+には、では、へは、までは、からは
+日本では 仕事を さがすのは かんたんです。Di Jepang, mencari pekerjaan itu, mudah. チラチャップまでは 何で 来たの？Sampai Cilacap, datang dengan apa?
+
+NOTE: Ini bukan bunpou yang sempurna, tolong sempurnakan! contohnya membunuh suffix KS-i menjadi ku itu kan kurang jelas, tolong improvise dan validasikan!
+
+contoh lainnya di bab 9 yaitu KK-ます(dicoret)
