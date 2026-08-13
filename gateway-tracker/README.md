@@ -29,6 +29,10 @@ This architecture intentionally does not place a token in GitHub Actions secrets
 
 The Vite base path automatically becomes `/<repository-name>/` inside GitHub Actions and remains `/` in the local preview. The visual identity is rendered with CSS and inline SVG, so no preview-only asset path is required for GitHub Pages deployment.
 
+## Source delivery policy
+
+For this personal tracker, verified changes are committed and pushed **directly to `main`**; pull requests are not part of the default delivery path. Before each direct push, run the unit suite, type-check, and production build. If a prepared branch has diverged from current `main`, preserve remote history by cherry-picking only the verified commits onto an up-to-date local `main`, then push normally. Never force-push or overwrite unrelated repository content.
+
 ## Performance and WASM decision
 
 The tracker keeps aggregation bounded by the selected date range and journal size, caps date-range expansion at 3,660 days, sanitizes malformed values before save, and lazy-loads SheetJS only when an XLSX export is requested. In the current production build, moving SheetJS out of the initial path reduced the main JavaScript chunk from **928.11 kB** to **643.31 kB** before compression; XLSX now lives in a separate **429.49 kB** chunk downloaded only at export time. The tracker unit suite completes in roughly **0.3 seconds** in the project environment, and the core dashboard does not run a compute-heavy algorithm. Adding a Rust/WASM payload would increase download, initialization, and debugging cost without improving the user-visible hot path, so it is intentionally omitted. Reconsider WASM only if a future feature introduces large-scale offline analysis or cryptographic work that has been profiled as a real bottleneck.
