@@ -25,14 +25,14 @@ jobs:
         working-directory: gateway-tracker
     steps:
       - uses: actions/checkout@v6
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10.4.1
       - uses: actions/setup-node@v6
         with:
           node-version: 22
           cache: pnpm
           cache-dependency-path: gateway-tracker/pnpm-lock.yaml
-      - uses: pnpm/action-setup@v4
-        with:
-          version: 10.4.1
       - run: pnpm install --frozen-lockfile
       - run: pnpm exec vitest run
       - run: pnpm check
