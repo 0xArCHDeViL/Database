@@ -17,3 +17,6 @@
 - [x] Re-run the equivalent static CI checks and update the existing pull request.
 - [x] Record direct-to-main as the default GitHub delivery policy for this tracker.
 - [x] Cherry-pick the remaining verified workflow fix directly onto main after branch divergence, without a pull request.
+- [x] Remove redundant navigation affordances so desktop uses the sidebar and mobile uses only the bottom navigation.
+- [x] Simplify the mobile top bar to contextual identity and settings, without a competing drawer menu.
+- [x] Verify the revised navigation on desktop and mobile, then push directly to main.
