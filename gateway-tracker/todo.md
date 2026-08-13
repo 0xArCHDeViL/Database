@@ -20,3 +20,12 @@
 - [x] Remove redundant navigation affordances so desktop uses the sidebar and mobile uses only the bottom navigation.
 - [x] Simplify the mobile top bar to contextual identity and settings, without a competing drawer menu.
 - [x] Verify the revised navigation on desktop and mobile, then push directly to main.
+- [x] Audit every existing screen component against a specific user action, input, decision, or feedback outcome.
+- [x] Replace decorative or redundant dashboard elements with a prioritized daily action plan and intervention cues.
+- [x] Add Japanese batch capture that accepts hundreds of vocabulary, kanji, or grammar items without per-item form entry.
+- [x] Add import/export-compatible bulk formats and deterministic summaries for large Japanese study sessions.
+- [x] Implement an adaptive daily study plan algorithm based on target, elapsed time, backlog, and missed sessions.
+- [x] Implement the selected mobile alarm/notification architecture with explicit permission and reliable fallback behavior.
+- [x] Implement the selected local/PWA alarm only; do not add a backend, external push service, or account requirement.
+- [x] Add tests for batch parsing, aggregation at 500+ items, adaptive planning, and notification scheduling logic.
+- [x] Verify mobile UX, performance, and direct-push the overhaul to main.

@@ -1,7 +1,7 @@
 /* Swiss Training Ledger: deterministic unit coverage for stats, range limits, and defensive data normalization. */
 
 import { describe, expect, it } from "vitest";
-import { DailyLog, TrackerStore, getStats, getStreaks, minutesForDate, normalizeLog, rangeDates, saveLog, totalMinutes } from "./tracker";
+import { DailyLog, TrackerStore, getDailyPlan, getStats, getStreaks, japaneseItemCount, minutesForDate, normalizeLog, rangeDates, saveLog, totalMinutes } from "./tracker";
 
 const createLog = (date: string, overrides: Partial<DailyLog> = {}): DailyLog => ({
   date,
@@ -39,5 +39,20 @@ describe("tracker aggregation", () => {
     expect(cleaned.freeMinutes).toBe(0);
     expect(cleaned.japanese[0].studyMinutes).toBe(1440);
     expect(minutesForDate(saved, "2026-08-12")).toBe(0);
+  });
+
+  it("aggregates a 500-item batch without expanding it into manual entry work", () => {
+    const items = Array.from({ length: 500 }, (_, index) => `語彙${index}`);
+    const log = normalizeLog("2026-08-13", { japanese: [], batches: [{ id: "batch", type: "kotoba", jlpt: "N3", items, studyMinutes: 180, sentenceMinutes: 20, note: "SRS import", createdAt: "2026-08-13T00:00:00.000Z" }] });
+    expect(japaneseItemCount(log)).toBe(500);
+    expect(totalMinutes(log)).toBe(200);
+  });
+
+  it("uses a bounded re-entry target after missed sessions and recommends an underrepresented category", () => {
+    const store: TrackerStore = { version: 1, logs: { "2026-08-10": createLog("2026-08-10", { japanese: [{ id: "k", type: "kanji", content: "食", reading: "しょく", jlpt: "N3", studyMinutes: 45, sentence: "", sentenceMinutes: 0 }] }) } };
+    const plan = getDailyPlan(store, "2026-08-13");
+    expect(plan.targetMinutes).toBeLessThan(45);
+    expect(plan.recommendedBlockMinutes).toBeGreaterThan(0);
+    expect(plan.priority).toBe("kotoba");
   });
 });

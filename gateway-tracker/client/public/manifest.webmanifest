@@ -1,0 +1,18 @@
+{
+  "name": "Gateway Tracker",
+  "short_name": "Gateway",
+  "description": "Private daily training and Japanese study tracker.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F4F0E8",
+  "theme_color": "#20221F",
+  "icons": [
+    {
+      "src": "gateway-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

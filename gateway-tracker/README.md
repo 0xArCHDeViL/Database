@@ -4,9 +4,17 @@ Gateway Tracker is a private, local-first daily operating ledger for two paralle
 
 ## What is included
 
-The daily log supports either or both workout toggles. The ladder records round count and minutes, while Cindy records AMRAP rounds and minutes. The Japanese section supports repeated entries for Kotoba, Kanji, or Bunpou, with content, optional reading/furigana, JLPT tags from N5 to N3, study minutes, example sentence, and separate sentence-building minutes. Free minutes and a short note complete the daily checkpoint.
+The daily log supports either or both workout toggles. The ladder records round count and minutes, while Cindy records AMRAP rounds and minutes. Japanese study supports two deliberate paths: a **batch session** for up to 1,000 deduplicated Kotoba, Kanji, or Bunpou items pasted in one operation, and optional manual detail when a reading, example sentence, or grammar note is genuinely useful. Free minutes and one practical note complete the daily checkpoint.
 
-The Rhythm section includes a 12-week contribution heatmap, current and longest streaks, a 14-day line chart, range-aware summary cards, and a category breakdown across Kotoba, Kanji, Bunpou, and Workout. The Export section produces a formatted XLSX workbook with `Summary`, `Daily Log`, `Japanese Detail`, and `Workout Log` sheets, including frozen headers and readable widths.
+The Rhythm section includes a 12-week contribution heatmap, current and longest streaks, a 14-day line chart, range-aware summary cards, and a category breakdown across Kotoba, Kanji, Bunpou, and Workout. The Export section produces a formatted XLSX workbook with `Summary`, `Daily Log`, `Japanese Detail`, `Japanese Batches`, and `Workout Log` sheets, including frozen headers and readable widths.
+
+## Daily pilot, reminders, and batch formats
+
+The daily pilot turns historic logs into one next action. It favours the least-represented Japanese category over the previous 14 days, starts from the configurable Japanese baseline, raises the target slightly only when rhythm is stable, and applies a bounded **re-entry discount** after missed days rather than creating a punishing backlog. The user sees the target rationale in the interface.
+
+The local focus alarm runs a countdown, visual completion state, optional sound, and browser notification permission flow. A configurable daily nudge is evaluated while Gateway is open or installed. Because this is a static GitHub Pages app, it **cannot guarantee an alarm after the browser/app has been fully closed**; the UI states this explicitly instead of implying a background service.
+
+For batch capture, paste one item per line, or separate items with commas or semicolons. Numbered/bulleted prefixes are removed and duplicates are discarded. The batch worksheet exports one session per row, with a newline-preserved item list, so 500 items stay portable without creating 500 manual input fields.
 
 ## Storage model
 
