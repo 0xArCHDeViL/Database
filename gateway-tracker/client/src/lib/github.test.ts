@@ -35,4 +35,18 @@ describe("GitHub append-only backup", () => {
   it("refuses to attempt network sync without the required personal fields", async () => {
     await expect(syncToGitHub(store, { ...config, token: "" })).rejects.toThrow("Isi owner");
   });
+
+  it("surfaces a concurrent latest-pointer conflict rather than silently overwriting it", async () => {
+    const fetchMock = vi.fn()
+      .mockResolvedValueOnce(response(200, { object: { sha: "base-sha" } }))
+      .mockResolvedValueOnce(response(201, { ref: "refs/heads/gateway-tracker-sync" }))
+      .mockResolvedValueOnce(response(404, { message: "Not Found" }))
+      .mockResolvedValueOnce(response(201, { content: { sha: "journal" } }))
+      .mockResolvedValueOnce(response(200, { sha: "latest-sha" }))
+      .mockResolvedValueOnce(response(409, { message: "SHA does not match remote file" }));
+    vi.stubGlobal("fetch", fetchMock);
+
+    await expect(syncToGitHub(store, config)).rejects.toThrow("SHA does not match remote file");
+    expect(fetchMock).toHaveBeenCalledTimes(6);
+  });
 });
