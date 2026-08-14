@@ -29,3 +29,8 @@
 - [x] Implement the selected local/PWA alarm only; do not add a backend, external push service, or account requirement.
 - [x] Add tests for batch parsing, aggregation at 500+ items, adaptive planning, and notification scheduling logic.
 - [x] Verify mobile UX, performance, and direct-push the overhaul to main.
+- [x] Add configurable weekly targets for Kotoba, Kanji, Bunpou, and Workout.
+- [x] Aggregate Monday–Sunday category progress deterministically across manual and batch entries.
+- [x] Show an accessible weekly progress block with category-level progress bars on the dashboard.
+- [x] Add unit coverage for weekly boundaries, batch contribution, targets, and progress percentages.
+- [ ] Verify desktop/mobile UI and push the weekly-target feature directly to main.

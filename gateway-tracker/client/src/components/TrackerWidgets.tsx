@@ -1,7 +1,7 @@
 /* Swiss Training Ledger: reusable data widgets preserve the editorial hierarchy across dashboard sections. */
 
 import { Activity, Dumbbell, Languages, Timer, TrendingUp } from "lucide-react";
-import { getStats, minutesForDate, TrackerStore } from "@/lib/tracker";
+import { getStats, minutesForDate, TrackerStore, WeeklyProgress } from "@/lib/tracker";
 
 export function StatCard({ label, value, note, accent = "ink", icon: Icon }: { label: string; value: string; note: string; accent?: "ink" | "red" | "moss" | "blue"; icon: typeof Activity }) {
   return <div className={`stat-card stat-${accent}`}><div className="stat-top"><span className="eyebrow">{label}</span><Icon size={16} /></div><strong>{value}</strong><span className="stat-note">{note}</span></div>;
@@ -22,6 +22,12 @@ export function CategoryBars({ stats }: { stats: ReturnType<typeof getStats> }) 
   const entries = [{ key: "kotoba", label: "Kotoba", color: "#E84C3D" }, { key: "kanji", label: "Kanji", color: "#A8B78D" }, { key: "bunpou", label: "Bunpou", color: "#8AAEB9" }, { key: "workout", label: "Workout", color: "#20221F" }] as const;
   const max = Math.max(1, ...entries.map((item) => stats.byCategory[item.key]));
   return <div className="category-bars">{entries.map((item) => <div className="category-row" key={item.key}><div className="category-name"><span style={{ background: item.color }} /><b>{item.label}</b><small>{stats.byCategory[item.key]} min</small></div><div className="bar-track"><div className="bar-fill" style={{ width: `${(stats.byCategory[item.key] / max) * 100}%`, background: item.color }} /></div></div>)}</div>;
+}
+
+const weeklyMeta = { kotoba: { label: "Kotoba", color: "#E84C3D" }, kanji: { label: "Kanji", color: "#A8B78D" }, bunpou: { label: "Bunpou", color: "#8AAEB9" }, workout: { label: "Workout", color: "#20221F" } } as const;
+
+export function WeeklyTargetBars({ weekly, from, to, action }: { weekly: WeeklyProgress[]; from: string; to: string; action?: React.ReactNode }) {
+  return <section className="weekly-targets paper-panel" aria-labelledby="weekly-target-title"><div className="weekly-target-head"><div><span className="eyebrow">WEEKLY CONTRACT / {from.slice(5).replace("-", ".")}—{to.slice(5).replace("-", ".")}</span><h3 id="weekly-target-title">Target yang harus ditutup minggu ini.</h3></div>{action}</div><div className="weekly-target-grid">{weekly.map((item) => { const meta = weeklyMeta[item.category]; const label = item.target ? `${item.completed} dari ${item.target} menit` : "Target belum diatur"; return <div className="weekly-target-row" key={item.category}><div className="weekly-target-label"><span style={{ background: meta.color }} /><b>{meta.label}</b><small>{label}</small></div><div className="weekly-progress-track" role="progressbar" aria-label={`Progress mingguan ${meta.label}`} aria-valuemin={0} aria-valuemax={item.target || 1} aria-valuenow={item.completed}><span style={{ width: `${item.percentage}%`, background: meta.color }} /></div><div className="weekly-target-status">{item.target ? item.remaining ? `${item.remaining}m tersisa` : "Target beres" : "Atur target"}</div></div>; })}</div></section>;
 }
 
 export function ProgressLine({ store }: { store: TrackerStore }) {

@@ -1,7 +1,7 @@
 /* Swiss Training Ledger: deterministic unit coverage for stats, range limits, and defensive data normalization. */
 
 import { describe, expect, it } from "vitest";
-import { DailyLog, TrackerStore, getDailyPlan, getStats, getStreaks, japaneseItemCount, minutesForDate, normalizeLog, rangeDates, saveLog, totalMinutes } from "./tracker";
+import { DailyLog, TrackerStore, getDailyPlan, getStats, getStreaks, getWeeklyProgress, japaneseItemCount, minutesForDate, normalizeLog, rangeDates, saveLog, totalMinutes, weekRange } from "./tracker";
 
 const createLog = (date: string, overrides: Partial<DailyLog> = {}): DailyLog => ({
   date,
@@ -54,5 +54,20 @@ describe("tracker aggregation", () => {
     expect(plan.targetMinutes).toBeLessThan(45);
     expect(plan.recommendedBlockMinutes).toBeGreaterThan(0);
     expect(plan.priority).toBe("kotoba");
+  });
+
+  it("aggregates Monday–Sunday targets across manual, batch, and workout progress", () => {
+    const monday = createLog("2026-08-10", { japanese: [{ id: "k", type: "kotoba", content: "覚える", reading: "", jlpt: "N3", studyMinutes: 20, sentence: "", sentenceMinutes: 0 }], batches: [{ id: "batch", type: "kanji", jlpt: "N3", items: ["食", "飲"], studyMinutes: 30, sentenceMinutes: 0, note: "", createdAt: "2026-08-10T00:00:00.000Z" }] });
+    const sunday = createLog("2026-08-16", { workout: { ladder: true, ladderRounds: 10, ladderMinutes: 45, ladderNotes: "", cindy: false, cindyRounds: 0, cindyMinutes: 0, cindyNotes: "" }, japanese: [{ id: "b", type: "bunpou", content: "〜わけではない", reading: "", jlpt: "N3", studyMinutes: 25, sentence: "", sentenceMinutes: 5 }] });
+    const nextWeek = createLog("2026-08-17", { japanese: [{ id: "next", type: "kotoba", content: "翌週", reading: "", jlpt: "N3", studyMinutes: 99, sentence: "", sentenceMinutes: 0 }] });
+    const store: TrackerStore = { version: 1, logs: { "2026-08-10": monday, "2026-08-16": sunday, "2026-08-17": nextWeek }, settings: { dailyJapaneseTarget: 45, focusBlockMinutes: 25, dailyReminderTime: "19:30", weeklyTargets: { kotoba: 40, kanji: 30, bunpou: 30, workout: 60 } } };
+    const weekly = getWeeklyProgress(store, "2026-08-14");
+    expect(weekRange("2026-08-16")).toEqual({ from: "2026-08-10", to: "2026-08-16" });
+    expect(weekly.progress).toEqual([
+      { category: "kotoba", target: 40, completed: 20, remaining: 20, percentage: 50 },
+      { category: "kanji", target: 30, completed: 30, remaining: 0, percentage: 100 },
+      { category: "bunpou", target: 30, completed: 30, remaining: 0, percentage: 100 },
+      { category: "workout", target: 60, completed: 45, remaining: 15, percentage: 75 },
+    ]);
   });
 });

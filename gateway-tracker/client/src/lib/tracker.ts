@@ -1,6 +1,7 @@
 /* Local-first journal: defensive storage, batch study aggregation, and deterministic daily planning. */
 
 export type JapaneseType = "kotoba" | "kanji" | "bunpou";
+export type WeeklyCategory = JapaneseType | "workout";
 export type JLPTLevel = "N5" | "N4" | "N3";
 
 export interface JapaneseEntry {
@@ -50,6 +51,7 @@ export interface TrackerSettings {
   dailyJapaneseTarget: number;
   focusBlockMinutes: number;
   dailyReminderTime: string;
+  weeklyTargets: Record<WeeklyCategory, number>;
 }
 
 export interface TrackerStore {
@@ -70,6 +72,14 @@ export interface DailyPlan {
   instruction: string;
 }
 
+export interface WeeklyProgress {
+  category: WeeklyCategory;
+  target: number;
+  completed: number;
+  remaining: number;
+  percentage: number;
+}
+
 const STORAGE_KEY = "gateway-tracker-v1";
 const MAX_RANGE_DAYS = 3660;
 const MAX_BATCHES_PER_DAY = 100;
@@ -88,11 +98,17 @@ export const blankWorkout = (): WorkoutLog => ({ ladder: false, ladderRounds: 10
 export const blankEntry = (): JapaneseEntry => ({ id: crypto.randomUUID(), type: "kotoba", content: "", reading: "", jlpt: "N3", studyMinutes: 15, sentence: "", sentenceMinutes: 5 });
 export const blankLog = (date: string): DailyLog => ({ date, workout: blankWorkout(), japanese: [blankEntry()], batches: [], freeMinutes: 0, note: "", updatedAt: new Date().toISOString() });
 
-export const defaultSettings = (): TrackerSettings => ({ dailyJapaneseTarget: 45, focusBlockMinutes: 25, dailyReminderTime: "19:30" });
+const defaultWeeklyTargets = (): Record<WeeklyCategory, number> => ({ kotoba: 120, kanji: 75, bunpou: 60, workout: 120 });
+const safeWeeklyTarget = (value: unknown, fallback: number) => Number.isFinite(Number(value)) ? Math.max(0, Math.min(2400, Math.round(Number(value)))) : fallback;
+export const defaultSettings = (): TrackerSettings => ({ dailyJapaneseTarget: 45, focusBlockMinutes: 25, dailyReminderTime: "19:30", weeklyTargets: defaultWeeklyTargets() });
 const normalizeSettings = (value?: Partial<TrackerSettings>): TrackerSettings => ({
   dailyJapaneseTarget: Math.max(15, Math.min(180, safeMinutes(value?.dailyJapaneseTarget) || 45)),
   focusBlockMinutes: Math.max(5, Math.min(90, safeMinutes(value?.focusBlockMinutes) || 25)),
   dailyReminderTime: /^([01]\d|2[0-3]):[0-5]\d$/.test(value?.dailyReminderTime ?? "") ? value?.dailyReminderTime as string : "19:30",
+  weeklyTargets: (Object.keys(defaultWeeklyTargets()) as WeeklyCategory[]).reduce<Record<WeeklyCategory, number>>((targets, category) => {
+    targets[category] = safeWeeklyTarget(value?.weeklyTargets?.[category], defaultWeeklyTargets()[category]);
+    return targets;
+  }, defaultWeeklyTargets()),
 });
 const defaultStore = (): TrackerStore => ({ version: 1, logs: {}, settings: defaultSettings() });
 export const getSettings = (store: TrackerStore) => normalizeSettings(store.settings);
@@ -189,6 +205,27 @@ export function getStats(store: TrackerStore, from: string, to: string) {
   });
   const activeDays = logs.filter((log) => totalMinutes(log) > 0).length;
   return { logs, byCategory, activeDays, totalMinutes: logs.reduce((sum, log) => sum + totalMinutes(log), 0), items: logs.reduce((sum, log) => sum + japaneseItemCount(log), 0) };
+}
+
+export function weekRange(date = isoDate(new Date())) {
+  const cursor = new Date(`${date}T12:00:00`);
+  const offset = (cursor.getDay() + 6) % 7;
+  cursor.setDate(cursor.getDate() - offset);
+  const from = cursor.toISOString().slice(0, 10);
+  cursor.setDate(cursor.getDate() + 6);
+  return { from, to: cursor.toISOString().slice(0, 10) };
+}
+
+export function getWeeklyProgress(store: TrackerStore, date = isoDate(new Date())): { from: string; to: string; progress: WeeklyProgress[] } {
+  const { from, to } = weekRange(date);
+  const stats = getStats(store, from, to).byCategory;
+  const targets = getSettings(store).weeklyTargets;
+  const progress = (Object.keys(targets) as WeeklyCategory[]).map((category) => {
+    const target = targets[category];
+    const completed = stats[category];
+    return { category, target, completed, remaining: Math.max(0, target - completed), percentage: target ? Math.min(100, Math.round((completed / target) * 100)) : 0 };
+  });
+  return { from, to, progress };
 }
 
 function previousDate(date: string, offset: number): string {
