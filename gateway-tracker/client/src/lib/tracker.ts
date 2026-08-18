@@ -3,6 +3,7 @@
 export type JapaneseType = "kotoba" | "kanji" | "bunpou";
 export type WeeklyCategory = JapaneseType | "workout";
 export type JLPTLevel = "N5" | "N4" | "N3";
+export type JapaneseChecklist = Record<JapaneseType, boolean>;
 
 export interface JapaneseEntry {
   id: string;
@@ -40,6 +41,7 @@ export interface WorkoutLog {
 export interface DailyLog {
   date: string;
   workout: WorkoutLog;
+  activities?: JapaneseChecklist;
   japanese: JapaneseEntry[];
   batches?: JapaneseBatch[];
   freeMinutes: number;
@@ -95,8 +97,10 @@ const safeText = (value: unknown, limit = 1000) => typeof value === "string" ? v
 const isDateKey = (value: string) => DATE_KEY.test(value) && !Number.isNaN(new Date(`${value}T12:00:00`).getTime());
 
 export const blankWorkout = (): WorkoutLog => ({ ladder: false, ladderRounds: 10, ladderMinutes: 60, ladderNotes: "", cindy: false, cindyRounds: 0, cindyMinutes: 20, cindyNotes: "" });
+export const japaneseChecklistMinutes: Record<JapaneseType, number> = { kotoba: 25, kanji: 20, bunpou: 20 };
+export const blankJapaneseChecklist = (): JapaneseChecklist => ({ kotoba: false, kanji: false, bunpou: false });
 export const blankEntry = (): JapaneseEntry => ({ id: crypto.randomUUID(), type: "kotoba", content: "", reading: "", jlpt: "N3", studyMinutes: 15, sentence: "", sentenceMinutes: 5 });
-export const blankLog = (date: string): DailyLog => ({ date, workout: blankWorkout(), japanese: [blankEntry()], batches: [], freeMinutes: 0, note: "", updatedAt: new Date().toISOString() });
+export const blankLog = (date: string): DailyLog => ({ date, workout: blankWorkout(), activities: blankJapaneseChecklist(), japanese: [blankEntry()], batches: [], freeMinutes: 0, note: "", updatedAt: new Date().toISOString() });
 
 const defaultWeeklyTargets = (): Record<WeeklyCategory, number> => ({ kotoba: 120, kanji: 75, bunpou: 60, workout: 120 });
 const safeWeeklyTarget = (value: unknown, fallback: number) => Number.isFinite(Number(value)) ? Math.max(0, Math.min(2400, Math.round(Number(value)))) : fallback;
@@ -154,8 +158,12 @@ export function saveLog(store: TrackerStore, log: DailyLog): TrackerStore {
 export const batchItemCount = (batch: JapaneseBatch) => batch.items.length;
 export const batchMinutes = (batch: JapaneseBatch) => batch.items.length ? safeMinutes(batch.studyMinutes) + safeMinutes(batch.sentenceMinutes) : 0;
 export const japaneseBatches = (log: DailyLog) => log.batches ?? [];
+export const japaneseChecklist = (log: DailyLog): JapaneseChecklist => ({ ...blankJapaneseChecklist(), ...log.activities });
+export const japaneseChecklistTotal = (log: DailyLog) => (Object.keys(japaneseChecklistMinutes) as JapaneseType[]).reduce((sum, type) => sum + (japaneseChecklist(log)[type] ? japaneseChecklistMinutes[type] : 0), 0);
+export const completedJapaneseChecks = (log: DailyLog) => (Object.keys(japaneseChecklistMinutes) as JapaneseType[]).filter((type) => japaneseChecklist(log)[type]).length;
 export const japaneseItemCount = (log: DailyLog) => log.japanese.filter((item) => item.content.trim()).length + japaneseBatches(log).reduce((sum, batch) => sum + batchItemCount(batch), 0);
-export const japaneseMinutes = (log: DailyLog) => log.japanese.reduce((sum, item) => item.content.trim() ? sum + safeMinutes(item.studyMinutes) + safeMinutes(item.sentenceMinutes) : sum, 0) + japaneseBatches(log).reduce((sum, batch) => sum + batchMinutes(batch), 0);
+export const categoryJapaneseMinutes = (log: DailyLog, type: JapaneseType) => (japaneseChecklist(log)[type] ? japaneseChecklistMinutes[type] : 0) + log.japanese.filter((item) => item.content.trim() && item.type === type).reduce((sum, item) => sum + safeMinutes(item.studyMinutes) + safeMinutes(item.sentenceMinutes), 0) + japaneseBatches(log).filter((batch) => batch.type === type).reduce((sum, batch) => sum + batchMinutes(batch), 0);
+export const japaneseMinutes = (log: DailyLog) => japaneseChecklistTotal(log) + log.japanese.reduce((sum, item) => item.content.trim() ? sum + safeMinutes(item.studyMinutes) + safeMinutes(item.sentenceMinutes) : sum, 0) + japaneseBatches(log).reduce((sum, batch) => sum + batchMinutes(batch), 0);
 export const workoutMinutes = (log: DailyLog) => (log.workout.ladder ? safeMinutes(log.workout.ladderMinutes) : 0) + (log.workout.cindy ? safeMinutes(log.workout.cindyMinutes) : 0);
 export const totalMinutes = (log: DailyLog) => japaneseMinutes(log) + workoutMinutes(log);
 export const typeLabel: Record<JapaneseType, string> = { kotoba: "Kotoba", kanji: "Kanji", bunpou: "Bunpou" };
@@ -179,6 +187,7 @@ export function normalizeLog(date: string, value: Partial<DailyLog>): DailyLog {
   return {
     date: isDateKey(date) ? date : isoDate(new Date()),
     workout: { ladder: Boolean(workout.ladder), ladderRounds: safeMinutes(workout.ladderRounds), ladderMinutes: safeMinutes(workout.ladderMinutes), ladderNotes: safeText(workout.ladderNotes, 600), cindy: Boolean(workout.cindy), cindyRounds: safeMinutes(workout.cindyRounds), cindyMinutes: safeMinutes(workout.cindyMinutes), cindyNotes: safeText(workout.cindyNotes, 600) },
+    activities: { kotoba: Boolean(value.activities?.kotoba), kanji: Boolean(value.activities?.kanji), bunpou: Boolean(value.activities?.bunpou) },
     japanese: japanese.length ? japanese : [blankEntry()], batches, freeMinutes: safeMinutes(value.freeMinutes), note: safeText(value.note, 600), updatedAt: typeof value.updatedAt === "string" ? value.updatedAt : new Date().toISOString(),
   };
 }
@@ -199,8 +208,7 @@ export function getStats(store: TrackerStore, from: string, to: string) {
   const logs = rangeDates(from, to).map((date) => store.logs[date]).filter(Boolean) as DailyLog[];
   const byCategory = { kotoba: 0, kanji: 0, bunpou: 0, workout: 0 };
   logs.forEach((log) => {
-    log.japanese.forEach((entry) => { if (entry.content.trim()) byCategory[entry.type] += safeMinutes(entry.studyMinutes) + safeMinutes(entry.sentenceMinutes); });
-    japaneseBatches(log).forEach((batch) => { byCategory[batch.type] += batchMinutes(batch); });
+    (Object.keys(japaneseChecklistMinutes) as JapaneseType[]).forEach((type) => { byCategory[type] += categoryJapaneseMinutes(log, type); });
     byCategory.workout += workoutMinutes(log);
   });
   const activeDays = logs.filter((log) => totalMinutes(log) > 0).length;

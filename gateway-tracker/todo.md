@@ -33,4 +33,10 @@
 - [x] Aggregate Monday–Sunday category progress deterministically across manual and batch entries.
 - [x] Show an accessible weekly progress block with category-level progress bars on the dashboard.
 - [x] Add unit coverage for weekly boundaries, batch contribution, targets, and progress percentages.
-- [ ] Verify desktop/mobile UI and push the weekly-target feature directly to main.
+- [x] Verify desktop/mobile UI and push the weekly-target feature directly to main.
+- [x] Replace manual daily activity logging with checkable completion states for today's plan.
+- [x] Present 1,500-rep Ladder as an explicit exercise sequence with rep progression and total-volume context.
+- [x] Present Cindy as explicit 20-minute AMRAP rounds with the 5 pull-up, 10 push-up, 15 squat sequence.
+- [x] Connect workout completion checks to daily and weekly workout progress without requiring round/time entry.
+- [x] Add tests for completion-driven minutes/progress and verify the checklist UX on mobile and desktop.
+- [ ] Push the verified checklist overhaul directly to main.

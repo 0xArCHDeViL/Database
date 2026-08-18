@@ -70,4 +70,11 @@ describe("tracker aggregation", () => {
       { category: "workout", target: 60, completed: 45, remaining: 15, percentage: 75 },
     ]);
   });
+
+  it("counts a checked daily activity and completed workout with their prescribed minutes", () => {
+    const log = normalizeLog("2026-08-14", { activities: { kotoba: true, kanji: false, bunpou: true }, workout: { ladder: false, ladderRounds: 0, ladderMinutes: 60, ladderNotes: "", cindy: true, cindyRounds: 0, cindyMinutes: 20, cindyNotes: "" } });
+    const store: TrackerStore = { version: 1, logs: { "2026-08-14": log } };
+    expect(totalMinutes(log)).toBe(65);
+    expect(getStats(store, "2026-08-14", "2026-08-14").byCategory).toEqual({ kotoba: 25, kanji: 0, bunpou: 20, workout: 20 });
+  });
 });
