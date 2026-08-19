@@ -38,10 +38,27 @@ export interface WorkoutLog {
   cindyNotes: string;
 }
 
+export type SessionKind = JapaneseType | "ladder" | "cindy";
+export type SessionSelection = Record<SessionKind, boolean>;
+export type LadderExercise = "pullups" | "dips" | "pressups" | "situps" | "airSquats";
+export type CindyExercise = "pullups" | "pressups" | "airSquats";
+export interface SessionDraft {
+  date: string;
+  selected: SessionSelection;
+  ladderChecks: Record<LadderExercise, boolean[]>;
+  cindyChecks: Record<CindyExercise, boolean[]>;
+  ladderRounds: boolean[];
+  cindyRounds: boolean[];
+  cindyTimerDone: boolean;
+  japaneseBlocks: Record<JapaneseType, boolean[]>;
+}
+
 export interface DailyLog {
   date: string;
   workout: WorkoutLog;
   activities?: JapaneseChecklist;
+  milestoneMinutes?: Record<JapaneseType, number>;
+  milestoneItems?: Record<JapaneseType, number>;
   japanese: JapaneseEntry[];
   batches?: JapaneseBatch[];
   freeMinutes: number;
@@ -61,6 +78,7 @@ export interface TrackerStore {
   logs: Record<string, DailyLog>;
   lastSyncedAt?: string;
   settings?: TrackerSettings;
+  drafts?: Record<string, SessionDraft>;
 }
 
 export interface DailyPlan {
@@ -87,6 +105,11 @@ const MAX_RANGE_DAYS = 3660;
 const MAX_BATCHES_PER_DAY = 100;
 const MAX_ITEMS_PER_BATCH = 1000;
 const DATE_KEY = /^\d{4}-\d{2}-\d{2}$/;
+export const ladderRoundNumbers = [...Array.from({ length: 10 }, (_, index) => index + 1), ...Array.from({ length: 9 }, (_, index) => 9 - index)];
+export const cindyRepsPerRound = 30;
+export const japaneseMilestonePlan: Record<JapaneseType, { blocks: number; itemsPerBlock: number; minutesPerBlock: number }> = { kotoba: { blocks: 5, itemsPerBlock: 100, minutesPerBlock: 20 }, kanji: { blocks: 3, itemsPerBlock: 10, minutesPerBlock: 15 }, bunpou: { blocks: 3, itemsPerBlock: 1, minutesPerBlock: 15 } };
+export const ladderExercisePlan: Array<{ key: LadderExercise; label: string; multiplier: number }> = [{ key: "pullups", label: "Pull-up", multiplier: 1 }, { key: "dips", label: "Dip", multiplier: 2 }, { key: "pressups", label: "Press-up", multiplier: 3 }, { key: "situps", label: "Sit-up", multiplier: 4 }, { key: "airSquats", label: "Air squat", multiplier: 5 }];
+export const cindyExercisePlan: Array<{ key: CindyExercise; label: string; reps: number }> = [{ key: "pullups", label: "Pull-up", reps: 5 }, { key: "pressups", label: "Press-up", reps: 10 }, { key: "airSquats", label: "Air squat", reps: 15 }];
 
 const safeMinutes = (value: unknown) => {
   const numeric = Number(value);
@@ -101,6 +124,7 @@ export const japaneseChecklistMinutes: Record<JapaneseType, number> = { kotoba: 
 export const blankJapaneseChecklist = (): JapaneseChecklist => ({ kotoba: false, kanji: false, bunpou: false });
 export const blankEntry = (): JapaneseEntry => ({ id: crypto.randomUUID(), type: "kotoba", content: "", reading: "", jlpt: "N3", studyMinutes: 15, sentence: "", sentenceMinutes: 5 });
 export const blankLog = (date: string): DailyLog => ({ date, workout: blankWorkout(), activities: blankJapaneseChecklist(), japanese: [blankEntry()], batches: [], freeMinutes: 0, note: "", updatedAt: new Date().toISOString() });
+export const blankSessionDraft = (date: string): SessionDraft => ({ date, selected: { kotoba: false, kanji: false, bunpou: false, ladder: false, cindy: false }, ladderChecks: { pullups: ladderRoundNumbers.map(() => false), dips: ladderRoundNumbers.map(() => false), pressups: ladderRoundNumbers.map(() => false), situps: ladderRoundNumbers.map(() => false), airSquats: ladderRoundNumbers.map(() => false) }, cindyChecks: { pullups: Array.from({ length: 30 }, () => false), pressups: Array.from({ length: 30 }, () => false), airSquats: Array.from({ length: 30 }, () => false) }, ladderRounds: ladderRoundNumbers.map(() => false), cindyRounds: Array.from({ length: 30 }, () => false), cindyTimerDone: false, japaneseBlocks: { kotoba: Array.from({ length: japaneseMilestonePlan.kotoba.blocks }, () => false), kanji: Array.from({ length: japaneseMilestonePlan.kanji.blocks }, () => false), bunpou: Array.from({ length: japaneseMilestonePlan.bunpou.blocks }, () => false) } });
 
 const defaultWeeklyTargets = (): Record<WeeklyCategory, number> => ({ kotoba: 120, kanji: 75, bunpou: 60, workout: 120 });
 const safeWeeklyTarget = (value: unknown, fallback: number) => Number.isFinite(Number(value)) ? Math.max(0, Math.min(2400, Math.round(Number(value)))) : fallback;
@@ -114,7 +138,7 @@ const normalizeSettings = (value?: Partial<TrackerSettings>): TrackerSettings =>
     return targets;
   }, defaultWeeklyTargets()),
 });
-const defaultStore = (): TrackerStore => ({ version: 1, logs: {}, settings: defaultSettings() });
+const defaultStore = (): TrackerStore => ({ version: 1, logs: {}, drafts: {}, settings: defaultSettings() });
 export const getSettings = (store: TrackerStore) => normalizeSettings(store.settings);
 export const saveSettings = (store: TrackerStore, settings: Partial<TrackerSettings>): TrackerStore => ({ ...store, settings: normalizeSettings({ ...getSettings(store), ...settings }) });
 
@@ -129,7 +153,12 @@ export function readStore(): TrackerStore {
       next[date] = normalizeLog(date, log);
       return next;
     }, {});
-    return { version: 1, logs, lastSyncedAt: typeof parsed.lastSyncedAt === "string" ? parsed.lastSyncedAt : undefined, settings: normalizeSettings(parsed.settings) };
+    const drafts = Object.entries(parsed.drafts ?? {}).reduce<Record<string, SessionDraft>>((next, [date, draft]) => {
+      if (!isDateKey(date) || !draft) return next;
+      next[date] = normalizeDraft(date, draft);
+      return next;
+    }, {});
+    return { version: 1, logs, drafts, lastSyncedAt: typeof parsed.lastSyncedAt === "string" ? parsed.lastSyncedAt : undefined, settings: normalizeSettings(parsed.settings) };
   } catch {
     return defaultStore();
   }
@@ -155,15 +184,53 @@ export function saveLog(store: TrackerStore, log: DailyLog): TrackerStore {
   return { ...store, logs: { ...store.logs, [normalized.date]: { ...normalized, updatedAt: new Date().toISOString() } } };
 }
 
+export function normalizeDraft(date: string, value?: Partial<SessionDraft>): SessionDraft {
+  const fallback = blankSessionDraft(date);
+  const selected = (Object.keys(fallback.selected) as SessionKind[]).reduce<SessionSelection>((next, key) => ({ ...next, [key]: Boolean(value?.selected?.[key]) }), fallback.selected);
+  const flagList = (source: unknown, length: number) => Array.from({ length }, (_, index) => Boolean(Array.isArray(source) && source[index]));
+  return { date: isDateKey(date) ? date : isoDate(new Date()), selected, ladderChecks: { pullups: flagList(value?.ladderChecks?.pullups, ladderRoundNumbers.length), dips: flagList(value?.ladderChecks?.dips, ladderRoundNumbers.length), pressups: flagList(value?.ladderChecks?.pressups, ladderRoundNumbers.length), situps: flagList(value?.ladderChecks?.situps, ladderRoundNumbers.length), airSquats: flagList(value?.ladderChecks?.airSquats, ladderRoundNumbers.length) }, cindyChecks: { pullups: flagList(value?.cindyChecks?.pullups, 30), pressups: flagList(value?.cindyChecks?.pressups, 30), airSquats: flagList(value?.cindyChecks?.airSquats, 30) }, ladderRounds: flagList(value?.ladderRounds, ladderRoundNumbers.length), cindyRounds: flagList(value?.cindyRounds, 30), cindyTimerDone: Boolean(value?.cindyTimerDone), japaneseBlocks: { kotoba: flagList(value?.japaneseBlocks?.kotoba, japaneseMilestonePlan.kotoba.blocks), kanji: flagList(value?.japaneseBlocks?.kanji, japaneseMilestonePlan.kanji.blocks), bunpou: flagList(value?.japaneseBlocks?.bunpou, japaneseMilestonePlan.bunpou.blocks) } };
+}
+
+export function getDraft(store: TrackerStore, date: string): SessionDraft { return normalizeDraft(date, store.drafts?.[date]); }
+export function saveDraft(store: TrackerStore, draft: SessionDraft): TrackerStore { const normalized = normalizeDraft(draft.date, draft); return { ...store, drafts: { ...store.drafts, [normalized.date]: normalized } }; }
+export function checkedCount(values: boolean[]) { return values.filter(Boolean).length; }
+export function ladderRoundComplete(draft: SessionDraft, index: number) { return ladderExercisePlan.every((exercise) => draft.ladderChecks[exercise.key][index]); }
+export function cindyRoundComplete(draft: SessionDraft, index: number) { return cindyExercisePlan.every((exercise) => draft.cindyChecks[exercise.key][index]); }
+export function ladderRoundsComplete(draft: SessionDraft) { return ladderRoundNumbers.filter((_, index) => ladderRoundComplete(draft, index)).length; }
+export function cindyRoundsComplete(draft: SessionDraft) { return Array.from({ length: 30 }, (_, index) => cindyRoundComplete(draft, index)).filter(Boolean).length; }
+export function ladderReps(draft: SessionDraft) { return ladderExercisePlan.reduce((sum, exercise) => sum + draft.ladderChecks[exercise.key].reduce((exerciseTotal, checked, index) => exerciseTotal + (checked ? ladderRoundNumbers[index] * exercise.multiplier : 0), 0), 0); }
+export function cindyReps(draft: SessionDraft) { return cindyExercisePlan.reduce((sum, exercise) => sum + checkedCount(draft.cindyChecks[exercise.key]) * exercise.reps, 0); }
+export function cindyProgress(draft: SessionDraft) { const milestones = cindyExercisePlan.reduce((sum, exercise) => sum + checkedCount(draft.cindyChecks[exercise.key]), 0); const totalMilestones = cindyExercisePlan.length * 30; const percentage = Math.round((milestones / totalMilestones) * 100); const estimatedMinutes = draft.cindyTimerDone ? 20 : Math.min(20, Math.max(0, Math.round((percentage / 100) * 20))); return { milestones, totalMilestones, percentage, estimatedMinutes, completedRounds: cindyRoundsComplete(draft), reps: cindyReps(draft) }; }
+export function japaneseDraftMinutes(draft: SessionDraft, type: JapaneseType) { const plan = japaneseMilestonePlan[type]; return checkedCount(draft.japaneseBlocks[type]) * plan.minutesPerBlock; }
+export function japaneseDraftItems(draft: SessionDraft, type: JapaneseType) { const plan = japaneseMilestonePlan[type]; return checkedCount(draft.japaneseBlocks[type]) * plan.itemsPerBlock; }
+export function isDraftComplete(draft: SessionDraft) {
+  const selectedKinds = (Object.keys(draft.selected) as SessionKind[]).filter((kind) => draft.selected[kind]);
+  if (!selectedKinds.length) return false;
+  return selectedKinds.every((kind) => kind === "ladder" ? ladderRoundNumbers.every((_, index) => ladderRoundComplete(draft, index)) : kind === "cindy" ? draft.cindyTimerDone && cindyRoundsComplete(draft) > 0 : draft.japaneseBlocks[kind].every(Boolean));
+}
+
+export function submitDraft(store: TrackerStore, date: string): TrackerStore {
+  const draft = getDraft(store, date);
+  if (!isDraftComplete(draft)) return store;
+  const existing = getLog(store, date);
+  const milestoneMinutes = (Object.keys(japaneseMilestonePlan) as JapaneseType[]).reduce<Record<JapaneseType, number>>((next, type) => ({ ...next, [type]: draft.selected[type] ? japaneseDraftMinutes(draft, type) : 0 }), { kotoba: 0, kanji: 0, bunpou: 0 });
+  const milestoneItems = (Object.keys(japaneseMilestonePlan) as JapaneseType[]).reduce<Record<JapaneseType, number>>((next, type) => ({ ...next, [type]: draft.selected[type] ? japaneseDraftItems(draft, type) : 0 }), { kotoba: 0, kanji: 0, bunpou: 0 });
+  const log = normalizeLog(date, { ...existing, activities: blankJapaneseChecklist(), japanese: [], batches: [], milestoneMinutes, milestoneItems, workout: { ...blankWorkout(), ladder: draft.selected.ladder, ladderRounds: draft.selected.ladder ? ladderRoundsComplete(draft) : 0, ladderMinutes: draft.selected.ladder ? 60 : 0, cindy: draft.selected.cindy, cindyRounds: draft.selected.cindy ? cindyRoundsComplete(draft) : 0, cindyMinutes: draft.selected.cindy ? 20 : 0 } });
+  const { [date]: _submitted, ...drafts } = store.drafts ?? {};
+  return { ...saveLog(store, log), drafts };
+}
+
 export const batchItemCount = (batch: JapaneseBatch) => batch.items.length;
 export const batchMinutes = (batch: JapaneseBatch) => batch.items.length ? safeMinutes(batch.studyMinutes) + safeMinutes(batch.sentenceMinutes) : 0;
 export const japaneseBatches = (log: DailyLog) => log.batches ?? [];
 export const japaneseChecklist = (log: DailyLog): JapaneseChecklist => ({ ...blankJapaneseChecklist(), ...log.activities });
 export const japaneseChecklistTotal = (log: DailyLog) => (Object.keys(japaneseChecklistMinutes) as JapaneseType[]).reduce((sum, type) => sum + (japaneseChecklist(log)[type] ? japaneseChecklistMinutes[type] : 0), 0);
 export const completedJapaneseChecks = (log: DailyLog) => (Object.keys(japaneseChecklistMinutes) as JapaneseType[]).filter((type) => japaneseChecklist(log)[type]).length;
-export const japaneseItemCount = (log: DailyLog) => log.japanese.filter((item) => item.content.trim()).length + japaneseBatches(log).reduce((sum, batch) => sum + batchItemCount(batch), 0);
-export const categoryJapaneseMinutes = (log: DailyLog, type: JapaneseType) => (japaneseChecklist(log)[type] ? japaneseChecklistMinutes[type] : 0) + log.japanese.filter((item) => item.content.trim() && item.type === type).reduce((sum, item) => sum + safeMinutes(item.studyMinutes) + safeMinutes(item.sentenceMinutes), 0) + japaneseBatches(log).filter((batch) => batch.type === type).reduce((sum, batch) => sum + batchMinutes(batch), 0);
-export const japaneseMinutes = (log: DailyLog) => japaneseChecklistTotal(log) + log.japanese.reduce((sum, item) => item.content.trim() ? sum + safeMinutes(item.studyMinutes) + safeMinutes(item.sentenceMinutes) : sum, 0) + japaneseBatches(log).reduce((sum, batch) => sum + batchMinutes(batch), 0);
+export const milestoneMinutes = (log: DailyLog, type: JapaneseType) => safeMinutes(log.milestoneMinutes?.[type]);
+export const milestoneItems = (log: DailyLog, type: JapaneseType) => safeMinutes(log.milestoneItems?.[type]);
+export const japaneseItemCount = (log: DailyLog) => (Object.keys(japaneseMilestonePlan) as JapaneseType[]).reduce((sum, type) => sum + milestoneItems(log, type), 0) + log.japanese.filter((item) => item.content.trim()).length + japaneseBatches(log).reduce((sum, batch) => sum + batchItemCount(batch), 0);
+export const categoryJapaneseMinutes = (log: DailyLog, type: JapaneseType) => milestoneMinutes(log, type) + (japaneseChecklist(log)[type] ? japaneseChecklistMinutes[type] : 0) + log.japanese.filter((item) => item.content.trim() && item.type === type).reduce((sum, item) => sum + safeMinutes(item.studyMinutes) + safeMinutes(item.sentenceMinutes), 0) + japaneseBatches(log).filter((batch) => batch.type === type).reduce((sum, batch) => sum + batchMinutes(batch), 0);
+export const japaneseMinutes = (log: DailyLog) => (Object.keys(japaneseMilestonePlan) as JapaneseType[]).reduce((sum, type) => sum + milestoneMinutes(log, type), 0) + japaneseChecklistTotal(log) + log.japanese.reduce((sum, item) => item.content.trim() ? sum + safeMinutes(item.studyMinutes) + safeMinutes(item.sentenceMinutes) : sum, 0) + japaneseBatches(log).reduce((sum, batch) => sum + batchMinutes(batch), 0);
 export const workoutMinutes = (log: DailyLog) => (log.workout.ladder ? safeMinutes(log.workout.ladderMinutes) : 0) + (log.workout.cindy ? safeMinutes(log.workout.cindyMinutes) : 0);
 export const totalMinutes = (log: DailyLog) => japaneseMinutes(log) + workoutMinutes(log);
 export const typeLabel: Record<JapaneseType, string> = { kotoba: "Kotoba", kanji: "Kanji", bunpou: "Bunpou" };
@@ -188,6 +255,8 @@ export function normalizeLog(date: string, value: Partial<DailyLog>): DailyLog {
     date: isDateKey(date) ? date : isoDate(new Date()),
     workout: { ladder: Boolean(workout.ladder), ladderRounds: safeMinutes(workout.ladderRounds), ladderMinutes: safeMinutes(workout.ladderMinutes), ladderNotes: safeText(workout.ladderNotes, 600), cindy: Boolean(workout.cindy), cindyRounds: safeMinutes(workout.cindyRounds), cindyMinutes: safeMinutes(workout.cindyMinutes), cindyNotes: safeText(workout.cindyNotes, 600) },
     activities: { kotoba: Boolean(value.activities?.kotoba), kanji: Boolean(value.activities?.kanji), bunpou: Boolean(value.activities?.bunpou) },
+    milestoneMinutes: { kotoba: safeMinutes(value.milestoneMinutes?.kotoba), kanji: safeMinutes(value.milestoneMinutes?.kanji), bunpou: safeMinutes(value.milestoneMinutes?.bunpou) },
+    milestoneItems: { kotoba: safeMinutes(value.milestoneItems?.kotoba), kanji: safeMinutes(value.milestoneItems?.kanji), bunpou: safeMinutes(value.milestoneItems?.bunpou) },
     japanese: japanese.length ? japanese : [blankEntry()], batches, freeMinutes: safeMinutes(value.freeMinutes), note: safeText(value.note, 600), updatedAt: typeof value.updatedAt === "string" ? value.updatedAt : new Date().toISOString(),
   };
 }

@@ -39,4 +39,17 @@
 - [x] Present Cindy as explicit 20-minute AMRAP rounds with the 5 pull-up, 10 push-up, 15 squat sequence.
 - [x] Connect workout completion checks to daily and weekly workout progress without requiring round/time entry.
 - [x] Add tests for completion-driven minutes/progress and verify the checklist UX on mobile and desktop.
-- [ ] Push the verified checklist overhaul directly to main.
+- [x] Push the verified checklist overhaul directly to main.
+- [x] Replace category-level checks with per-session milestone checks that persist as an unsubmitted draft.
+- [x] Model Ladder rounds as explicit per-exercise milestones and derive rep/volume totals from checked milestones.
+- [x] Model Cindy rounds as explicit 5–10–15 milestones and derive rounds, reps, and estimated duration from checks.
+- [x] Model Japanese practice as pre-defined daily milestones; only submitted completions become logged progress.
+- [x] Add a submit-session gate that atomically calculates and records the completed session, then resets the draft.
+- [x] Test rep algorithms, incomplete-session handling, submission idempotency, and weekly aggregation after submit.
+- [x] Split every Ladder rung into pull-up, dip, press-up, sit-up, and air-squat milestones before the rung is complete.
+- [x] Split each Cindy round into 5 pull-up, 10 press-up, and 15 air-squat milestones with a derived progress estimate.
+- [x] Prove submitted milestones update weekly totals exactly once while drafts remain excluded.
+- [x] Derive and display Cindy milestone completion percentage plus estimated elapsed minutes toward its 20-minute session.
+- [x] Add unit coverage for the derived Cindy milestone progress estimate.
+- [x] Test partial Cindy milestone pace before the 20-minute timer is marked complete.
+- [ ] Verify mobile/desktop milestone UX and push the corrected workflow directly to main.

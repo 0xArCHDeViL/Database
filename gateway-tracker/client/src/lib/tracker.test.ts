@@ -1,7 +1,7 @@
 /* Swiss Training Ledger: deterministic unit coverage for stats, range limits, and defensive data normalization. */
 
 import { describe, expect, it } from "vitest";
-import { DailyLog, TrackerStore, getDailyPlan, getStats, getStreaks, getWeeklyProgress, japaneseItemCount, minutesForDate, normalizeLog, rangeDates, saveLog, totalMinutes, weekRange } from "./tracker";
+import { blankSessionDraft, cindyExercisePlan, cindyProgress, cindyReps, DailyLog, getDailyPlan, getStats, getStreaks, getWeeklyProgress, isDraftComplete, japaneseItemCount, ladderExercisePlan, ladderReps, minutesForDate, normalizeLog, rangeDates, saveDraft, saveLog, submitDraft, totalMinutes, TrackerStore, weekRange } from "./tracker";
 
 const createLog = (date: string, overrides: Partial<DailyLog> = {}): DailyLog => ({
   date,
@@ -76,5 +76,49 @@ describe("tracker aggregation", () => {
     const store: TrackerStore = { version: 1, logs: { "2026-08-14": log } };
     expect(totalMinutes(log)).toBe(65);
     expect(getStats(store, "2026-08-14", "2026-08-14").byCategory).toEqual({ kotoba: 25, kanji: 0, bunpou: 20, workout: 20 });
+  });
+
+  it("keeps partial milestone checks out of history until a selected session is complete", () => {
+    const draft = blankSessionDraft("2026-08-18");
+    draft.selected.ladder = true;
+    draft.ladderChecks.pullups[0] = true;
+    const pending = saveDraft({ version: 1, logs: {} }, draft);
+    expect(isDraftComplete(draft)).toBe(false);
+    expect(submitDraft(pending, "2026-08-18").logs).toEqual({});
+    expect(pending.drafts?.["2026-08-18"]?.ladderChecks.pullups[0]).toBe(true);
+    expect(getWeeklyProgress(pending, "2026-08-18").progress.find((item) => item.category === "workout")?.completed).toBe(0);
+  });
+
+  it("calculates workout and Japanese milestones only at atomic session submit", () => {
+    const draft = blankSessionDraft("2026-08-18");
+    draft.selected.ladder = true;
+    draft.selected.cindy = true;
+    draft.selected.kotoba = true;
+    ladderExercisePlan.forEach((exercise) => { draft.ladderChecks[exercise.key] = draft.ladderChecks[exercise.key].map(() => true); });
+    cindyExercisePlan.forEach((exercise) => { draft.cindyChecks[exercise.key] = draft.cindyChecks[exercise.key].map((_, index) => index < 27); });
+    draft.cindyTimerDone = true;
+    draft.japaneseBlocks.kotoba = draft.japaneseBlocks.kotoba.map(() => true);
+    expect(ladderReps(draft)).toBe(1500);
+    expect(cindyReps(draft)).toBe(810);
+    expect(cindyProgress(draft)).toMatchObject({ completedRounds: 27, reps: 810, percentage: 90, estimatedMinutes: 20 });
+    expect(isDraftComplete(draft)).toBe(true);
+    const submitted = submitDraft(saveDraft({ version: 1, logs: {} }, draft), "2026-08-18");
+    const log = submitted.logs["2026-08-18"];
+    expect(log.workout).toMatchObject({ ladder: true, ladderRounds: 19, ladderMinutes: 60, cindy: true, cindyRounds: 27, cindyMinutes: 20 });
+    expect(japaneseItemCount(log)).toBe(500);
+    expect(totalMinutes(log)).toBe(180);
+    expect(submitted.drafts?.["2026-08-18"]).toBeUndefined();
+    expect(getWeeklyProgress(submitted, "2026-08-18").progress).toEqual(expect.arrayContaining([
+      expect.objectContaining({ category: "kotoba", completed: 100 }),
+      expect.objectContaining({ category: "workout", completed: 80 }),
+    ]));
+    expect(submitDraft(submitted, "2026-08-18")).toBe(submitted);
+  });
+
+  it("estimates Cindy pace from partial 5–10–15 milestones before the timer closes", () => {
+    const draft = blankSessionDraft("2026-08-18");
+    draft.selected.cindy = true;
+    cindyExercisePlan.forEach((exercise) => { draft.cindyChecks[exercise.key] = draft.cindyChecks[exercise.key].map((_, index) => index < 3); });
+    expect(cindyProgress(draft)).toEqual({ milestones: 9, totalMilestones: 90, percentage: 10, estimatedMinutes: 2, completedRounds: 3, reps: 90 });
   });
 });
