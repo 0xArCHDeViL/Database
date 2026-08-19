@@ -42,6 +42,8 @@ export type SessionKind = JapaneseType | "ladder" | "cindy";
 export type SessionSelection = Record<SessionKind, boolean>;
 export type LadderExercise = "pullups" | "dips" | "pressups" | "situps" | "airSquats";
 export type CindyExercise = "pullups" | "pressups" | "airSquats";
+export const cindyTargetPresets = [10, 20, 27] as const;
+export type CindyTarget = (typeof cindyTargetPresets)[number];
 export interface SessionDraft {
   date: string;
   selected: SessionSelection;
@@ -49,6 +51,7 @@ export interface SessionDraft {
   cindyChecks: Record<CindyExercise, boolean[]>;
   ladderRounds: boolean[];
   cindyRounds: boolean[];
+  cindyTarget: CindyTarget;
   cindyTimerDone: boolean;
   japaneseBlocks: Record<JapaneseType, boolean[]>;
 }
@@ -124,7 +127,7 @@ export const japaneseChecklistMinutes: Record<JapaneseType, number> = { kotoba: 
 export const blankJapaneseChecklist = (): JapaneseChecklist => ({ kotoba: false, kanji: false, bunpou: false });
 export const blankEntry = (): JapaneseEntry => ({ id: crypto.randomUUID(), type: "kotoba", content: "", reading: "", jlpt: "N3", studyMinutes: 15, sentence: "", sentenceMinutes: 5 });
 export const blankLog = (date: string): DailyLog => ({ date, workout: blankWorkout(), activities: blankJapaneseChecklist(), japanese: [blankEntry()], batches: [], freeMinutes: 0, note: "", updatedAt: new Date().toISOString() });
-export const blankSessionDraft = (date: string): SessionDraft => ({ date, selected: { kotoba: false, kanji: false, bunpou: false, ladder: false, cindy: false }, ladderChecks: { pullups: ladderRoundNumbers.map(() => false), dips: ladderRoundNumbers.map(() => false), pressups: ladderRoundNumbers.map(() => false), situps: ladderRoundNumbers.map(() => false), airSquats: ladderRoundNumbers.map(() => false) }, cindyChecks: { pullups: Array.from({ length: 30 }, () => false), pressups: Array.from({ length: 30 }, () => false), airSquats: Array.from({ length: 30 }, () => false) }, ladderRounds: ladderRoundNumbers.map(() => false), cindyRounds: Array.from({ length: 30 }, () => false), cindyTimerDone: false, japaneseBlocks: { kotoba: Array.from({ length: japaneseMilestonePlan.kotoba.blocks }, () => false), kanji: Array.from({ length: japaneseMilestonePlan.kanji.blocks }, () => false), bunpou: Array.from({ length: japaneseMilestonePlan.bunpou.blocks }, () => false) } });
+export const blankSessionDraft = (date: string): SessionDraft => ({ date, selected: { kotoba: false, kanji: false, bunpou: false, ladder: false, cindy: false }, ladderChecks: { pullups: ladderRoundNumbers.map(() => false), dips: ladderRoundNumbers.map(() => false), pressups: ladderRoundNumbers.map(() => false), situps: ladderRoundNumbers.map(() => false), airSquats: ladderRoundNumbers.map(() => false) }, cindyChecks: { pullups: Array.from({ length: 20 }, () => false), pressups: Array.from({ length: 20 }, () => false), airSquats: Array.from({ length: 20 }, () => false) }, ladderRounds: ladderRoundNumbers.map(() => false), cindyRounds: Array.from({ length: 30 }, () => false), cindyTarget: 20, cindyTimerDone: false, japaneseBlocks: { kotoba: Array.from({ length: japaneseMilestonePlan.kotoba.blocks }, () => false), kanji: Array.from({ length: japaneseMilestonePlan.kanji.blocks }, () => false), bunpou: Array.from({ length: japaneseMilestonePlan.bunpou.blocks }, () => false) } });
 
 const defaultWeeklyTargets = (): Record<WeeklyCategory, number> => ({ kotoba: 120, kanji: 75, bunpou: 60, workout: 120 });
 const safeWeeklyTarget = (value: unknown, fallback: number) => Number.isFinite(Number(value)) ? Math.max(0, Math.min(2400, Math.round(Number(value)))) : fallback;
@@ -188,7 +191,9 @@ export function normalizeDraft(date: string, value?: Partial<SessionDraft>): Ses
   const fallback = blankSessionDraft(date);
   const selected = (Object.keys(fallback.selected) as SessionKind[]).reduce<SessionSelection>((next, key) => ({ ...next, [key]: Boolean(value?.selected?.[key]) }), fallback.selected);
   const flagList = (source: unknown, length: number) => Array.from({ length }, (_, index) => Boolean(Array.isArray(source) && source[index]));
-  return { date: isDateKey(date) ? date : isoDate(new Date()), selected, ladderChecks: { pullups: flagList(value?.ladderChecks?.pullups, ladderRoundNumbers.length), dips: flagList(value?.ladderChecks?.dips, ladderRoundNumbers.length), pressups: flagList(value?.ladderChecks?.pressups, ladderRoundNumbers.length), situps: flagList(value?.ladderChecks?.situps, ladderRoundNumbers.length), airSquats: flagList(value?.ladderChecks?.airSquats, ladderRoundNumbers.length) }, cindyChecks: { pullups: flagList(value?.cindyChecks?.pullups, 30), pressups: flagList(value?.cindyChecks?.pressups, 30), airSquats: flagList(value?.cindyChecks?.airSquats, 30) }, ladderRounds: flagList(value?.ladderRounds, ladderRoundNumbers.length), cindyRounds: flagList(value?.cindyRounds, 30), cindyTimerDone: Boolean(value?.cindyTimerDone), japaneseBlocks: { kotoba: flagList(value?.japaneseBlocks?.kotoba, japaneseMilestonePlan.kotoba.blocks), kanji: flagList(value?.japaneseBlocks?.kanji, japaneseMilestonePlan.kanji.blocks), bunpou: flagList(value?.japaneseBlocks?.bunpou, japaneseMilestonePlan.bunpou.blocks) } };
+  const rawCindyTarget = Number(value?.cindyTarget);
+  const cindyTarget: CindyTarget = cindyTargetPresets.includes(rawCindyTarget as CindyTarget) ? rawCindyTarget as CindyTarget : 20;
+  return { date: isDateKey(date) ? date : isoDate(new Date()), selected, ladderChecks: { pullups: flagList(value?.ladderChecks?.pullups, ladderRoundNumbers.length), dips: flagList(value?.ladderChecks?.dips, ladderRoundNumbers.length), pressups: flagList(value?.ladderChecks?.pressups, ladderRoundNumbers.length), situps: flagList(value?.ladderChecks?.situps, ladderRoundNumbers.length), airSquats: flagList(value?.ladderChecks?.airSquats, ladderRoundNumbers.length) }, cindyChecks: { pullups: flagList(value?.cindyChecks?.pullups, cindyTarget), pressups: flagList(value?.cindyChecks?.pressups, cindyTarget), airSquats: flagList(value?.cindyChecks?.airSquats, cindyTarget) }, ladderRounds: flagList(value?.ladderRounds, ladderRoundNumbers.length), cindyRounds: flagList(value?.cindyRounds, 30), cindyTarget, cindyTimerDone: Boolean(value?.cindyTimerDone), japaneseBlocks: { kotoba: flagList(value?.japaneseBlocks?.kotoba, japaneseMilestonePlan.kotoba.blocks), kanji: flagList(value?.japaneseBlocks?.kanji, japaneseMilestonePlan.kanji.blocks), bunpou: flagList(value?.japaneseBlocks?.bunpou, japaneseMilestonePlan.bunpou.blocks) } };
 }
 
 export function getDraft(store: TrackerStore, date: string): SessionDraft { return normalizeDraft(date, store.drafts?.[date]); }
@@ -197,16 +202,16 @@ export function checkedCount(values: boolean[]) { return values.filter(Boolean).
 export function ladderRoundComplete(draft: SessionDraft, index: number) { return ladderExercisePlan.every((exercise) => draft.ladderChecks[exercise.key][index]); }
 export function cindyRoundComplete(draft: SessionDraft, index: number) { return cindyExercisePlan.every((exercise) => draft.cindyChecks[exercise.key][index]); }
 export function ladderRoundsComplete(draft: SessionDraft) { return ladderRoundNumbers.filter((_, index) => ladderRoundComplete(draft, index)).length; }
-export function cindyRoundsComplete(draft: SessionDraft) { return Array.from({ length: 30 }, (_, index) => cindyRoundComplete(draft, index)).filter(Boolean).length; }
+export function cindyRoundsComplete(draft: SessionDraft) { return Array.from({ length: draft.cindyTarget }, (_, index) => cindyRoundComplete(draft, index)).filter(Boolean).length; }
 export function ladderReps(draft: SessionDraft) { return ladderExercisePlan.reduce((sum, exercise) => sum + draft.ladderChecks[exercise.key].reduce((exerciseTotal, checked, index) => exerciseTotal + (checked ? ladderRoundNumbers[index] * exercise.multiplier : 0), 0), 0); }
-export function cindyReps(draft: SessionDraft) { return cindyExercisePlan.reduce((sum, exercise) => sum + checkedCount(draft.cindyChecks[exercise.key]) * exercise.reps, 0); }
-export function cindyProgress(draft: SessionDraft) { const milestones = cindyExercisePlan.reduce((sum, exercise) => sum + checkedCount(draft.cindyChecks[exercise.key]), 0); const totalMilestones = cindyExercisePlan.length * 30; const percentage = Math.round((milestones / totalMilestones) * 100); const estimatedMinutes = draft.cindyTimerDone ? 20 : Math.min(20, Math.max(0, Math.round((percentage / 100) * 20))); return { milestones, totalMilestones, percentage, estimatedMinutes, completedRounds: cindyRoundsComplete(draft), reps: cindyReps(draft) }; }
+export function cindyReps(draft: SessionDraft) { return cindyExercisePlan.reduce((sum, exercise) => sum + checkedCount(draft.cindyChecks[exercise.key].slice(0, draft.cindyTarget)) * exercise.reps, 0); }
+export function cindyProgress(draft: SessionDraft) { const milestones = cindyExercisePlan.reduce((sum, exercise) => sum + checkedCount(draft.cindyChecks[exercise.key].slice(0, draft.cindyTarget)), 0); const totalMilestones = cindyExercisePlan.length * draft.cindyTarget; const percentage = Math.round((milestones / totalMilestones) * 100); const estimatedMinutes = draft.cindyTimerDone ? 20 : Math.min(20, Math.max(0, Math.round((percentage / 100) * 20))); return { targetRounds: draft.cindyTarget, milestones, totalMilestones, percentage, estimatedMinutes, completedRounds: cindyRoundsComplete(draft), reps: cindyReps(draft) }; }
 export function japaneseDraftMinutes(draft: SessionDraft, type: JapaneseType) { const plan = japaneseMilestonePlan[type]; return checkedCount(draft.japaneseBlocks[type]) * plan.minutesPerBlock; }
 export function japaneseDraftItems(draft: SessionDraft, type: JapaneseType) { const plan = japaneseMilestonePlan[type]; return checkedCount(draft.japaneseBlocks[type]) * plan.itemsPerBlock; }
 export function isDraftComplete(draft: SessionDraft) {
   const selectedKinds = (Object.keys(draft.selected) as SessionKind[]).filter((kind) => draft.selected[kind]);
   if (!selectedKinds.length) return false;
-  return selectedKinds.every((kind) => kind === "ladder" ? ladderRoundNumbers.every((_, index) => ladderRoundComplete(draft, index)) : kind === "cindy" ? draft.cindyTimerDone && cindyRoundsComplete(draft) > 0 : draft.japaneseBlocks[kind].every(Boolean));
+  return selectedKinds.every((kind) => kind === "ladder" ? ladderRoundNumbers.every((_, index) => ladderRoundComplete(draft, index)) : kind === "cindy" ? draft.cindyTimerDone && cindyRoundsComplete(draft) === draft.cindyTarget : draft.japaneseBlocks[kind].every(Boolean));
 }
 
 export function submitDraft(store: TrackerStore, date: string): TrackerStore {

@@ -94,13 +94,14 @@ describe("tracker aggregation", () => {
     draft.selected.ladder = true;
     draft.selected.cindy = true;
     draft.selected.kotoba = true;
+    draft.cindyTarget = 27;
     ladderExercisePlan.forEach((exercise) => { draft.ladderChecks[exercise.key] = draft.ladderChecks[exercise.key].map(() => true); });
-    cindyExercisePlan.forEach((exercise) => { draft.cindyChecks[exercise.key] = draft.cindyChecks[exercise.key].map((_, index) => index < 27); });
+    cindyExercisePlan.forEach((exercise) => { draft.cindyChecks[exercise.key] = Array.from({ length: 27 }, () => true); });
     draft.cindyTimerDone = true;
     draft.japaneseBlocks.kotoba = draft.japaneseBlocks.kotoba.map(() => true);
     expect(ladderReps(draft)).toBe(1500);
     expect(cindyReps(draft)).toBe(810);
-    expect(cindyProgress(draft)).toMatchObject({ completedRounds: 27, reps: 810, percentage: 90, estimatedMinutes: 20 });
+    expect(cindyProgress(draft)).toMatchObject({ targetRounds: 27, completedRounds: 27, reps: 810, percentage: 100, estimatedMinutes: 20 });
     expect(isDraftComplete(draft)).toBe(true);
     const submitted = submitDraft(saveDraft({ version: 1, logs: {} }, draft), "2026-08-18");
     const log = submitted.logs["2026-08-18"];
@@ -119,6 +120,18 @@ describe("tracker aggregation", () => {
     const draft = blankSessionDraft("2026-08-18");
     draft.selected.cindy = true;
     cindyExercisePlan.forEach((exercise) => { draft.cindyChecks[exercise.key] = draft.cindyChecks[exercise.key].map((_, index) => index < 3); });
-    expect(cindyProgress(draft)).toEqual({ milestones: 9, totalMilestones: 90, percentage: 10, estimatedMinutes: 2, completedRounds: 3, reps: 90 });
+    expect(cindyProgress(draft)).toEqual({ targetRounds: 20, milestones: 9, totalMilestones: 60, percentage: 15, estimatedMinutes: 3, completedRounds: 3, reps: 90 });
+  });
+
+  it("uses each Cindy preset as the completion and pace denominator", () => {
+    ([10, 20, 27] as const).forEach((target) => {
+      const draft = blankSessionDraft("2026-08-18");
+      draft.selected.cindy = true;
+      draft.cindyTarget = target;
+      cindyExercisePlan.forEach((exercise) => { draft.cindyChecks[exercise.key] = Array.from({ length: target }, () => true); });
+      draft.cindyTimerDone = true;
+      expect(cindyProgress(draft)).toMatchObject({ targetRounds: target, totalMilestones: target * 3, percentage: 100, completedRounds: target, reps: target * 30, estimatedMinutes: 20 });
+      expect(isDraftComplete(draft)).toBe(true);
+    });
   });
 });

@@ -52,4 +52,8 @@
 - [x] Derive and display Cindy milestone completion percentage plus estimated elapsed minutes toward its 20-minute session.
 - [x] Add unit coverage for the derived Cindy milestone progress estimate.
 - [x] Test partial Cindy milestone pace before the 20-minute timer is marked complete.
-- [ ] Verify mobile/desktop milestone UX and push the corrected workflow directly to main.
+- [x] Verify mobile/desktop milestone UX and push the corrected workflow directly to main.
+- [x] Add Cindy target presets for 10, 20, and 27 rounds before starting a session.
+- [x] Resize the Cindy milestone board, completion gate, and pace denominator to the selected target.
+- [x] Add unit tests for each Cindy preset and retain safe normalization for old draft data.
+- [ ] Verify mobile/desktop preset selector and push the feature directly to main.
